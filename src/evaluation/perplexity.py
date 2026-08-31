@@ -12,9 +12,20 @@ from src.utils.common import configure_logging, resolve_device
 from src.utils.modeling import load_causal_lm, load_tokenizer
 
 
+def evaluation_files(eval_dir: Path) -> list[Path]:
+    """Return evaluation text files recursively, including nested corpora."""
+    return sorted(
+        path for path in eval_dir.rglob("*")
+        if path.is_file() and path.suffix.lower() == ".txt"
+    )
+
+
 def corpus_ids(eval_dir: Path, tokenizer) -> list[int]:
     ids=[]
-    for path in sorted(eval_dir.glob("*.txt")):
+    files = evaluation_files(eval_dir)
+    if not files:
+        raise ValueError(f"No evaluation .txt files found recursively under {eval_dir}")
+    for path in files:
         ids.extend([tokenizer.bos_token_id] + tokenizer(path.read_text(encoding="utf-8",errors="replace"),add_special_tokens=False)["input_ids"] + [tokenizer.eos_token_id])
     return ids
 
@@ -39,11 +50,10 @@ def run(base_model: str, cpt_model: str, eval_dir: Path, output: Path, model_id_
     base_ppl=perplexity(base,ids,seq_len); cpt_ppl=perplexity(cpt,ids,seq_len); improvement=(base_ppl-cpt_ppl)/base_ppl*100
     output.parent.mkdir(parents=True,exist_ok=True)
     with output.open("w",newline="",encoding="utf-8") as h:
-        w=csv.DictWriter(h,fieldnames=["base_model","cpt_model","evaluation_documents","base_ppl","cpt_ppl","percentage_improvement"]);w.writeheader();w.writerow({"base_model":base_model,"cpt_model":cpt_model,"evaluation_documents":len(list(eval_dir.glob('*.txt'))),"base_ppl":round(base_ppl,4),"cpt_ppl":round(cpt_ppl,4),"percentage_improvement":round(improvement,2)})
+        w=csv.DictWriter(h,fieldnames=["base_model","cpt_model","evaluation_documents","base_ppl","cpt_ppl","percentage_improvement"]);w.writeheader();w.writerow({"base_model":base_model,"cpt_model":cpt_model,"evaluation_documents":len(evaluation_files(eval_dir)),"base_ppl":round(base_ppl,4),"cpt_ppl":round(cpt_ppl,4),"percentage_improvement":round(improvement,2)})
     logger.info("Base PPL %.3f | CPT PPL %.3f | improvement %.2f%%",base_ppl,cpt_ppl,improvement)
 
 
 if __name__ == "__main__":
     p=argparse.ArgumentParser(description=__doc__);p.add_argument("--base-model",default=SETTINGS.model_id);p.add_argument("--cpt-model",type=Path,default=SETTINGS.models_dir/"cpt_model");p.add_argument("--eval-dir",type=Path,default=SETTINGS.eval_corpus);p.add_argument("--output",type=Path,default=SETTINGS.results_dir/"perplexity"/"ppl_results.csv");p.add_argument("--tokenizer-model",default=SETTINGS.model_id);p.add_argument("--seq-len",type=int,default=SETTINGS.max_seq_length)
     a=p.parse_args();run(a.base_model,str(a.cpt_model),a.eval_dir,a.output,a.tokenizer_model,a.seq_len,configure_logging("perplexity"))
-
