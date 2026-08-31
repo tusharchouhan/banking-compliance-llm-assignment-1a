@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import inspect
 import json
 from pathlib import Path
 
@@ -47,11 +48,35 @@ def run(model_id: str, packed_data: Path, output_dir: Path, loss_path: Path, max
     set_seed(seed); tokenizer=load_tokenizer(model_id); model=load_causal_lm(model_id,training=True); dataset=PackedParquetDataset(packed_data)
     callback=LossCaptureCallback(loss_path)
     use_bf16 = _cuda_available() and _bf16_supported()
-    args=TrainingArguments(output_dir=str(output_dir),overwrite_output_dir=True,per_device_train_batch_size=1,
-        gradient_accumulation_steps=8,learning_rate=learning_rate,weight_decay=0.01,max_steps=max_steps,
-        warmup_ratio=warmup_ratio,logging_strategy="steps",logging_steps=10,save_strategy="steps",save_steps=100,
-        save_total_limit=2,report_to=[],remove_unused_columns=False,fp16=_cuda_available() and not use_bf16,bf16=use_bf16,
-        optim="adamw_torch",seed=seed)
+    training_kwargs={
+        "output_dir":str(output_dir),
+        "overwrite_output_dir":True,
+        "per_device_train_batch_size":1,
+        "gradient_accumulation_steps":8,
+        "learning_rate":learning_rate,
+        "weight_decay":0.01,
+        "max_steps":max_steps,
+        "warmup_ratio":warmup_ratio,
+        "logging_strategy":"steps",
+        "logging_steps":10,
+        "save_strategy":"steps",
+        "save_steps":100,
+        "save_total_limit":2,
+        "report_to":[],
+        "remove_unused_columns":False,
+        "fp16":_cuda_available() and not use_bf16,
+        "bf16":use_bf16,
+        "optim":"adamw_torch",
+        "seed":seed,
+    }
+    # Transformers has renamed/removed a few TrainingArguments fields across
+    # releases. Keep the assignment settings, but pass only fields supported
+    # by the installed version so Colab runtime updates do not stop CPT.
+    supported=set(inspect.signature(TrainingArguments.__init__).parameters)
+    unsupported=sorted(set(training_kwargs)-supported)
+    if unsupported:
+        logger.warning("Ignoring unsupported TrainingArguments fields: %s", ", ".join(unsupported))
+    args=TrainingArguments(**{key:value for key,value in training_kwargs.items() if key in supported})
     trainer=Trainer(model=model,args=args,train_dataset=dataset,data_collator=PackedCollator(),callbacks=[callback])
     trainer.train(); trainer.save_model(output_dir); tokenizer.save_pretrained(output_dir)
     logger.info("Saved CPT model and tokenizer to %s",output_dir)
