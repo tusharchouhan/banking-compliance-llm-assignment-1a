@@ -1,0 +1,1865 @@
+[Page 1]
+1 
+ 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+(INVESTMENT ADVISERS) REGULATIONS, 2013 
+(Amended upto November 25, 2025) 
+No. LAD-NRO/GN/2012-13/31/1778.-In exercise of the powers conferred by sub -section (1) 
+of Section 30 read with clause (b) of sub -section (2) of Section 11 of the Securities and 
+Exchange Board of India Act, 1992 (15 of 1992), the Securities and Exchange Board of India 
+hereby, makes the following regulations, namely, — 
+ 
+CHAPTER I 
+PRELIMINARY 
+Short title and commencement. 
+1. (1) These regulations may be called the Securities and Exchange Board of India 
+(Investment Advisers) Regulations, 2013. 
+(2) These regulations shall come into force on the ninetieth day from the date of their 
+publication in the Official Gazette. 
+Definitions. 
+2. (1) In these regulations, unless the context otherwise requires, the terms defined 
+herein shall bear the meanings assigned to them below, and their cognate expressions 
+shall be construed accordingly,–   
+(a)  “Act” means the Securities and Exchange Board of India Act, 1992 (15 of 1992); 
+1[(aa) “accreditation agency” shall have the same meaning as assigned to it in clause 
+(aa) of sub -regulation (1) of regulation 2 of the Securities and Exchange Board of 
+India (Alternative Investment Funds) Regulations, 2012; 
+(ab) “accredited investor” shall have the same meaning as assigned to it under 
+clause (ab ) of sub -regulation (1) of regulation 2 of the Securities and Exchange 
+Board of India (Alternative Investment Funds) Regulations, 2012;] 
+2[3[(ac)]  “assets under advice” shall mean the aggregate net asset value  of securities        
+4[***] for which the in vestment adviser has rendered investment advice 
+                                                 
+1 Inserted by the SEBI (Investment Advisers) (Third Amendment) Regulations, 2021, w.e.f. 03-08-2021.  
+2 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020.  
+3 Substituted for “(aa)” by the SEBI (Investment Advisers) (Third Amendment) Regulations, 2021, w.e.f. 03 -
+08-2021.  
+ 
+4 Omitted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its omission, the following words of clause (ac) read as under:
+
+[Page 2]
+2 
+ 
+irrespective of whether the implementation services are provided by 
+investment adviser or concluded by the client directly or through other service 
+providers;] 
+(b)  "Board" means the Securities and Exchange B oard of India established under 
+section 3 of the Act; 
+(c)    “body corporate” shall have the meaning assigned to it in or  5[under sub -
+section (11) of section 2 of the Companies Act, 2013 (18 of 2013)]; 
+(d)     “certificate” means a certificate of registration granted under these regulations; 
+6[(e) “Change in control” – 
+(i) in case of a body corporate –  
+(A) if its shares are listed on any recognised stock exchange, shall be construed 
+with reference to the definition of control in terms of regulations framed  under 
+clause (h) of sub-section (2) of section 11 of the Act;  
+(B) if its shares are not listed on any recognised stock exchange, shall be 
+construed with reference to the definition of control as provided in sub -section 
+(27) of Section 2 of the Companies Act, 2013 (18 of 2013);   
+(ii) in a case other than that of a body corporate, shall be construed as any change in 
+its legal formation or ownership or change in controlling interest. 
+Explanation – For the purpose of sub -clause (ii), the expression “controll ing 
+interest” means an interest, direct or indirect, to the extent of not less than fifty 
+percent of voting rights or interest;] 
+                                                                                                                                                        
+“and investment products” 
+ 
+5 Substituted for the words, symbols and numbers “under sub -section (7) of section 2 of the Companies Act, 
+1956 (1 of 1956)” by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+6 Substituted by the Securities and Exchange Board of India (Change in Control in Intermediarie s) 
+(Amendment) Regulations, 2023 w.e.f. 17-1-2023. Prior to its substitution, clause (e) read as under: 
+““change in control” in relation to a company or a body corporate, means:  
+(i) if its shares are listed on any recognized stock exchange, change in control within the meaning of 
+clause (e) of sub -regulation (1) of regulation 2 of the Securities and Exchange Board of India 
+(Substantial Acquisition of Shares and Takeovers) Regulations, 2011;  
+(ii) in any other case, change in the controlling interest or change in legal form.  
+Explanation.─ For the purpose of sub -clause (ii), the expression “controlling interest” means an 
+interest, whether direct or indirect, to the extent of more than fifty percent of voting rights or interest;”
+
+[Page 3]
+3 
+ 
+(f) “company” means a company incorporated under the Companies Act, 1956  7[or 
+Companies Act, 2013]; 
+(g) “consideration” means a ny form of economic benefit including non -cash benefit, 
+received or receivable for providing investment advice; 
+ 8[(ga) 9[***] 
+(gb)   “family of client” shall include individual client, dependent spouse, dependent   
+children and dependent parents; 
+(gc)  “family of an individual investment adviser” shall include individual 
+investment adviser, spouse, children and parents;] 
+(h) “financial planning” shall include analysis of clients ’ current financial situation, 
+identification of their financial goals, and dev eloping and recommending financial 
+strategies to realise such goals; 
+(i)  “firm” means a partnership firm registered  under  Indian Partnership Act, 1932 (9 of 
+1932); 
+(j) “form” means any of the forms set out in the First Schedule;  
+(k) “inspecting authori ty” means any one or more persons appointed by the Board  to 
+exercise powers conferred under regulation 23; 
+(l) “investment advice” means advice relating to investing in, purchasing, selling or 
+otherwise dealing in securities 10[***] and  advice on investme nt portfolio containing 
+securities 11[***] whether written, oral or through any other means of communication 
+for the benefit of the client and shall include financial planning:  
+                                                 
+7 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+8 ibid. 
+ 
+9 Omitted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its omission, clause (ga) read as under; 
+“ (ga) “CPE” means continuing professional education in terms of clause (f) of sub regulation (1) of 
+regulation 2 of the SEBI (Certification of Associated Persons in the Securities Markets) Regulations, 
+2007;” 
+10 Omitted by the Securities and Exchange Board of India (In vestment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its omission, the following words of clause (l) read as under  
+“and investment products” 
+ 
+11 Omitted by the Securities and Exchange Board of India (Investment Advisers) (Se cond Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its omission, the following words of clause (l) read as under  
+“and investment products”
+
+[Page 4]
+4 
+ 
+Provided that investment advice given through newspaper, magazines, any electro nic 
+or  broadcasting or telecommunications medium, which is widely available to the 
+public shall not be considered as investment advice for the purpose of these 
+regulations; 
+12[Provided further that trading calls shall not be considered as investment advice  for 
+purpose of these regulations.] 
+(m)  “investment adviser” means any person, who for consideration, is engaged in the 
+business of providing investment advice to clients or other persons or group of 
+persons and includes 13[a part-time investment adviser o r] any person who holds out 
+himself as an investment adviser, by whatever name called; 
+(n)   “limited liability partnership” means a partnership formed and registered under The 
+Limited Liability Partnership Act, 2008(6 of  2009); 
+(o) “NBFC” means a Non-Banking Financial Company regulated by Reserve Bank of India; 
+(p) “NISM” means the National Institute of Securities Market established by the Board; 
+14[(pa) “non-individual” means a body corporate including a limited liability partnership 
+and a partnership firm;] 
+15[(pb) “other business activity or employment” means such business activity or 
+employment which is not related to securities and:  
+a. it does not involve handling or managing of money or funds of client or 
+person; or  
+b. it is not related to providing advice or recommendation to any client or 
+person in respect of any products or assets for investment purposes;] 
+(q) “partner” means partner of the firm or a limited liability partnership who renders 
+investment advice on behalf of the firm or limited liability partnership; 
+16[(qa) “part-time investment adviser” means an individual or a firm, who for consideration, 
+is engaged in the business of providing investment advice and is also engaged in any 
+other business activity or employment;] 
+                                                 
+12 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+13 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+14 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+15 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024.
+
+[Page 5]
+5 
+ 
+17[(r) “persons associa ted with investment advice” shall mean any member, partner, 
+officer, director or employee or any sales staff of such investment adviser including any 
+person occupying a similar status or performing a similar function irrespective of the 
+nature of association with the investment adviser who is engaged in providing investment 
+advisory services to the clients of the investment adviser; 
+   Explanation. — 
+All client -facing persons such as sales  staff, service relationship managers , client 
+relationship managers , etc., by whatever name called shall be deemed to be persons 
+associated with investment advice , but do not include persons who discharge clerical or 
+office administrative functions where there is no client interface.] 
+18[(s) “principal officer” in case of non-individual investment adviser engaged:  
+(i) solely in providing investment advisory services, shall mean the managing director 
+or designated director or managing partner or executive chairman of the board or 
+equivalent management body who is responsible for the overall function of the business 
+and operations of non-individual investment adviser;  
+(ii) in the activities other than investment advisory services, through separate 
+departments/divisions, may be the person at the management level who is a busine ss 
+head or unit head, responsible for the overall function of the business and operations 
+related to investment advisory services:  
+Provided that in case of non-individual investment adviser being a partnership firm, one 
+of the partners shall be designated as its principal officer:  
+Provided further that where no partner of firm registered as an investment adviser has 
+minimum qualification and certification requirements provided in these regulations, it 
+shall apply for registration as an investment adviser in the form of a limited liability 
+partnership or a body corporate within such time as may be specified by the Board.  
+Explanation. — The provisions of sub clause (i) shall also be applicable to the principal 
+officer of a non-individual entity registered both as an investment adviser and a research 
+analyst but engaged in no other business activity.] 
+19[(t) “research analyst” means any person registered under Securities and Exchange 
+Board of India (Research Analysts) Regulations, 2014;  
+                                                                                                                                                        
+16 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+17 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause (r) read as under;                                                                                              
+“(r) “representative” means an employee or an agent of an investment adviser who renders investment 
+advice on behalf of that investment adviser.” 
+ 
+18 Substituted by the  Securities and Exchange Board of India (Investment Advisers) (Second Ame ndment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its substitution, clause (s) read as under; 
+“(s) “principal  officer”  shall  mean  the  managing director  or  designated  director  or managing 
+partner or executive chairman of the board or equivalen t management body who  is  responsible  for  
+the  overall  function  of  the  business  and  operations  of  non-individual investment adviser.”
+
+[Page 6]
+6 
+ 
+(u) “trading calls” sh all have the same meaning as assigned to it under clause (zc) of 
+sub-regulation (1) of regulation (2) of the Securities and Exchange Board of India 
+(Research Analysts) Regulations, 2014.] 
+(2) The words and expressions used and not defined in these regulati ons but defined 
+in the Act, the Securities Contracts (Regulation) Act, 1956 (42 of 1956), the 
+20[Companies Act, 2013 (18 of 2013)], or any rules or regulations made thereunder shall 
+have the same meanings respectively assigned to them in those Acts, rules o r 
+regulations made thereunder or any statutory modification or re -enactment thereto, as 
+the case may be. 
+ 
+CHAPTER II 
+REGISTRATION OF INVESTMENT ADVISERS 
+Application for grant of certificate. 
+3. (1) On and from the commencement of these regulations, no person shall act as an 
+investment adviser or hold itself out as an investment adviser unless he has obtained a 
+certificate of registration from the Board under these regulations: 
+21[***] 
+22[(1A) Notwithstanding anything contained in sub-regulation (1), any application made 
+by a person prior to coming into force of these regulations containing such particulars 
+or as near thereto as mention ed in Form A of First Schedule shall be treated as an 
+application made in pursuance of sub-regulation (1) and dealt with accordingly;] 
+(2) An application for grant of certificate of registration shall be made in Form A as 
+specified in the First Schedule to these regulations and shall be accompanied by a non -
+refundable application fee to be paid in the manner specified in Second Schedule.  
+23[(3) On and from the date of commencement of these regulations, no person,  while 
+dealing in distribution of securities,  shall use the nomenclature “Independent Financial 
+Adviser or IFA or Wealth Adviser or any other similar name ” unless registered with the 
+Board as Investment Adviser.”] 
+                                                                                                                                                        
+19 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+20 Substituted for the words, symbols and numbers “Companies Act, 1956 (1 of 1956)” by the SEBI (Investment 
+Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+21 Omitted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to its 
+omission, regulation 3(1) proviso read as under;  
+“Provided that a person acting as an investment adviser immediately before the commencement of 
+these regulations may continue to do so for a period of six months from such commencement or, if it 
+has made an application for a certificate under sub -regulation (2) within the said period of six months, 
+till the disposal of such application.” 
+22 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+23 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020.
+
+[Page 7]
+7 
+ 
+Exemption from registration. 
+4. The following persons shall not be required to seek registration under regulation 3 
+subject to the fulfillment of the conditions stipulated therefor, — 
+(a) Any person who gives general comment s in good faith in regard to trends in the 
+financial or securities market or the economic situation where such comments do 
+not specify any particular securities or investment product; 
+(b) Any insurance agent or insurance broker who offers investment advice sol ely in 
+insurance products and is registered with Insurance Regulatory and Development 
+Authority for such activity; 
+(c) Any pension advisor who offers investment advice solely on pension products and 
+is registered with Pension Fund Regulatory and Development Au thority for such 
+activity; 
+(d) Any distributor of mutual funds, who is a member of a self regulatory organisation 
+recognised by the Board or is registered with an association of asset management 
+companies of mutual funds, providing any investment advice to its clients 
+incidental to its primary activity; 
+(e) Any a dvocate, solicitor or law firm, who provides investment advice to their 
+clients, incidental to their legal practise; 
+(f) Any member of Institute of Chartered Accountants of India , Institute of Company 
+Secretaries of India , Institute of Cost and Works Accountants of India , Actuarial 
+Society of India or any other professional body as may be specified by the Board , 
+who provides investment advice to their clients, incidental to his professional 
+service; 
+(g) Any s tock br oker 24[***] registered under SEBI (Stock Broker s 25[***]) 
+Regulations, 1992, portfolio manager registered under SEBI (Portfolio Managers) 
+Regulations, 1993 or merchant banker registered under SEBI (Merchant Bankers) 
+Regulations, 1992, who provides any investment advice to its clients incidental to 
+their primary activity: 
+Provided that such intermediaries shall comply with the general obligation(s) and 
+responsibilities as specified in Chapter III of these regulations: 
+Provided further that existing portfolio manager offering only investment advisory 
+services may apply for registration under these regulations after expiry of his 
+current certificate of registration as a portfolio manager;  
+(h) Any f und manager, by whatever name called of a mutual fund, alternative 
+investment fund or any other intermediary or entity registered with the Board;  
+                                                 
+24 Omitted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25-11-2025. 
+25 ibid.
+
+[Page 8]
+8 
+ 
+(i) Any person who provide s investment advice exclusively to clients based out of 
+India:  
+Provided that persons providing investment advice to Non-Resident Indian  or 
+Person of Indian Origin shall fall within the purview of these regulations; 
+(j) Any 26[principal officer, persons associated with advice ] and partner of  an 
+investment adviser which is registered under these regulations:  
+Provided that such 27[principal officer, persons associated with advice] and partner 
+shall comply with regulation 7 of these regulations; 
+(k) Any other person as may be specified by the Board. 
+Furnishing of further information, clarification and personal representation. 
+5. (1) The Board may require the applicant to furnish further information or clarification 
+regarding matters relevant to investment advisory services for the purpose of 
+consideration of the application filed under sub-regulation (2) of regulation 3. 
+(2) The applicant or his au thorised representative, if so required, shall appear before 
+the Board for personal representation. 
+Consideration of application and eligibility criteria.  
+6. For the purpose of the grant of certificate the Board shall take into account all matters 
+which are relevant to the grant of certificate of registration and in particular the 
+following, namely, — 
+(a) whether the applicant is an individual or 28[a non-individual]; 
+29[(b) in case the applicant is an individual, he and all persons associated with 
+investment advic e are appropriately qualified and certified as specified in 
+regulation 7;] 
+30[(c) in case the applicant is a body corporate, the principal officer and all persons 
+associated with investment advice of the applicant are appropriately qualified and 
+certified as specified in regulation 7;] 
+                                                 
+26 Substituted for  the word  “representative” by the SEBI (I nvestment Advisers) (Amendment) Regulations, 
+2020, w.e.f. 30-09-2020. 
+ 
+27 ibid 
+28 Substituted for the words “a body corporate or a firm”  by the SEBI (I nvestment Advisers) (Amendment) 
+Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+29 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause (b) read as under; 
+“whether in case the applicant is an individual, he is appropriately qualified and certified as specified 
+in regulation 7;”. 
+ 
+30 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause (c) read as under;
+
+[Page 9]
+9 
+ 
+31[(d) in case the applicant is a firm or a limited liability partnership, the principal 
+officer and all persons associated with investment advice of the applicant are 
+appropriately qualified and certified as specified in regulation 7;]  
+(e)  whether the applicant fulfills the 32[deposit] requirements as specified in regulation 
+8;  
+33[(f) whether the applicant, its partners, principal officer and persons associated with 
+investment advice, if any, are fit and proper persons based o n the criteria as 
+specified in Schedule II of the Securities and Exchange Board of India 
+(Intermediaries) Regulations, 2008;] 
+(g) whether the applicant has the necessary infrastructure to effectively discharge the 
+activities of an investment adviser; 
+(h) whether t he applicant or any person directly or indirectly connected with the 
+applicant has in the past been refused certificate by the Board and if so, the 
+grounds for such refusal;  
+(i) whether any disciplinary action has been taken by the Board or any other 
+regulatory authority against any person directly or indirectly connected to the 
+applicant under the respective Act, rules or regulations made thereunder;  
+(j) In case a bank or an NBFC proposes to undertake investment advisory services, 
+whether it has been permitted b y Reserve Bank of India  and the application is 
+made through a subsidiary or separately identifiable department or division; 
+(k) In case a ny 34[non-individual], other than a Bank or NBFC, which proposes to 
+undertake investment advisory services, whether, the app lication is made through 
+a separately identifiable department or division; 
+                                                                                                                                                        
+“whether in case the applicant is a body corporate, all the representatives of the applicant who  provide 
+investment advice are appropriately qualified and certified as specified in regulation 7;”  
+ 
+31 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause (d) read as under;  
+“whether in case the applicant is a firm or a limited liability partnership, all partners who are engaged 
+in giving investment advice are qualified and certified as specified in regulation 7;” 
+ 
+32   Substituted for the word  “networth” by the Securities and Exc hange Board of India (Investment Advisers) 
+(Second Amendment) Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+33 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause (f) read as under; 
+“whether the applicant, its representatives and partners, if any, are fit and proper persons based on the 
+criteria as specified in Schedule II of the Securities and Exchange Board of India (Intermediaries) 
+Regulations, 2008;” 
+ 
+34 Substituted for the words “body corporate” by the SEBI (I nvestment Advisers) (Amendment) Regulations, 
+2020, w.e.f. 30-09-2020.
+
+[Page 10]
+10 
+ 
+(l) In case an entity incorporated outside India undertakes to provide investment 
+advisory services under these regulations, whether, it has set up a subsidiary in 
+India and whether such subsidiary has made the application for registration; 
+(m) In case a foreign citizen proposes to undertake investment advisory services, 
+whether the applicant has set up an  office in India  and proposes to undertake 
+investment advisory services through such office; 
+35[(n) Whether the applicant is enlisted with a body or body corporate recognised under 
+regulation 14: 
+Provided  that  the  existing  investment  advisers  shall  be  deemed  to  be  
+enlisted  with  such  a  body  or  body corporate from the date of r ecognition of 
+such body or body corporate: 
+Provided further that the applicant whose application is received before the date 
+of recognition of the body or body corporate as provided under regulation 14 and 
+who is granted the certificate after the date of r ecognition of such body or body 
+corporate shall also be deemed to be enlisted with such a body or body 
+corporate.] 
+36[Qualification and certification requirement. 
+                                                 
+35 Substituted by the Securities and Exchange Board of India (Investment Advisers) (Amendment) Regulations, 
+2024, w.e.f. 25-07-2024. Prior to substitution, it read as under:   
+“(n)Whether the applicant is a member of a recognized body or body corporate as specified under 
+regulation 14: 
+Provided that the existing investment advisers shall comply with the requirement under this clause in 
+such manner as may be specified by the Board.” 
+ 
+36 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, regulation 7 read as under; 
+“Qualification and certification requirement. 
+7(1) An individual registered as an investment adviser under these regulations and partners and 
+representatives of an investment adviser registered under these regulations offering investment advice 
+shall have the following minimum qualifications, at all times: 
+(a) A professional qualification o r post -graduate degree or post graduate diploma in finance, 
+accountancy, business management, commerce, economics, capital market, banking, 
+insurance or actuarial science from a university or an institution recognized by the central 
+government or any state  government or a recognised foreign university or institution or 
+association; or  
+(b) A graduate in any discipline with an experience of at least five years in activities relating to 
+advice in financial products or securities or fund or asset or portfolio mana gement.  
+(2) An individual registered as an investment adviser and partners and representatives of investment 
+advisers registered under these regulations offering investment advice shall have, at all times, a 
+certification on financial planning or fund or asset or portfolio management or investment advisory 
+services:  
+(a) from NISM; or 
+(b) from any other organization or institution including Financial Planning Standards Board 
+India or any recognized stock exchange in India provided that such certification is 
+accredited by NISM.: 
+Provided that the existing investment advisers seeking registration under these regulations shall ensure 
+that their partners and representatives obtain such certification within two years from the date of 
+commencement of these regulations:
+
+[Page 11]
+11 
+ 
+7. (1) An individual investment adviser or a principal officer of a non -individual 
+investment adviser registered as an investment advise r under these regulations  37[or 
+persons associated with investment advice] , shall have the following minimum 
+qualification, at all times - 
+38[(a) A graduate degree or any equivalent educational qualification from a university 
+or institution recognized by the  Central Government or any State Government or 
+a recognised foreign university or institution or association or CFA Charter from 
+the CFA Institute, and  relevant certification from NISM or from any other 
+organization or institution accredited by NISM; or] 
+(b) 39[***] 
+40[(c) A Post Graduate Program in the S ecurities Market (Investment  Advisory) 
+from NISM or a Post Graduate Program in Financial Planning from NISM or any 
+other program of NISM as may be specified by the Board.] 
+  
+Provided that [the]41 investment advisers registered under thes e regulations as on 
+the date of commencement of these regulations shall ensure that the individual 
+investment adviser or principal officer of a non -individual investment adviser 
+registered under these regulations and persons associated with investment advi ce 
+                                                                                                                                                        
+Provided further that fresh certification must be obtained before expiry of the validity of the existing 
+certification to ensure continuity in compliance with certification requirements.”  
+ 
+37 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25-11-2025. 
+38 Substituted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to its substitution, clause (a) read as under: 
+“(a) A professional qualif ication or  graduate degree or  post-graduate degree or post graduate diploma 
+(minimum two years in duration) in finance, accountancy, business management, commerce, economics, capital 
+market, banking, insurance or actuarial science or other financial services as may be specified from a university 
+or an institution recognized by the Central Government or any State Government or a recognised foreign 
+university or institution or association  or a professional qualification by completing a Post  Graduate Program 
+in the Securities Market (Investment Advisory) from NISM of a duration not less than one year or a professional 
+qualification by obtaining a CFA Charter from the CFA Institute;” 
+39 Omitted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment)  
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its omission, clause (b) read as under; 
+“An experience of at least five years in ac tivities relating to advice in financial products or securities or fund or 
+asset or portfolio management;” 
+40 Substituted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to its substitution, clause (c) read as under: 
+“Persons associated with investment advice shall, at all times, have a minimum qualification of graduate 
+degree in any discipline from a university or institution recognized by the Central Government or any State 
+Government or a recognized foreign university or institution:” 
+41 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Amendment) Regulations, 
+2023, w.e.f. 30-09-2023.
+
+[Page 12]
+12 
+ 
+[shall]42 comply with [the]43 qualification and experience requirements within 
+[such time as may be specified by the Board]44: 
+Provided further that the requirements at clause s (a) 45[***] 46[and (c)] shall not 
+apply to such existing individual investment advisers as may be specified by the 
+Board. 
+47[(2) An individual investment adviser or principal officer of a non -individual 
+investment adviser, registered under these regulations, persons associated with 
+investment advice, and in case of investment adviser be ing a partnership firm, the 
+partners thereof who are engaged in providing investment advice, shall  obtain a 
+fresh relevant NISM certification as specified by the Board from time to time 
+before expiry of the vali dity of the existing certification or within three years 
+from the date of registration certificate , as the case may be, to ensure continuity 
+in compliance with certification requirements.] 
+  
+48[Deposit. 
+8. (1) An investment adviser shall maintain a deposit of such sum, as specified by the 
+Board from time to time.  
+                                                 
+42 Inserted by the Secu rities and Exchange Board of India (Investment Advisers) (Amendment) Regulations, 
+2023, w.e.f. 30-09-2023. 
+43 Substituted for the word “such” by the Securities and Exchange Board of India (Investment Advisers) 
+(Amendment) Regulations, 2023, w.e.f. 30-09-2023. 
+44 Substituted for the words “three years” by the Securities and Exchange Board of India (Investment Advisers) 
+(Amendment) Regulations, 2023, w.e.f. 30-09-2023. 
+45 Omitted by the Securities and Exchange Board of India (Investment Advisers) (Second Amen dment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its omission, the following words of proviso read as under: 
+“and (b)” 
+46 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+47 Substituted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to its substitution, sub-regulation (2) read as under; 
+“(2) An individual investment adviser or principal officer of a non -individual investment adviser, 
+registered under these regulations, persons associated with investment advice, and in case of investment 
+adviser being a partnership firm, the partners thereof who are engaged in providing investment advice, 
+shall have at all times relevant NISM certification as specified by the Board from time to time:  
+Provided that a fresh relevant NISM certification as specified by the Board from time to time shall be 
+obtained before expiry of the validity of the existing certification to ensure continuity in compliance with 
+certification requirements.” 
+48 Substituted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its substitution, regulation 8 read as under; 
+“Networth.8. 
+(1) Investment advisers who are non-individuals shall have a net worth of not less than fifty lakh rupees. 
+Explanation. —For  the  purposes  of  this  regulation,  "networth"  means  the  aggregate value  of  paid  up   
+share  capital  plus  free  reserves  (excluding  reserves  created  out  of revaluation) reduced by the aggregate 
+value ofaccumulated losses, deferred expenditure not   written   off,   including   miscellaneous   expenses   not   
+written   off,   and   networth requirement for other services offered by the advisers in accordance with the 
+applicable rules and regulations. 
+(2)  Investment  advisers  who  are  individuals  shall  have  net  tangible  assets  of  value  not less than five 
+lakh rupees: 
+Provided that existing investment advisers shall comply with the networth requirement within three years from 
+the date of commencement of the SEBI (Investment Advisers) (Amendment) Regulations, 2020.”
+
+[Page 13]
+13 
+ 
+(2) 49[The deposit shall be maintained in such a form or manner as may be specified by 
+the Board.]  
+50[(3) Such deposit shall be marked as lien in favour of a body or body corporate 
+recognised by the Board for the purpose of administration and supervision of 
+investment advisers in accordance with regulation 14 of these regulations: 
+Provided that the deposit shall be available for utilization in case the investment adviser 
+fails to pay the dues emanating out of arbitration and conciliation proceedings, if any, 
+under the Online Dispute Resolution Mechanism or such other mechanism as may be 
+specified by the Board.] 
+  
+Grant of certificate of registration. 
+9. The Board on being satisfied that the applicant complies with the requirements 
+specified in regulation 6 shall send intimation to the applicant and on receipt of the 
+payment of registration 51[***] fees as specified in Second Schedule, grant certificate of 
+registration in Form B  52[to an investment adviser or in Form C to a part -time 
+investment adviser, as the case may be,] under First Schedule, subject to such terms and 
+conditions as the Board may deem fit and appropriate53[:] 
+54[Provided that an individual or partnership firm registered as a research analyst may 
+be granted certificate of registration as an investment adviser, subject to such terms and 
+conditions as the Board may deem fit and appropriate.] 
+Period of validity of certificate. 
+10. The certificate of registration granted under regulation 9 shall be valid 55[till it is 
+suspended or cancelled by the Board.]  
+                                                 
+49 Substituted by the Securities and  Exchange Board of India (Investment Advisers) (Amendment) Regulations, 
+2025 w.e.f. 07-08-2025. Prior to substitution, sub-regulation (2) read as under:  
+“The deposit shall be maintained with a scheduled bank marked as lien in favor of a body or body corporate 
+recognized by the Board for the purpose of administration and supervision of investment advisers in accordance 
+with regulation 14 of these regulations: 
+Provided that such deposit shall be available for utilization in case the investment adviser fails to pay dues 
+emanating out  of arbitration and conciliation proceedings, if any, under the Online Dispute Resolution 
+Mechanism or such other mechanism as may be specified by the Board. ” 
+50 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Amendment) Regula tions, 
+2025 w.e.f. 07-08-2025. 
+51 The words “/renewal” was omitted by the Securities and Exchange Board of India (Change in Conditions of 
+Registration of Certain Intermediaries) (Amendment) Regulations, 2016 w.e.f. 08-12-2016. 
+52 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+53 Substituted for the symbol “.” by the Securities and Exchange Board of India (Investment Advisers) (Second 
+Amendment) Regulations, 2024, w.e.f. 16-12-2024. 
+54 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+55 Substituted for the words “for a period of five years from the date of its issue. ” by the Securities and  
+Exchange Board of  India (Change in Conditions of Registration  of Certain Intermediaries ) (A mendment) 
+Regulations, 2016 w.e.f. 08-12-2016.
+
+[Page 14]
+14 
+ 
+Renewal of certificate. 
+11. 56[The investment adviser which has alrea dy been granted certificate of registration by 
+the Board, prior to the comm encement of the Securities and Exchange Board of India 
+(Change in Conditions of Registration of C ertain Intermediaries)  (Amendment) 
+Regulations, 2016 shall be deemed to have been granted a certificate of registration, in 
+terms of sub-regulation (1).] 
+ 
+Procedure where registration is refused. 
+12. (1) After considering an application made under regulation 3, if  the Board is of the 
+opinion that a certificate should not be granted to the applicant, it may reject the 
+application after giving the applicant a reasonable opportunity of being heard. 
+(2) The decision of the Board to reject the application shall be communicated to the 
+applicant within thirty days of such decision. 
+(3) Where an application for a certificate is rejected by the Board,  the applicant shall 
+forthwith cease to act as an investment adviser: 
+Provided that nothing contained in this regulation shall affect the liability of the 
+applicant towards its existing clients under law. 
+Conditions of certificate. 
+13. The certificate granted under regulation 9 shall, inter alia, be subject to the following 
+conditions:-   
+(a) the investment adviser shall abide by the provisions of the Act and these 
+regulations;  
+(b) the investment adviser shall forthwith inform the Board in writing, if any 
+information or particulars previously submitted to the Board are found to be false 
+or misleading in any material particular or if there is any material change in the 
+information already submitted; 
+(c) the investment adviser, not being an individual, shall include the word s 
+‘investment adviser’ in its name: 
+Provided that if the investment advisory service  is being provided by a separately 
+identifiable department or division or a subsidiary, then such separately 
+                                                                                                                                                        
+ 
+56 Substituted by the Securities and  Exchange Board of India (Change in Conditions of Registration  of Certain 
+Intermediaries) (Amendment) Regulations, 2016 w.e.f. 08-12-2016. Prior to substitution regulation 11 read as 
+under: 
+“11. (1) Three months before the expiry of the period of validity of the certificate, the investment 
+adviser may, if he so desires, make an applicati on in Form A for grant of renewal of certificate of 
+registration.  
+(2)The application for renewal under sub -regulation (1) shall be dealt with in the same manner as if it 
+were an application made under sub-regulation (2) of regulation 3 for grant of certificate.”
+
+[Page 15]
+15 
+ 
+identifiable department or division or subsidiary shall include  the words 
+‘investment adviser’ in its name; 
+(d) individuals registered as investment advisers shall use the term ‘investment 
+adviser’ in all their correspondences with their clients57[:] 
+58[Provided that part -time investment adviser registered under these regul ations 
+shall use the term ‘part -time investment adviser’ in all their correspondences with 
+their clients.] 
+59[(e) individuals registered as investment advisers whose number of clients exceed 
+three hundred at any point of time or the fee collected during the  financial year 
+exceeds three crore rupees, whichever is earlier shall –  
+(i) immediately intimate the Administration and Supervisory Body and initiate 
+the process of transition from individual to non -individual investment adviser; 
+and  
+ (ii) apply for gra nt of in-principle approval for registration as non -individual 
+investment adviser within 3 months from the date on which the threshold is 
+reached;]  
+ 60[(f) the in-principle approval for registration under clause (e) shall be valid for a period of 
+three months from the date on which such approval is granted, to assist in the transition from 
+registration as individual investment adviser to non-individual investment adviser; 
+(g) On completion of the transition period or upon grant of certificate of registration as non -
+individual investment adviser, whichever is earlier, the investment adviser shall surrender his 
+registration as individual investment adviser. 
+Explanation. — During the transition period, the investment adviser shall be permitted to on 
+board new clients and collect  fees in excess of the threshold limit as given in clause (e) of 
+regulation 13;] 
+61[(h)] 62[the number of clients of a part-time investment adviser shall not exceed seventy-five 
+in total at any point of time.] 
+                                                 
+57 Substituted for the symbol “;” by the Securities and Exchange Board of India (Investment Advisers) (Second 
+Amendment) Regulations, 2024, w.e.f. 16-12-2024. 
+58 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Am endment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+59 Substituted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to its substitution, clause (e) read as under; 
+“(e) individuals registered as investment advisers whose number of clients exceed three hundred at any 
+point of time or the fee collected during the financial year exceeds three crore rupees, whichever is 
+earlier shall –  
+(i) apply for grant of in-principle registration as non-individual investment adviser;  
+(ii) the in-principle registration shall be valid for a period of three months to assist in the transition 
+from registration as individual investment adviser to non-individual investment adviser;  
+(iii) on completion of the transition period or upon grant of certificate of registration as non-individual 
+investment adviser, whichever is earlier, the investment adviser shall surrender his registration as individual 
+investment adviser.” 
+60 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025.
+
+[Page 16]
+16 
+ 
+63[Recognition of body or body corporate for admi nistration and supervision of 
+investment advisers.   
+14. (1) The Board may recognize a body or body corporate for the purpose of 
+administration and supervision of investment advisers to such extent and on such terms 
+and conditions as may be specified by the Board. 
+(2) The Board may specify that no person shall act as an investment adviser unless such 
+a person is enlisted with the recognized body or body corporate and in such an event, 
+the provisions of these regulations and the specified provisions of the bye -laws or 
+articles of such a body or body corporate shall apply to the investment adviser.] 
+ 
+ 
+CHAPTER III 
+GENERAL OBLIGATIONS AND RESPONSIBILITIES 
+General responsibility. 
+15. (1) An investment adviser shall act in a fiduciary capacity towards its clients and 
+shall disclose all conflicts of interests as and when they arise. 
+(2)  An investment adviser shall not receive any consideration by way of 
+remuneration or compensation or in any other form from any person other than the 
+client being advised, in respect of the underlying products or securities for which advice 
+is provided. 
+(3) An investment adviser shall maintain an arms -length relationship between its 
+activities as an investment adviser and other activities.  
+(4) An investment adviser which is also engaged in a ctivities other than investment 
+advisory services shall ensure that its investment advisory services are clearly 
+segregated from all its other activities, in the manner as prescribed hereunder. 
+(5) An investment adviser shall ensure that in case of any con flict of interest of the 
+investment advisory activities with other activities, such conflict of interest shall be 
+disclosed to the client.  
+                                                                                                                                                        
+61 Clause (f) renumbered as (h) by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, 
+w.e.f. 25-11-2025. 
+62 Inserted by the Securities and Exchang e Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+63 Substituted by the Securities and Exchange Board of India (Investment Advisers) (Amendm ent) Regulations, 
+2024, w.e.f. 25-07-2024. Prior to substitution, it read as under:  
+“Recognition of body or body corporate for regulation of investment advisers.   
+14.(1) The Board may recognize any body or body corporate for the purpose of regulating investment 
+advisers. 
+(2) The Board may, at the time of recognition of su ch body or body corporate, delegate administration 
+and supervision of investment advisers to such body or body corporate on such terms and conditions 
+as may be specified by the Board.  
+(3) The Board may specify that no person shall act as an investment adv iser unless he is a member of a 
+recognized body or body corporate and in such event, provisions of these regulations and byelaws or 
+articles of such body or body corporate shall apply mutatis mutandis to such investment advisers.”
+
+[Page 17]
+17 
+ 
+(6) An investment adviser shall not divulge any confidential information about its 
+client, which has come to its kno wledge, without taking prior permission of its clients, 
+except where such disclosures are required to be made in compliance with any law for 
+the time being in force. 
+(7) An investment advisor shall not enter into transactions on its own account which 
+is contrary to its advice given to clients for a period of fifteen days from the day of such 
+advice.  
+Provided that during the period of such fifteen days, if the investment adviser is of the 
+opinion that the situation has changed, then it may enter into such a  transaction on its 
+own account after giving such revised assessment to the client at least 24 hours in 
+advance of entering into such transaction.  
+(8) An investment advisor shall follow Know Your Client procedure as specified by 
+the Board from time to time. 
+(9) An investment adviser shall abide by Code of Conduct as specified in Third 
+Schedule. 
+(10) An investment adviser shall not act on its own account, knowingly to sell 
+securities or investment products to or purchase securities or investment product from a 
+client. 
+(11) In case of change in co ntrol of the investment adviser, prior approval from the 
+Board shall be taken.  
+(12) Investment advisers shall furnish to the Board information and reports as may be 
+specified by the Board from time to time. 
+64[(13) It shall be the responsibility of the investment adviser to ensure compliance with 
+the certification and qualification requirements as specified under Regulation 7 at all 
+times.] 
+65[(14) An investment adviser who uses Artificial Intelligence tools, irrespective of the 
+scale and scenario of adopti on of such tools, for servicing its clients shall be solely 
+responsible for the security, confidentiality, integrity of the client data, use of any other 
+information or data to arrive at investment advice, investment advice based on output of 
+Artificial Intelligence tools and compliance with any law for the time being in force.] 
+66[(15) An investment adviser shall ensure compliance with the Investor Charter 
+specified by the Board from time to time.] 
+                                                 
+64 Substituted by the SEBI  (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, sub-regulation (13) read as under; 
+“(13) It shall be the responsibility of the Investment Adviser to ensure that its representatives and 
+partners, as applicable, comply with the certification and qualification requirements under Regulation 
+7 at all times.” 
+65 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+66 Inserted by the Securities and Exchange Board of India (Investor Charter) (Amendment) Regulations, 2025 
+w.e.f. 10-02-2025.
+
+[Page 18]
+18 
+ 
+67[Fees. 
+15A. Investment Adviser shall be entitled to charge  fees for providing investment advice 
+from a client 68[, including an accredited investor] in the manner as specified by the Board.] 
+Risk profiling.  
+16. Investment adviser shall ensure that,- 
+(a) it obtains from the client, such information as is necessary for the purpose of giving 
+investment advice, including the following:- 
+(i) age; 
+(ii) investment objectives including time for which they wish to stay invested, the 
+purposes of the investment ; 
+(iii) income details; 
+(iv) existing investments/ assets; 
+(v) risk appetite/ tolerance; 
+(vi) liability/borrowing details. 
+(b) it has a process for assessing the risk a client is willing and able to take, including:  
+(i) assessing a client’s capacity for absorbing loss;  
+(ii) identifying whether client is unwilling or unable to accept the risk of loss of 
+capital;  
+(iii) appropriately interpreting client responses to questions and not attributing 
+inappropriate weight to certain answers. 
+(c) where tools are used for risk profiling, it should be ensured that the tools are fit for 
+the purpose and any limitations are identified and mitigated;  
+(d) any questions or description in any questionnaires used to establis h the risk a client 
+is willing and able to take are fair, clear and not misleading, and should ensure that: 
+(i) questionnaire is not vague or use double negatives or in a complex language 
+that the client may not understand;  
+(ii) questionnaire is not structured in a way that it contains leading questions. 
+(e) risk profile of the client is communicated to the client after risk assessment is done; 
+(f) information provided by clients and their risk assessment is updated periodically. 
+Suitability. 
+                                                 
+67 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+68 Inserted by the SEBI (Investment Advisers) (Third Amendment) Regulations, 2021, w.e.f. 03-08-2021.
+
+[Page 19]
+19 
+ 
+17. Investment adviser shall ensure that,-  
+(a) All investments on which inve stment advice is provided is appropriate to the risk 
+profile of the client; 
+(b) It has a documented process for selecting investments based on client’s investment 
+objectives and financial situation; 
+(c) It understands the nature and risks of products or assets selected for clients; 
+(d) It has a reasonable basis for believing that a recommendation or transaction entered 
+into:  
+(i) meets the client’s investment objectives;  
+(ii) is such that the client is able to bear any related investment risks consistent 
+with its investment objectives and risk tolerance; 
+(iii) is such that the client has the necessary experience and knowledge to 
+understand the risks involved in the transaction.  
+(e) Whenever a recommendation is given to a client to purchase of a particular 
+complex financial product , such recommendation or advice is based upon a 
+reasonable assessment that the structure and risk reward profile of financial product 
+is consistent with clients experience, knowledge, investment objectives, risk 
+appetite and capacity for absorbing loss. 
+Disclosures to clients. 
+18. (1) An investment adviser shall disclose to a prospective client, all material 
+information about itself including its business, disciplinary history, the terms and 
+conditions on which it offers advisory services, affiliations with other int ermediaries 
+and such other information as is necessary to take an informed decision on whether or 
+not to avail its services. 
+69[***] 
+(4) An investment adviser shall disclose to the client its holding or position, if any, in 
+the financial products or securities which are subject matter of advice.  
+(5) An investment adviser shall disclose to the client any actual or potential conflicts 
+of interest arising from any connection to or association with any issuer of products/ 
+                                                 
+69 Omitted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to its  
+omission, sub-regulation (2) and (3) read as under;  
+“(2) An investment adviser shall disclose to its  client, any consideration by way of remuneration or 
+compensation or in any other form whatsoever, received or receivable by it or any of its associates or 
+subsidiaries for any distribution or execution services in respect of the products or securities for  which 
+the investment advice is provided to the client.  
+(3) An investment adviser shall, before recommending the services of a stock broker or other 
+intermediary to a client, disclose any consideration by way of remuneration or compensation or in any 
+other form whatsoever, if any, received or receivable by the investment adviser, if the client desires to 
+avail the services of such intermediary.”
+
+[Page 20]
+20 
+ 
+securities, including any material info rmation or facts that might compromise its 
+objectivity or independence in the carrying on of investment advisory services. 
+(6) An investment adviser shall , while making an investment advice, make adequate 
+disclosure to the client of all material facts relating to the key features of the products or 
+securities, particularly, performance track record. 
+(7)  An investment adviser  shall draw the client’s attention to the warnings, 
+disclaimers in documents, advertising materials relating to an investment product  which 
+it is recommending to the client.  
+70[(8) An investment adviser who provides advisory services in respect of products or 
+services which are outside the purview of the Board, shall disclose to the client that 
+such products or services and his advisory services in respect of such products or 
+services are outside the regulatory purview of the Board and no recourse from the 
+Board shall be available to such clients for any grievance arising therefrom.  
+(9) An investment adviser shall disclose to the client the extent of use of Artificial 
+Intelligence tools in providing investment advice.] 
+Maintenance of records. 
+19. (1)   An investment adviser shall maintain the following records,- 
+(a) Know Your Client records of the client; 
+(b) Risk profiling and risk assessment of the client; 
+(c) Suitability assessment of the advice being provided; 
+71[(d) Copies of agreements with clients, incorporating the terms and conditions as 
+may be specified by the Board;] 
+(e) Investment advice provided, whether written or oral; 
+(f) Rationale for arriving at investment advice, duly signed and dated; 
+(g) A register or record containing list of the clients 72[along with PAN] , the date 
+of advice, nature of the advice, the  73[details of] products/securities in which 
+                                                 
+70 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+71 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause (d) read as under;  
+“(d)Copies of agreements with clients, if any;” 
+ 
+72 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+73 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024.
+
+[Page 21]
+21 
+ 
+advice was rendered and 74[fee/consideration, if any charged/received for such 
+advice]75[;]  
+76[(h) Records of communication including emails, call recordings etc. with all 
+clients including prospective clients, as may be specified.] 
+(2) All records shall be maintained either in physical or electronic form and preserved 
+for a minimum period of five years: 
+Provided that where records are r equired to be duly signed and are maintained in 
+electronic form, such records shall be digitally signed. 
+(3) An investment adviser shall conduct yearly audit in respect of compliance with these 
+regulations from a member of Institute of Chartered Accountants of India or Institute of 
+Company Secretaries of India 77[or Institute of Cost Accountants of India] 78[and submit 
+a report of the same as may be specified by the Board]. 
+ 
+79[Website.  
+19A. An investment adviser shall maintain a functional website containing such details as 
+may be specified by the Board.] 
+80[Appointment of compliance officer. 
+20.   (1) A non-individual investment adviser shall appoint either:  
+(i) a compliance officer; or  
+                                                 
+74 Substituted for the words and symbol “fee, if any charged for such advice”  by the Securities and Exchange 
+Board of India (Investment Advisers) (Second Amendment) Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+75 Substituted for the symbol “.” by the Securities and Exchange Board of India (Investment Advisers) (Second 
+Amendment) Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+76 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+77 Inserted by the Securi ties and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+78 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+79 Inserted by the Securities and Exchange Board  of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+80 Substituted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. Prior to its substitution, regulation 20 read as under; 
+“Appointment of compliance officer. 
+20.An investment adviser which is a body corporate or a partnership firm shall appoint a compliance  
+officer  who  shall  be  responsible  for  monitoring  the  compliance  by the investment adviser in 
+respect of the requirements  of the Act, regulations, notifications, guidelines, instructions issued by the 
+Board.”
+
+[Page 22]
+22 
+ 
+(ii) an independent professional who is a member of Institute of Chartered 
+Accountants of India or Institute of Co mpany Secretaries of India or Institute of 
+Cost Accountants of India or member of any other professional body as may be 
+specified by the Board, provided such a professional holds a relevant certification 
+from NISM, as may be specified by the Board;  
+who shall be responsible for monitoring the compliance by the investment adviser in 
+respect of the requirements of the Act, regulations, notifications, guidelines, instructions 
+issued by the Board.  
+(2) Where independent professional referred in sub -regulation (1) of this regulation is 
+appointed for monitoring compliance, the principal officer shall submit an undertaking 
+to the Board or the body or body corporate recognized under regulation 14 of these 
+regulations to the effect that the principal officer shall be  responsible for monitoring the 
+compliance in respect of the requirements of the Act, regulations, notifications, 
+guidelines, instructions issued by the Board.] 
+Redressal of client grievances. 
+21. (1) 81[The Investment Adviser shall redress investor grievances promptly but not later 
+than twenty -one calendar days from the date of receipt of the grievance and in such 
+manner as may be specified by the Board.] 
+(2) An investment adviser shall have adequate procedure for expeditious grievance 
+redressal. 
+(3) Client grievances pertaining to financial products in which investments have been 
+made based on investment advice, shall fall within the purview of the regulator of such 
+financial product. 
+(4) Any dispute between the investment adviser and his client 82[shall be submitted to 
+a dispute resolution mechanism that includes mediation and/or conciliation and/or 
+arbitration in accordance with the procedure specified by the Board ] or through 
+Ombudsman authorized or appointed for the purpose by any regulatory authority, as 
+applicable. 
+83[Client level segregation of advisory and distribution activities. 
+                                                 
+81 Substituted by the Securities and Exchange Board of India (Facilitation of Grievance  Redressal Mechanism) 
+(Amendment) Regulations, 2023 w.e.f. 18-08-2023. Prior to substitution, it reads as, “An investment adviser 
+shall redress client grievances promptly.” 
+ 
+82 Substituted for the words “may be resolved through arbitration ” by the Securities and Exchange Board of 
+India (Alternative Dispute Resolution Mechanism) (Amendment) Regulations, 2023, w.e.f., 04 -07-2023. 
+ 
+83 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, regulation 22 read as under; 
+“Segregation of execution services. 
+22 Investment advisers which are banks, NBFCs and body corporate providing distribution  or 
+execution services to their clients shall keep their investment advisory services segregated from such 
+activities:
+
+[Page 23]
+23 
+ 
+22. (1) An individual investment adviser shall not provide distribution services.  
+(2)  The family of an individual investment adviser shall not provide distribution 
+services to the client advised by the individual investment adviser and no individual 
+investment adviser shall provide advice to a client who is receiving distribution services 
+from other family members. 
+(3) A non-individual investment adviser shall have client level segregation at group 
+level for investment advisory and distribution services. 
+Explanation. — 
+ (i)   The same client cannot be offered both advisory and distribution services within 
+the group of the non-individual entity. 
+ (ii) A client can either be an advisory client where no distributor considerat ion is 
+received at the group level or distribution services client where no advisory fee is 
+collected from the client at the group level. 
+(iii) ‘Group’ for this purpose shall mean an entity which is a  holding, subsidiary, 
+associate, subsidiary of a holding  company to which it is also a subsidiary or an 
+investing company or the venturer of the company as per the provisions of Companies 
+Act, 2013 for non-individual investment adviser which is a company under the said Act 
+and in any other case, an entity which  has a controlling interest or is subject to the 
+controlling interest of a non-individual investment adviser. 
+(4) Non -individual investment adviser shall maintain an arm’s length relationship 
+between its activities as investment adviser and distributor by providing advisory 
+services through a separately identifiable department or division. 
+(5) Compliance and monitoring process for client segregation at group  or family level 
+shall be in accordance with the guidelines specified by the Board.] 
+84[Implementation of advice or execution. 
+22A. (1) Investment adviser may provide implementation services to the advisory clients in 
+securities market:  
+Provided that investment advisers shall ensure that no consideration including any 
+commission or referral fees, whether embedded or indirect or otherwise, by w hatever 
+name called is received; directly or indirectly , at investment adviser’s group or family 
+level for the said service, as the case maybe. 
+                                                                                                                                                        
+Provided that such distribution or execution services can only be offered subject to the 
+following: 
+(a) The client shall not be under any obligation to avail the distribution or execution services offered 
+by the investment adviser.  
+(b) The investment adviser shall maintain arms length relations hip between its activities as 
+investment adviser and distribution or execution services. 
+(c) All fees and charges paid to distribution or execution service providers by the client shall be paid 
+directly to the service providers and not through the investment adviser.” 
+ 
+84 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020.
+
+[Page 24]
+24 
+ 
+(2)  Investment adviser shall provide implementation services to its advisory clients 
+only through direct schemes/products in the securities market. 
+(3) Investment adviser or group  or family of investment adviser shall not charge any 
+implementation fees from the client.  
+(4) The client shall not be under any obligation to avail implementation services offered 
+by the investment adviser.] 
+ 
+CHAPTER IV 
+INSPECTION 
+Board’s right to inspect.  
+23. The Board may  suo motu or upon receipt of information or complaint  appoint one or 
+more persons as inspecting authority to undertake inspection of the books of accounts, 
+records and documents relating to investment advisers for any of the following reasons, 
+namely: -   
+(a) to ensure that the books of account, records and documents are being maintained 
+by the investment adviser in the manner specified in these regulations;   
+(b) to inspect into complaints received from clients or any other person, on any matter 
+having a bearing on the activities of the investment adviser;   
+(c) to ascertain whether the provisions of the Act and these regulations are being 
+complied with by the investment adviser;   
+(d) to inspect into the affairs of a investment adviser, in the interest of the securities 
+market or in the interest of investors. 
+Notice before inspection.  
+24. (1) Before ordering an inspection under regulation 2 3, the Board shall give not less 
+than ten days notice to the investment adviser.   
+(2)  Notwithstanding anything contained in sub -regulation (1), where the Board is 
+satisfied that in the interest of the investors no such notice should be given, it may by an 
+order in writing direct that the inspection of the affairs of the investment adviser be 
+taken up without such notice.   
+(3)  During the course of an inspection, the investment adviser against whom the 
+inspection is being carried out shall be bound to discharge its obligations as provided in 
+regulation 25.   
+Obligation of investment adviser on inspection.  
+25. (1) It shall be the duty of every investment adviser in respect of whom an inspection 
+has been ordered under the regulation 2 3 and any other associate person who is in 
+possession of relevant information pe rtaining to conduct and affairs of such investment
+
+[Page 25]
+25 
+ 
+adviser, including 85[partners, directors, principal officer and persons associated with 
+investment advice], if any, to produce to the inspecting authority such books, accounts 
+and other documents in his custody or control and furnish him with such statements and 
+information as the inspecting authority may require for the purposes of inspection.   
+(2) It shall be the duty of every investment adviser and any other associate person 
+who is in possession of rele vant information pertaining to conduct and affairs of the 
+investment adviser to give to the inspecting authority all such assistance and shall 
+extend all such co -operation as may be required in connection with the inspection and 
+shall furnish such informat ion as sought by the inspecting authority in connection with 
+the inspection.   
+(3) The inspecting authority shall, for the purposes of inspection, have power to 
+examine on oath and record the statement of any employees, directors, partners 86[, 
+principal officer and persons associated with investment advice ] or person responsible 
+for or connected with the activities of investment adviser or any other associate person 
+having relevant information pertaining to such investment adviser. 
+(4) The inspecting author ity shall, for the purposes of inspection, have power to 
+obtain authenticated copies of documents, books, accounts of investment adviser, from 
+any person having control or custody of such documents, books or accounts. 
+Submission of report to the Board. 
+26. The inspecting authority shall, as soon as possible, on completion of the inspection 
+submit an inspection report to the Board: 
+Provided that if directed to do so by the Board, the inspecting authority may submit an 
+interim report.   
+Action on the inspection report. 
+27. The Board may after consideration of the inspection report and after giving reasonable 
+opportunity of hearing to the investment advisers or its authorized representatives, issue 
+such directions as it deems fit in the interest of securities market or  the investors 
+including,-  
+(a) requiring an investment adviser  87[, partners, directors, principal officer and 
+persons associated with investment advice ] not to provide investment advice for a 
+particular period;  
+(b) requiring the investment adviser to refund any money collected as fees, charges or 
+commissions or otherwise to the concerned clients along with the requisite interest. 
+                                                 
+85 Substituted for the words “ representative of investment adviser ” by the SEBI (I nvestment Advisers) 
+(Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+86 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+ 
+87 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020.
+
+[Page 26]
+26 
+ 
+(c) prohibiting the investment adviser 88[, partners, directors, principal officer and 
+persons associated with investment advice] from operating in the capital market or 
+accessing the capital market for a specified period.  
+ 
+CHAPTER V 
+PROCEDURE FOR ACTION IN CASE OF DEFAULT 
+Liability for action in case of default. 
+28. An investment adviser who - 
+(a) contravenes any of the provisions of the Act or any regulations or circulars 
+issued thereunder; 
+(b) fails to furnish any information relating to its activity as an investment adviser 
+as required by the Board; 
+(c) furnishes to the Board information which is false or misleading in any material 
+particular; 
+(d) does not submit periodic returns or reports as required by the Board; 
+(e) does not co-operate in any enquiry, inspection or investigation conducted by the 
+Board; 
+(f) fails to resolve the complaints of investors or fails to give a satisfactory reply to 
+the Board in this behalf, 
+shall be dealt with in the manner provided under the Securities and Exchange Board 
+of India (Intermediaries) Regulations, 2008. 
+ 
+89[CHAPTER V-A 
+POWER TO RELAX STRICT ENFORCEMENT OF THE REGULATIONS 
+Exemption from enforcement of the regulations in special cases. 
+28A. (1) The Board may, exempt any person or class of persons from the operation of all or 
+any of the provisions of these regulations for a period as may be specified but not exceeding 
+                                                 
+88 ibid. 
+ 
+89 Inserted by the Securities and Exchange Board of Ind ia (Regulatory Sandbox) (Amendment) Regulations, 
+2020, w.e.f. 17-04-2020.
+
+[Page 27]
+27 
+ 
+twelve months, for furthering innovation 90[***] relating to test ing new products, processes, 
+services, business models, etc. in live environment of regulatory sandbox in the securities 
+markets. 
+(2) Any exemption granted by the Board under sub -regulation (1) shall be subject to the 
+applicant satisfying such conditions as may be specified by the Board including conditions to 
+be complied with on a continuous basis. 
+Explanation. — For the purposes of these  regulations, "regulatory sandbox" means a  live 
+testing environment where new  products, processes, services, business models, etc. may be 
+deployed on a limited set of eligible customers for a specified period of time, for furthering 
+innovation in the securities market , subject to such conditions as may be specified by the 
+Board.] 
+CHAPTER VI 
+MISCELLANEOUS 
+Power of the Board to issue clarifications etc. 
+29. In order to remove any difficulties in the application or interpretation of these 
+regulations, the Board may issue clarifications and guidelines in the form of circulars. 
+Power of the Board over body or body corporate recognized under regulation 14. 
+30. The Board reserves the right to alter, modify and overrule any decision, action taken or 
+penalties imposed by the body or body corporate recognized under regulation 14. 
+ 
+91[Savings 
+30A. Prior  to  the  commencement  of  the Securities   and  Exchange  Board  of  India  
+(Investment  Advisers) (Amendment) Regulations, 2024, any action taken or purported 
+to have been taken or any action that may be taken  against  any  person  in  relation  to  
+the  membership  of  the  body  or  body  cor porate  recognised  under regulation  14  
+shall  be  deemed  to  have  been  done  or  taken  or  may  be  taken  under  the  
+corresponding provisions of these regulations.] 
+                                                 
+90 The words “in technological aspects”  omitted by the Securities and Exchange Board of India (Regulatory 
+Sandbox) (Amendment) Regulations, 2021, w.e.f. 03-08-2021. 
+ 
+91 Inserted by th e Securities and Exchange Board of India (Investment Advisers) (Amendment) Regulations, 
+2024, w.e.f. 25-07-2024.
+
+[Page 28]
+28 
+ 
+FIRST SCHEDULE 
+FORM A 
+ 
+Securities and Exchange Board of India 
+(Investment Advisers) Regulations, 2013 
+92[See Regulation 3] 
+93[Application for Grant of Certificate of Registration] 
+ 
+Securities and Exchange Board of India  
+SEBI Bhavan, C4-A, G Block, Bandra Kurla Complex, Bandra (East),  Mumbai 400051 - 
+India 
+ 
+INSTRUCTIONS 
+1. This form is mea nt for use by the applicant for grant of certificate of registration as an 
+investment adviser. 
+2. The applicant should complete this form, and submit it, along with all supporting 
+documents 94[to the body or body corporate recognised by the Board for the purpo se of 
+administration and supervision of investment advisers or] to the Board 95[,if no such body 
+or body corporate is recognized.] 
+3. This application form should be filled in accordance with these regulations. 
+4. The application shall be considered by the Board provided it is complete in all respects. 
+5. All answers must be legible and all the pages must be numbered with signature/ stamp on 
+each page of the form. 
+6. Information which needs to be supplied in more detail may be given on separ ate sheets 
+which should be attached to the application form and appropriately numbered. 
+7. The application must be signed. 
+8. The application must be accompanied by an application fee as specified in the Second 
+Schedule to these regulations. 
+ 
+                                                 
+92 Substituted for the words “See Regulations 3 and 11” by the Securities and Exchange Board of India (Change 
+In Conditions Of Registration Of Certain Intermediaries) (Amendment) Regulations, 2016 w.e.f. 08-12-2016. 
+93 Substituted for the words “Application for Grant of Certificate of Registration/Renewal  as investment 
+adviser” by the Securities and  Exchange Board of  India (Change In Conditions O f Registration  Of Certain 
+Intermediaries) (Amendment) Regulations, 2016 w.e.f. 08-12-2016. 
+94 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+95 Substituted for the words “at its head office at Mumbai”  by the SEBI (Investment Advisers) (Second 
+Amendment) Regulations, 2025, w.e.f. 25-11-2025.
+
+[Page 29]
+29 
+ 
+1. GENERAL INFORMATION 
+(a) Name, address of the registered office, address for correspondence and principal 
+place of business, telephone number(s), 96[***] e-mail address of the applicant.  
+97[(b)***]. 
+(c) Name, direct line number, mobile number 98[, e -mail of the contact pe rson, 
+compliance officer and principal officer.] 
+(d) Legal structure of applicant - Whether the applicant is an individual  99[ or non -
+individual].  
+100[(da) Indicate whether the application for the gran t of certificate of registration is 
+for part-time investment adviser;  
+(db) Whether the applicant is engaged in any other business activity or employment? 
+If so, details of such other business activity or employment.] 
+(e) Whether the applicant is a bank /NBFC. 
+(f) Date and place of incorporation/ establishment, if any. If the applicant is 
+incorporated outside India, details of such incorporation. 
+(g) Whether the applicant is engaged in investment advisory services prior to making 
+application under these regulations.  
+(h) Whether the applicant is registered with SEBI, RBI, IRDA or PFRDA in any 
+capacity. If so, details of such registration. 
+(i) Write-up on the activities of the applicant.  
+101[***] 
+2. DETAILS OF APPLICANT (Provide details of only the section applicable to you) 
+I. In case applicant is an individual: 
+                                                 
+96 Omitted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+97 Omitted  by the Securities and  Exchange Board of  India (Cha nge in Conditions of Registration  of Certain 
+Intermediaries) (A mendment) Reg ulations, 2016 w. e.f. 08-12-2016. Prior to omission sub -para(b) read as 
+under: 
+“(b) Whether application is for registration/ renewal. Provide registration number if the application  is 
+for renewal of certificate.” 
+98 Substituted for the words and symbols “and e -mail of the contact person(s) and princ ipal officer” by the 
+SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+99Substituted for the words  and symbol “, body corporate (including company), partnership firm or limited 
+liability partnership” by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+100 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+101 Omitted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to its 
+omission, the following words of clause (i) read as under; 
+ “For renewal application, provide details of existing investment advisory services including number 
+and type of clients, assets under advice, revenue, profitability, products/ securitie s on which investment 
+advice was provided, etc.”
+
+[Page 30]
+30 
+ 
+102[1. Whether the applicant and persons associated with investment advice 
+comply with qualification and certification  requirements under regulation 7 
+and applicant has submitted a declaration with respect to the same. 
+(Provide self-certified copies of supporting documents).] 
+2. Copy of certification obtained in accordance with regulation 7(2). 
+103[***] 
+104[3. Number of persons associated with investment advice, if any, who shall 
+render investment advice under these regulations on behalf of the applicant. 
+Provide documents as mentioned in points 1 to 2 above for such persons 
+associated with investment advice.] 
+4. Enclose identity proof and 105[details of address]  of the applicant  106[and 
+persons associated with investment advice]. 
+5. Details of ownership/directorship of the applicant in any companies  or 
+partnership interest in any firm or limited liability partnership. 
+107[***] 
+108[8. Where the applicant is employed and has applied for registration as a 
+part-time investment adviser, the applicant shall enclose a no objection 
+certificate from the employer. In case of change in employment, the applicant 
+shall provide no objection certificate from the new employer.] 
+ 
+II. In case applicant is a company: 
+                                                 
+102 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause 1. read as under;  
+“Whether the applicant has: 
+a. A professional qualification  or post -graduate degree or post graduate diploma in finance, 
+accountancy, business management, commerce, economics, capital market, banking, insurance or 
+actuarial science from a university or an institution recognized by the Central Government or any 
+State Government or a recognised foreign university or institution or association; or  
+b.A graduate in any discipline with an experience of at least five years in activities relating to advice in 
+financial products or securities or fund or asset or portfolio management. 
+(Provide self certified copies of supporting documents).” 
+103 Omitted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to its  
+omission, the following words of clause (2) read as under;  
+“If the applicant is  an existing investment adviser applying for fresh registration, then provide a 
+declaration stating that it shall obtain such certification within two years from the date of 
+commencement of these regulations and submit a copy of the certification to the Bo ard within 15 days 
+of receipt of such certification.” 
+104 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause 3 read as under; 
+“3. Number of employees and agents of the applicant,  if any, who shall render investment advice under 
+these regulations on behalf of the applicant. Provide documents as mentioned in points (1) to (2) above 
+for such employees/ agents.” 
+105 Substituted for the words “address proof ” by the SEBI (Investment Advi sers) (Second Amendment) 
+Regulations, 2025, w.e.f. 25-11-2025. 
+106 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+107 Omitted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to omission, it read as under; 
+“6. Copy of Income Tax Return/ Copy of Form 16 for the last 3 years. 
+7. Copy of assets and liabilities statement” 
+108 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024.
+
+[Page 31]
+31 
+ 
+1. Shareholding pattern and profile of the directors (Enclose identity proof and 
+109[details of address] of the directors). 
+2. Number of 110[persons associated with investment advice] who render/ 
+propose to render investment advice under these regulations on behalf of 
+the applicant.  
+111[3. Declaration by the applicant that its principal officer and persons 
+associated with investment advice  currently comply with the certification  
+112[and qualification under regulation 7].] 
+4. Declaration by the applicant that it shall ensure that its 113[principal officer 
+and persons associated with investment advice ] comply with the 
+certification and qualification requirements under Regulation 7 at all times.  
+5. List of associated companies registered with SEBI, RBI, IRDA or PFRDA 
+along with the registration number. 
+6. If applicant is a bank or NBFC, then copy of approval from RBI for 
+undertaking investment advisory services. 
+114[***] 
+115[8. Enclose identity proof and 116[details of address]  of the applicant, 
+principal officer 117[, compliance officer]  and persons associated with 
+investment advice.] 
+  
+III. In case applicant is a partnership firm or a limited liability partnership: 
+1. Names and Beneficial ownership pattern of the partners  118[, principal 
+officer and persons associated with investment advice] engaged/proposed to 
+                                                 
+109 Substituted for t he words “address proof ” by the SEBI (Investment Advisers) (Second Amendment) 
+Regulations, 2025, w.e.f. 25-11-2025. 
+110 Substituted for the words “employees and agents of the applicant (hereinafter referred to as 
+‘representatives’)” by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+111 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause 3 read as under; 
+“3. Declaration by the applicant that its repre sentatives currently comply with the certification and 
+qualification requirements under regulation 7.  
+(If the applicant is an existing investment adviser applying for fresh registration, then provide a 
+declaration stating that the applicant shall ensure t hat all its representatives obtain such certification 
+within two years from the date of commencement of these regulations and after all its representatives 
+obtain the certification, a declaration to that effect shall be submitted to SEBI.)”  
+112 Substituted for the words and symbols “, qualification and experience requirements under regulation  7” by 
+the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+113 Substituted for the word “representatives” by the SEBI (I nvestment Advisers) (Amendment) Regulations, 
+2020, w.e.f. 30-09-2020. 
+114 Omitted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to omission, clause (7) read as “7. Net worth details.” 
+115 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+116 Substituted for the words “address proof ” by the SEBI (Investment Advisers) (Second Amendment) 
+Regulations, 2025, w.e.f. 25-11-2025. 
+117 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+118 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020.
+
+[Page 32]
+32 
+ 
+engage in investment advice (Enclose identity proof an d 119[details of 
+address]  of the partners  120[, principal officer 121[, compliance officer]  and 
+persons associated with investment advice]). 
+122[2. Whether the aforesaid principal officer and persons associated with 
+investment advice comply with certi fication and qualification requirements 
+under regulation 7 and applicant has submitted a declaration with respect to 
+the same. 
+(Provide self-certified copies of supporting documents).] 
+123[3. Copy of certification obtained by the aforesaid principal officer and 
+persons associated with investment advice in accordance with regulation 
+7(2).] 
+4. Declaration that the aforesaid 124[principal officer and persons associated 
+with investment advice] shall obtain fresh certification before expiry of the 
+validity of the existing certification to ensure continuity in compliance with 
+certification requirements.  
+125[***] 
+ 
+IV. In case applicant is a body corporate (other than company or limited liability 
+partnership): 
+1. Shareholding pattern and profile of the directors  126[, principal officer 127[, 
+compliance officer]  and persons associated with investment advice ] 
+                                                 
+119 Substituted for the w ords “address proof ” by the SEBI (Investment Advisers) (Second Amendment) 
+Regulations, 2025, w.e.f. 25-11-2025. 
+120 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+121 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25-11-2025. 
+122Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause 2. read as under; 
+“2.Whether the aforesaid partners have: 
+a. A profe ssional qualification or post -graduate degree or post graduate diploma in finance, 
+accountancy, business management, commerce, economics, capital market, banking, insurance or 
+actuarial science from a university or an institution recognized by the Central Government or any State 
+Government or a recognised foreign university or institution or association; or  
+b. A graduate in any discipline with an experience of at least five years in activities relating to 
+advice in financial products or securities or fund or asset or portfolio management.  
+    (Provide self certified copies of supporting documents).” 
+ 
+123 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause 3. read as under; 
+“3.Copy of certification obtained by the aforesaid partners in accordance with regulation 7(2).  
+(If the applicant is an existing investment adviser applying for fresh registration, then provide a 
+declaration stating that all the partners engaged in investment advice shall obtain such certification 
+within two years from the date of commencement of these regulations and after all such partners obtain 
+the certification, a declaration to that effect shall be submitted to SEBI.)” 
+124 Substituted for the word “partner” by the  SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, 
+w.e.f. 30-09-2020. 
+125 Omitted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to omission, clause (5) read as “5. Copy of assets and liabilities statement.” 
+126 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+127 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025.
+
+[Page 33]
+33 
+ 
+(Enclose identity proof and 128[details of address]  of the directors  129[, 
+principal officer 130[, compliance officer]  and persons associated with 
+investment advice]). 
+2. Whether the applicant is set up or established under the laws of the Central 
+or State Legislature and whether the applicant is permitted to carry on of 
+the activity of an investment adviser (Enclose relevant extr act of the 
+relevant Statute/Act). 
+3. Number of 131[132[***] persons associated with investment advice ] who 
+render/ propose to render investment advice under these regulations on 
+behalf of the applicant.  
+4. 133[Declaration by the applicant that it s principal officer and persons 
+associated with investment advice currently comply with the certification 
+and qualification requirements under regulation 7.] 
+5. Declaration by the applicant that it shall ensure that its  134[principal officer 
+and persons associa ted with investment advice ] comply with the 
+certification and qualification requirements under regulation 7 at all times.  
+135[***] 
+ 
+3. BUSINESS PLAN 
+1. Proposed business plan & means of achieving the same. 
+2. The type of products/ securities on which investment advice is proposed to 
+be rendered. 
+3. Process for risk profiling of the client and for assessing suitability of 
+advice.  
+136[4. DECLARATION OF NECESSARY INFRASTRUCTURE  
+                                                 
+128 Substituted for the words “address proof ” by the SEBI (Investment Advisers) (Second Amendmen t) 
+Regulations, 2025, w.e.f. 25-11-2025. 
+129 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+130 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+131 Substituted for the words “employees and agents of the applicant (hereinafter referred to as 
+‘representatives’)” by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+132 The words “principal officer and” , omitted by the SEBI (Investmen t Advisers) (Second Amendment) 
+Regulations, 2025, w.e.f. 25-11-2025. 
+133Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, clause 4 read as under; 
+“4. Declaration by the applicant that i ts representatives currently comply with the certification and 
+qualification requirements under regulation 7. 
+(If the applicant is an existing investment adviser applying for fresh registration, then provide a 
+declaration stating that the applicant shall e nsure that all its representatives obtain such certification 
+within two years from the date of commencement of these regulations and after all its representatives 
+obtain the certification, a declaration to that effect shall be submitted to SEBI.)”  
+134 Substituted for the words “representatives” by the SEBI (I nvestment Advisers) (Amendment) Regulations, 
+2020, w.e.f. 30-09-2020. 
+135 Omitted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to omission, clause (6) read as “6. Net worth details.” 
+136 Substituted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to its substitution, item 4 read as under; 
+“ 4. DETAILS OF INFRASTRUCTURE
+
+[Page 34]
+34 
+ 
+Declaration that the applicant has the necessary infrastr ucture to effectiv ely 
+discharge the activities of an investment adviser.] 
+ 
+137[5. IMPLEMENTATION OF ADVICE OR EXECUTION SERVICES. 
+1. Provide a declaration that no consideration including any commissio n or 
+referral fees whether embedded or indirect or otherwise by whatever name 
+called shall be received directly or indirectly at Investment Adviser’s group or 
+family level for the said service, as the case maybe. 
+2. If the applicant is a non -individual, whether the applicant proposes to offer 
+distribution services.] 
+6. OTHER INFORMATION/DECLARATIONS/ REGULATORY ACTIONS 
+(a) Details of all settled and pending disputes in the last 5 years. 
+(b) Whether any previous application for grant of certificate made by any person d irectly 
+or indirectly connected with the applicant has been rejected by the Board; If yes, 
+provide details of the same. 
+(c) Whether any disciplinary action has been taken by the Board or any other regulatory 
+authority against any person directly or indirectly connected with the applicant under 
+the Act or the regulations made there under in the last 5 years. If yes, provide details 
+of the action. 
+(d) Whether the applicant/directors/promoters/ partners  138[, principal officer and persons 
+associated with investment advi ce] have been indicted/involved in any economic 
+offence in the last 5 years. If yes, provide details of the same. 
+(e) 139[***] 
+(f) Declaration t hat the applicant, its 140[directors, principal officer , persons associated 
+with investment advice] and partners, if any, are fit and proper persons based on the 
+criteria as specified in Schedule II of the Securities and Exchange Board of India 
+(Intermediaries) Regulations, 2008; 
+(g) Declaration that the applicant shall not obtain any consideration by way of 
+                                                                                                                                                        
+1. Details of office space, office equipment, furniture and fixtures, communication facilities, research 
+capacity, research software for undertaking investment advisory services.  
+2. Declaration that the applic ant has the necessary infrastructure to effectively discharge the activities of an 
+investment adviser.” 
+137 Substituted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 30 -09-2020. Prior to 
+its substitution, item 5 read as under; 
+“EXECUTION SERVICES 
+1. If the applicant is a body corporate, whether the applicant proposes to offer distribution or 
+execution services to its clients. 
+2. If yes, provide a declaration that the services are being offered through a subsidiary/ 
+separately identifiable department or division.” 
+ 
+138 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020. 
+139 Omitted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025. 
+Prior to omission, clause (e) re ad as “(e) A credit report/ score from CIBIL for the applicant.(For applicants 
+other than financial institutions & banking companies)” 
+140 Substituted for the word “representatives” by the SEBI (I nvestment Advisers) (Amendment) Regulations, 
+2020, w.e.f. 30-09-2020.
+
+[Page 35]
+35 
+ 
+remuneration or compensation or any other form whatsoever, from any person other 
+than the client being advised, in respect of the underlying products or secu rities for 
+which advice is provided to the client. 
+141[(ga) In case of registration as part -time investment adviser, a declaration that it shall 
+maintain arms -length relationship between its business activity as investment 
+adviser and other business activity  and shall ensure that its business activities as 
+investment adviser are clearly segregated from its other business activity or 
+employment.] 
+(h) Any other information considered relevant to the nature of services to be rendered by 
+the applicant. 
+7. DECLARATION STATEMENT  
+I/We hereby agree and declare that the information supplied in the application, including 
+the attachment sheets, is complete and true. 
+AND I/ we further agree that, I/we shall notify the Securities and Exchange Board of 
+India 142[and Investment Adviser Administration and Supervisory Body] immediately any 
+change in the information provided in the application. 
+I/ We further agree that I/ we shall comply with, and be bound by the Securities and 
+Exchange Board of India Act, 1992, and the Securities and E xchange Board of India 
+(Investment Advisers) Regulations, 2013, guidelines/instructions as may be announced by 
+the Securities and Exchange Board of India from time to time. 
+I/ We further agree that as a condition of registration, I/ we shall abide by such 
+operational instructions/directives as may be issued by the Securities and Exchange Board 
+of India from time to time. 
+ 
+For and on behalf of ____________________________________________________ 
+(Name of the applicant) 
+Authorized signatory/ Applicant 
+(Signature) 
+(Date and Place) 
+                                                 
+141 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024. 
+ 
+142 Inserted by the SEBI (Investment Advisers) (Second Amendment) Regulations, 2025, w.e.f. 25 -11-2025.
+
+[Page 36]
+36 
+ 
+FORM B 
+Securities and Exchange Board of India 
+(Investment Adviser) Regulations, 2013 
+[See regulation 9] 
+Certificate of registration as investment adviser 
+I. In exercise of the powers conferred by sub -section (1) of section 12 of the Securities and 
+Exchange Board of India Act, 1992 (15 of 1992), read with the regulations made there under, 
+the Board hereby grants a certificate of registration to  
+_______________________________________________________________  
+as an investment adviser s ubject to the conditions specified in the Act and in the regulations 
+made thereunder.  
+ 
+II. The Registration Number of the investment adviser is   
+IN/IA/_____________.  
+Date :  
+Place : MUMBAI  
+By Order  
+Sd/-  
+For and on behalf of  
+Securities and Exchange Board of India 
+ 
+ 
+143[FORM C  
+Securities and Exchange Board of India  
+(Investment Adviser) Regulations, 2013  
+[See regulation 9]  
+Certificate of registration as Part-Time Investment Adviser  
+I. In exercise of the powers conferred by sub-section (1) of section 12 of the Securities and Exchange 
+Board of India Act, 1992 (15 of 1992), read with the regulations made there under, the Board hereby 
+grants a certificate of registration to ___________________as a part-time investment adviser subject 
+to the conditions specified in the Act and in the regulations made thereunder.  
+ 
+II. The Registration Number of the part-time investment adviser is  
+                                                 
+143 Inserted by the Securities and Exchange Board of India (Investment Advisers) (Second Amendment) 
+Regulations, 2024, w.e.f. 16-12-2024.
+
+[Page 37]
+37 
+ 
+IN/IA/_____________.  
+III. This certificate of registration shall be valid till it is suspended or cancelled by the Board  
+ 
+Date:  
+Place: MUMBAI  
+By Order  
+Sd/-  
+For and on behalf of  
+Securities and Exchange Board of India]
+
+[Page 38]
+38 
+ 
+144[SECOND SCHEDULE  
+ 
+Securities and Exchange Board of India (Investment Advisers) Regulations, 2013 
+ 
+[Regulation 9] 
+ 
+FEES 
+1. Every applicant shall pay non -refundable application fees along with the 
+application for grant 145[***] of certificate of registration as under: 
+a. 146[For individuals and 
+firms                                          
+₹ 2,000]  
+b. 147[For Body Corporate 
+including Limited 
+Liability Partnerships] 
+₹ 10,000  
+2. 148[Every applicant shall pay registration fee  at the time of grant  of certificate by 
+the Board as under:  
+a. For individuals and firms     ₹ 3,000  
+                                                 
+144 Substituted by the SEBI (Payment of Fees) (Amendment) Regulations, 2014, w.e.f 23.05.2014. Prior to its 
+substitution, the Second Schedule read as under: 
+1. “Every applicant shall pay non -refundable application fees of five thousand rupees along with the 
+application for grant or renewal of certificate of registration. 
+2. Applicants which are individuals and firms shall pay a sum of te n thousand rupees as registration/ 
+renewal fee at the time of grant or renewal of certificate by the Board. 
+3. A body corporate shall pay a sum of one lakh rupees as registration/ renewal fee at the time of grant or 
+renewal of certificate by the Board. 
+4. The fee referred to in paragraph 1, 2 and 3 shall be paid by the applicant within fifteen days from the 
+date of receipt of intimation from the Board by a demand draft in favor of 'Securities and Exchange 
+Board of India' payable at Mumbai or at respective regional or local office.” 
+ 
+145 The words “or renewal” omitted by the Securities and Exchange Board of India (Change In Conditions Of 
+Registration Of Certain Intermediaries) (Amendment) Regulations, 2016 w.e.f. 08-12-2016. 
+ 
+146 Substituted by the SEBI (Investment Advisers) (Amendment) Regulations, 2021, w.e.f. 01-04-2021. Prior to 
+its substitution, sub-clause (a) read as under: 
+“For individuals and firms ₹ 5,000” 
+ 
+147 Substituted by the SEBI (Investment Advisers) (Amendment) Regulations, 2021, w.e.f. 01-04-2021. Prior to 
+its substitution, sub-clause (b) read as under: 
+“For Body Corporate including Limited Liability Partnerships ₹ 25,000” 
+ 
+148 Substituted by the SEBI (Investment Advisers) (Amendment) Regulations, 2021, w.e.f. 01-04-2021. Prior to 
+its substitution, clause (2) read as under: 
+“Every applicant shall pay registration fee at the time of grant or renewal of certificate by the Board 
+as under:  
+a. For individuals and firms ₹ 10,000 
+b. For Body Corporate including Limited Liability Partnerships ₹ 5,00,000”
+
+[Page 39]
+39 
+ 
+b. For body Corporate including Limited Liability Partnerships    ₹ 15,000] 
+3. 149[An investment adviser who has been granted a certificate of registration, to 
+keep its registration in force, shall pay fee 150[specified below] every five  years , 
+from the date of grant of certificate of registration or from the date of grant of 
+certificate of registration granted prior to the commencement of the Securities and 
+Exchange Board of India (Change in Conditions of Registration of Certain 
+Intermediaries) (Amendment) Regulations, 2016 , as the case may be, within three 
+months before expiry of the period for which fee has been paid151[:]] 
+ 152[a. For individuals and firms  ₹ 1,000  
+b. For Body Corporate including Limited Liability Partnerships ₹ 5,000] 
+ 
+153[4. The fee referred to in paragraph 2 shall be paid by the applicant within fifteen 
+days from the date of receipt of intimation from the Board by way of direct credit 
+into the bank account through NEFT/RTGS/IMPS or online payment using the 
+SEBI Payment Gateway or any other mode as may be specified by the Board from 
+time to time.] 
+ 
+THIRD SCHEDULE 
+Securities and Exchange Board of India (Investment Advisers) Regulations, 2013 
+[See sub-regulation (9) of regulation 15] 
+ 
+CODE OF CONDUCT FOR INVESTMENT ADVISER 
+ 
+                                                 
+149 Inserted by the by the Securities and  Exchange Board of India (Change In Conditions Of Registration  Of 
+Certain Intermediaries) (Amendment) Regulations, 2016 w.e.f. 08-12-2016. 
+ 
+150 Substituted for the words “prescribed at paragraph 2 above”  by the  SEBI (I nvestment Advisers) 
+(Amendment) Regulations, 2021, w.e.f. 01-04-2021. 
+ 
+151 Substituted for the symbol “.” by the SEBI (Investment Advisers) (Amendment) Regulations, 202 1, w.e.f. 
+01-04-2021. 
+ 
+152 Inserted by the SEBI (Investment Advisers) (Amendment) Regulations, 2021, w.e.f. 01-04-2021. 
+ 
+153 Substituted by the Securities and Exchange Board of India (Payment of Fees and Mode of Payment) 
+(Amendment) Regulations, 2023 w.e.f 01-04-2023. Prior to its substitution, clause (4) read as under: 
+*[The fee referred to in par agraph 2 shall be paid by the applicant within fifteen days from the date of 
+receipt of intimation from the Board by way of demand draft  in favour of Securities and Exchange 
+Board of India' payable at Mumbai or at respective regional or local office. or b y way of direct credit 
+in the bank account through NEFT/RTGS/IMPS or any other mode allowed by RBI.]  
+ *[Inserted by the Securities and  Exchange Board of India (Change In Conditions Of Registration  Of 
+Certain Intermediaries) (Amendment) Regulations, 2016 w.e.f. 08-12-2016.]
+
+[Page 40]
+40 
+ 
+1. Honesty and fairness 
+An investment adviser shall act honestly, fairly and in the best interests of its cl ients 
+and in the integrity of the market. 
+2. Diligence 
+An investment adviser shall act with due skill, care and diligence in the best interests 
+of its clients and shall ensure that its advice is offered after  thorough analysis and 
+taking into account available alternatives. 
+3. Capabilities 
+An investment adviser shall have and employ effectively appropriate resources and 
+procedures which are needed for the efficient performance of its business activities. 
+4. Information about clients 
+An investment adviser shall seek from its clients, information about their financial 
+situation, investment experience and investment objectives relevant to the services to 
+be provided and maintain confidentiality of such information.  
+5. Information to its clients 
+An investment adviser shall  make adequate disclosure s of relevant material 
+information while dealing with its clients. 
+6. Fair and reasonable charges 
+An investment adviser advising a client may charge fee s, subject to any ceiling a s 
+may be specified by the Board  154[***]. The investment adviser shall ensure that fees 
+charged to the clients is fair and reasonable.   
+7. Conflicts of interest 
+An investment adviser shall try to avoid conflicts of interest as far as possible and 
+when they cannot be avoided, it shall ensure that appropriate disclo sures are made to 
+the clients and that the clients are fairly treated. 
+8. Compliance 
+An investment adviser including its 155[partners, principal officer and persons  
+associated with investment advice ] shall comply with all regulatory requirements 
+applicable to t he conduct of its business activities so as to promote the best interests 
+of clients and the integrity of the market. 
+9. Responsibility of senior management 
+                                                 
+154 The words “if any” was omitted by the SEBI (I nvestment Advisers) (Amendment) Regulations, 2020, w.e.f. 
+30-09-2020. 
+ 
+155 Substituted for the words “representative(s)” by the SEBI (Investment Advisers) (Amendment) Regulations, 
+2020, w.e.f. 30-09-2020.
+
+[Page 41]
+41 
+ 
+The senior management of a body corporate which is registered as investment adviser 
+shall bear primary  responsibility for ensuring the maintenance of appropriate 
+standards of conduct and adherence to proper procedures by the body corporate.
+
+[Page 42]
+42 
+ 
+Note:  
+1. The Securities and Exchange Board of India (Investment Advisers) Regulations, 
+2013 were published in the Gazette of India on January 21, 2013 vide No. 
+SEBI/LAD-NRO/GN/2012-13/31/1778. 
+ 
+2. The Securities and Exchange Board of India (Investment Advisers) Regulations, 
+2013 were subsequently amended on, - 
+ 
+a. 23rd May, 2014 by the Securities and Exchange Board of India (Payment of Fees) 
+(Amendment) Regulations, 2014 vide No. LAD-NRO/GN/2014-15/03/1089; 
+b. 8th December, 2016 by the Securities and Exchange Board of India (Change in 
+Conditions of Registration of Certain Intermediaries) (Amendment) Re gulations, 
+2016 vide No. SEBI/LAD-NRO/GN/2016-17/023; 
+c. 17th April, 2020 by the Securities and Exchange Board of India (Regulatory 
+Sandbox) (Amendment) Regulations, 2020 vide No. SEBI/LAD -
+NRO/GN/2020/10; 
+d. 3rd July, 2020 by the Securities and Exchange Board of  India (Investment 
+Advisers) (Amendment) Regulations, 2020 vide No. SEBI/LAD -
+NRO/GN/2020/22; 
+e. 11th January, 2021 by the Securities and Exchange Board of India (Investment 
+Advisers) (Amendment) Regulations, 2021, vide No. SEBI/LAD -
+NRO/GN/2021/04; 
+f. 16th March, 2021 by the Securities and Exchange Board of India (Investment 
+Advisers) (Second Amendment) Regulations, 2021 vide No. SEBI/LAD -
+NRO/GN/2021/11; 
+g. 3rd August, 2021 by the Securities and Exchange Board of India (Investment 
+Advisers) (Third Amendment) Regulati ons, 2021 vide No SEBI/LAD -
+NRO/GN/2021/34; 
+h. 3rd August, 2021 by the Securities and Exchange Board of India (Regulatory 
+Sandbox) (Amendment) Regulations, 2021 vide No. SEBI/LAD -
+NRO/GN/2021/30; 
+i. 17th January, 2023 by the Securities and Exchange Board of India (Change in 
+Control in Intermediaries) (Amendment) Regulations, 2023 vide No. SEBI/LAD -
+NRO/GN/2023/115; 
+j. 07th February, 2023 by the Securities and Exchange Board of India (Payment of 
+Fees and Mode of Payment) (Amendment) Regulations, 2023 vide No. 
+SEBI/LAD-NRO/GN/2023/121; 
+k. 3rd July, 2023 by the Securities and Exchange Board of India (Alternative Dispute 
+Resolution Mechanism) (Amendment) Regulations, 2023 vide No. SEBI/LAD –
+NRO/GN/2023/137; 
+l. 17th August, 2023 by the Securities and Exchange Board of India (Facili tation of 
+Grievance Redressal Mechanism) (Amendment) Regulations, 2023 vide No. 
+SEBI/LAD-NRO/GN/2023/146; 
+m. 9th October, 2023 by the Securities and Exchange Board of India (Investment 
+Advisers) (Amendment) Regulations, 2023 vide No. SEBI/LAD -
+NRO/GN/2023/154; 
+n.  26th April, 2024 by the Securities and Exchange Board of India (Investment 
+Advisers) (Amendment) Regulations, 2024 vide No. SEBI/LAD -
+NRO/GN/2024/169;
+
+[Page 43]
+43 
+ 
+o. 16th December, 2024 by the Securities and Exchange Board of India (Investment 
+Advisers) (Second Amendmen t) Regulations, 2024 vide No. SEBI/LAD -
+NRO/GN/2024/219; 
+p. 7th August, 2025 by the Securities and Exchange Board of India (Investment 
+Advisers) (Amendment) Regulations, 2025 vide No. SEBI/LAD -
+NRO/GN/2025/253. 
+q. 25th November, 2025 by the Securities and Exchange  Board of India (Investment 
+Advisers) ( Second Amendment) Regulations, 2025 v ide No. SEBI/LAD -
+NRO/GN/2025/278. 
+ 
+ 
+ 
+*** 
+[This note does not form a part of the regulations]

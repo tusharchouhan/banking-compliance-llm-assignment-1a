@@ -1,0 +1,2 @@
+model_id,total_parameters,trainable_parameters,decoder_layers,attention_heads,hidden_size,vocabulary_size,head_dimension,lm_head_output_dimension,lm_head_matches_vocab
+HuggingFaceTB/SmolLM2-360M,361821120,361821120,32,15,960,49152,64,49152,True

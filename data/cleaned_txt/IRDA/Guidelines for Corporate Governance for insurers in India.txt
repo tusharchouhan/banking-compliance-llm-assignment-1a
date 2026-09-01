@@ -1,0 +1,10166 @@
+[Page 1]
+Ref.: IRDA/F&A/GDL/CG/100/05/2016 
+. . ' 
+~I ~ ~,ufl~ inn R4~~,,Hi 3fu R4f.fi,t1 ~ 
+1t1;1aa INSURANCE REGULATORY AND 
+irJai DEVELOPMENT AUTHORITY OF INDiA 
+Date: 18th May, 2016 
+Guidelines for Corporate Governance for insurers in India 
+The Authority had initially issued Guidelines on Corporate Governance for insurance 
+companies vide circular dt. 5th August, 2009. The Authority had also issued separate 
+guidelines for appointment/ reappointment and remuneration of MD/CEO/ WTD as well as 
+other Key Management Persons (KMPs), as also the Appointment of statutory auditors of 
+insurers through various circulars. 
+In view of the extensive changes to the governance of companies brought about by the 
+Companies Act, 2013, it was decided to review the various guidelines of the Authority 
+relating to the governance of insurance companies. After due consultation with the industry 
+representatives and other stakeholders and professionals, the Authority has drawn out the 
+revised Guidelines on Corporate Governance for insurance companies. The revised 
+guidelines combine the stipulations regarding the Corporate Governance practices, 
+appointment of MD/ CEO/ WTD and other KMPs as well as the appointment of statutory 
+auditors of insurers. These are applicable from FY 2016-17 onwards. These guidelines shall 
+be applicable to all insurers granted registration by the Authority except that: 
+(i) reinsurance companies may not be required to have the Policyholders' Protection 
+Committee; and 
+(ii) branches of foreign reinsurers in India may not be required to constitute the Board and 
+its mandatory committees as indicated herein. 
+All insurers are hereby advised to ensure compliance with the guidelines. 
+-q-ft~ ~. mmf<l"R, ~. ~-500 004. ~ 
+({) : 91-040-2338 1100, ~ : 91-040-6682 3334 
+t-~: irda@irda.gov.in ~: www.irda.gov.in 
+ti~ y: 
+(V R Iyer) 
+Member-F&I 
+Parisharam Bhavan, 3rd Floor, Basheer Bagh, Hyderabad-500 004. India. 
+Ph.: 91-040-2338 1100, Fax: 91-040-6682 3334 
+E-mail: irda@irda.gov.in Web.: www.irda.gov.in
+
+[Page 2]
+i 
+ 
+ 
+ 
+ 
+ 
+Corporate 
+Governance Guidelines for 
+Insurers in India  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 201
+6 
+ 
+ 
+• Jll 'flmfR tii, AA 'I litcfi 31tt ~ cfil~ ~ 
+1,11;-a;ca INSURANCE REGULATORY AND 
+lz;kd DEVELOPMENT AUTHORITY oF INDIA
+
+[Page 3]
+ii
+ 
+ 
+INDEX
+ 
+ 
+Para No.
+ 
+Particulars
+ 
+Page No.
+ 
+1
+ 
+General
+ 
+1
+ 
+2
+ 
+Objectives
+ 
+1
+-
+2
+ 
+3
+ 
+Significant owners, Controlling shareholders 
+–
+ 
+Role of the Board
+ 
+2
+-
+3
+ 
+4
+ 
+Governance Structure
+ 
+4
+ 
+5
+ 
+Boar
+d of Directors
+ 
+4
+-
+7
+ 
+ 
+5.1 Composition of Board
+ 
+4
+-
+5
+ 
+ 
+5.2 Role & Responsibility of Board
+ 
+6
+ 
+ 
+5.3 Fit & Proper Criteria
+ 
+7
+ 
+ 
+5.4 Disclosures about Meetings of the Board & its Committees
+ 
+7
+ 
+6
+ 
+Control Functions
+ 
+7
+-
+8
+ 
+7
+ 
+Delegation of functions of the Board
+ 
+-
+ 
+Commi
+ttees
+ 
+8
+-
+1
+7
+ 
+ 
+7.1 Audit Committee
+ 
+9
+ 
+ 
+7.2 Investment Committee 
+ 
+10
+ 
+ 
+7.3 Risk Management Committee
+ 
+10
+-
+11
+ 
+ 
+7.4
+Policyholder Protection
+ 
+Committee
+ 
+11
+-
+12
+ 
+ 
+7.5 
+Nomination and Remuneration
+ 
+Committee
+ 
+13
+-
+14
+ 
+ 
+7.6 
+ 
+Corporate Social Responsibility
+ 
+Committee
+ 
+14
+ 
+ 
+7.7
+ 
+With Profit
+ 
+Committee
+ 
+14
+-
+15
+ 
+ 
+7.8 
+Other
+ 
+Committee
+s
+ 
+15
+-
+17
+ 
+8
+ 
+Key Management Persons 
+ 
+1
+7
+-
+1
+9
+ 
+ 
+MD/CEO/Whole
+-
+time Director
+ 
+1
+7
+-
+18
+ 
+ 
+Appointed Actuary
+ 
+1
+8
+-
+19
+ 
+ 
+Statutory Auditors
+ 
+1
+9
+ 
+9
+ 
+Disclosure Requirements 
+ 
+1
+9
+-
+20
+ 
+10
+ 
+Outsourcing 
+Arrangements
+ 
+20
+ 
+11
+ 
+Interactio
+n with & Reporting to the Authority (IRDAI)
+ 
+21
+ 
+12
+ 
+Whistle Blow
+er
+ 
+Policy
+ 
+22
+ 
+13
+ 
+Evaluation of Board & Independent Directors
+ 
+2
+2
+ 
+14
+ 
+Applicability
+ 
+22
+ 
+Annexure 1
+ 
+Responsibilities of the Board
+ 
+2
+3
+-
+24
+ 
+Annexure 2
+ 
+Declaration and Undertaking by Directors
+ 
+2
+5
+-
+2
+7
+ 
+Annexure 3
+ 
+Deed of Covenant for Directors
+ 
+2
+8
+-
+3
+2
+ 
+Annexure 4
+ 
+Appointment and Reporting of KMPs
+ 
+3
+3
+-
+3
+9
+ 
+Annexure 5
+ 
+Form A 
+–
+ 
+Application for seeking approval for appointment/ re
+-
+appointment of MD/ CEO
+ 
+40
+-
+41
+ 
+Annexure 6
+ 
+Form  B 
+–
+ 
+Form of Declaration and underta
+king to be furnished by MD & 
+CEO
+, 
+Form 
+–
+C Form of Details of remuneration of MD/ CEO
+ 
+4
+2
+-
+4
+5
+ 
+Annexure 7
+ 
+Ap
+pointment of Statutory Auditors
+ 
+4
+6
+-
+5
+4
+ 
+Annexure 8
+ 
+Certificate from Compliance Officer
+ 
+5
+5
+ 
+Annexure 9
+ 
+Corporate Governance compliance Status Report
+ 
+5
+6
+-
+6
+4
+
+[Page 4]
+1
+ 
+ 
+CORPORATE GOVERNANCE GUIDELINES
+ 
+FOR INSURANCE COMPANIES
+ 
+ 
+1.
+ 
+General
+ 
+ 
+1.1
+ 
+Corporate Governance is understood as 
+a system of financial and other 
+controls in a corporate 
+entity and broadly defines the relationship between the
+ 
+shareholders,
+ 
+Board of Direc
+tors
+ 
+and
+ 
+management
+.
+ 
+In case of the 
+financial sector, where the entities accept public
+ 
+liabilities for fulfillment 
+of 
+certain contracts, the relationship is fiduciary 
+with enhanced responsibility to 
+protect the interests 
+of all stakeholders.
+ 
+The Corporate 
+Governance 
+framework should clearly define the
+ 
+roles and 
+responsibilities and 
+accountability within an organization with bu
+ilt
+-
+in checks and balances. The 
+importance of Corporate Governance has re
+ceived emphasis in recent times 
+since poor 
+governance and we
+ak internal controls have been associated with
+ 
+major corporate failures. It has 
+also been apprec
+iated that the financial sector 
+needs to have a more intensive governance 
+struc
+ture in view of its role in the 
+economic development and since the safet
+y and fin
+ancial strength 
+of the 
+institutions are critical for the overall strength o
+f the financial sector on which 
+the economic 
+growth is built upon. As re
+gards the insurance sector, the 
+regulatory responsibility to protect the 
+interes
+ts of the policyholders deman
+ds 
+that the insurers have in place, good governan
+ce practices 
+for maintenance of 
+solvency, sound long term investment policy
+ 
+and assumption of underwriting 
+risks on a prudential basis. The emergence of insur
+ance companies as a part 
+of financial 
+conglomerat
+es has added a furth
+er dimension to sound Corporate 
+Governance in the insurance 
+sector with emphasis on overall risk
+ 
+management across the structure and to prevent any 
+contagion
+ 
+and to ensure financial stability
+.
+ 
+ 
+1.2
+ 
+The Insurance Regulatory and Developme
+nt Authority 
+of India 
+(IRDA
+I
+) has outlined in
+ 
+general 
+terms, governance responsibilities of
+ 
+the Board in the management of 
+the insurance functions 
+under various Regu
+lations notified by it covering 
+different operational areas. It has now been 
+decided to
+ 
+put
+ 
+them together and 
+to issue the following comprehensive guidelines for adoption by 
+an 
+Insurer
+.
+ 
+In the light of changes brought in by the Companies Act, 2013, the existing guidelines 
+on Corporate Governance practices of 
+insurers
+ 
+are being revised as below. 
+These revised 
+Guidelines shall 
+replace 
+the existing guidelines on Corporate Governance issued by the Authority
+ 
+and shall take effect from 
+FY 2016
+-
+17
+.
+ 
+These guidelines shall also supercede the Guideli
+n
+es on
+ 
+Reporting of Key Persons dt. 9
+th
+ 
+October, 2013 and
+ 
+s
+tipulations regarding appointment of Statutory 
+Auditors 
+issued 
+vide Circulars dt.25.07.2005 and 22.04.2009.
+ 
+ 
+2.
+ 
+Objectives
+ 
+ 
+2.1
+ 
+The objective of the guidelines is to ensure that 
+the structure, responsibilities 
+and functions of 
+Board of Directors a
+nd the 
+management of the 
+company recognize the expectations of al
+l 
+stakeholders as well as those 
+of the regulator. The structure should take st
+eps required to adopt 
+sound and 
+prudent principles and practices for th
+e governance of the company and 
+should have 
+the a
+bility to quickly address i
+ssues of non
+-
+compliance or weak 
+oversight and controls. These 
+guidelines ther
+efore amplify on certain issues 
+which are covered in the Insurance Act, 
+1938 and the 
+regulations framed 
+thereunder and include measures which are ad
+diti
+onally considered essential 
+by 
+IRDA
+I
+ 
+for adoption by 
+insurers
+.
+
+[Page 5]
+2
+ 
+ 
+ 
+2.2
+ 
+The guidelines accordingly address the variou
+s requirements broadly covering 
+the following 
+major structural elements of Co
+rporate Governance in insurance 
+companies:
+-
+ 
+ 
+
+ 
+Governance structure
+ 
+
+ 
+Board of Directors
+ 
+
+ 
+CEO 
+ 
+
+ 
+Key Management
+ 
+functions
+ 
+
+ 
+Role of Appointed Actuaries
+ 
+
+ 
+External audit 
+–
+ 
+Appointment of Statutory Auditors
+ 
+
+ 
+Disclosures
+ 
+
+ 
+Relationship with stakeholders
+ 
+
+ 
+Interaction with the Supervisor
+ 
+
+ 
+Whistle 
+blow
+er
+ 
+policy
+ 
+ 
+2.3
+ 
+In these guidelines, the r
+eference to the “Boar
+d” would apply to the “Board of 
+Directors” and 
+the 
+term 
+“
+Key 
+Management
+ 
+Persons
+”
+ 
+shall be 
+as defined in these guidelines. 
+ 
+ 
+3. Significant Owners, Controlli
+ng Shareholders 
+–
+ 
+Role of Board
+ 
+ 
+3.1
+ 
+IRDA
+I
+ 
+prescribes a minimum lock
+-
+in per
+iod 
+of 5 years from the date of 
+certificate of 
+commencement of business of an
+ 
+insurer (R3) for the promoters 
+of the insurance company and no 
+transfer of s
+hares of the promoters 
+is
+ 
+permitted within this period
+ 
+without the specific approval of 
+the Authority
+.
+ 
+ 
+3.
+2
+ 
+Section 2 (7A) of the Insurance Act, 1938 has prescribed the ceiling
+ 
+of F
+oreign Investm
+e
+nt
+ 
+in 
+Indian Insurance Companies at 
+49
+%
+, subject to the Indian Insurance Company being Indian owned 
+and controlled
+.
+ 
+The manner of 
+computation of F
+oreign Investment
+ 
+to
+ 
+satisfy this requirement 
+i
+s 
+specified in the Rules and Regulations issued by the Government and IRDAI from time to time. 
+ 
+ 
+Explanation to sub
+-
+clause (b) 
+of 
+clause 7A of Sec 2 of the Insurance Act, 
+1938
+, which defines 
+‘Indian Insurance Company’ provides th
+at 
+the expression “control” shall include the right to appoint 
+a majority of directors or to control the management or policy decisions including by virtue of their 
+shareholding or management rights or shareholders agreements or voting agre
+ements. 
+ 
+ 
+Theref
+ore, it has to be demonstrated through express provisions in the agreements between the 
+promoters/ shareholders and/ or the Articles of Association of the Insurance companies that the 
+ownership as well as control
+ 
+does not lie with foreign entities but 
+ulti
+mately 
+rests with resident 
+Indian citizens at all times.
+ 
+ 
+ 
+ 
+3.3
+ 
+The Insurance Act
+, 1938
+ 
+stipulates
+ 
+prior approval of the IRDA
+I
+ 
+for 
+registration/transfer of 
+shares, exceeding one
+ 
+per cent and /or which involve 
+holding of share capital, after such transfer, 
+in excess of 5 per cen
+t of the paid
+-
+up 
+capital of the company
+. 
+The Board of Directors of the
+
+[Page 6]
+3
+ 
+ 
+company shall ensure that the registration of
+ 
+shares is in compliance with the above pro
+visions of 
+the Act
+, Regulations and circulars issued by IRDAI from time to 
+time.
+ 
+ 
+ 
+3
+A
+.
+ 
+Conflict of Interest 
+–
+ 
+Role of Board
+ 
+ 
+1.
+ 
+W
+here it is proposed to enter 
+in
+to a contract or arrangement with Related parties as defined in 
+Companies Act 2013, the disclosures by Directors and necessary approvals as required under 
+Section
+s
+ 
+184, 17
+7(4)(iv) and 188 of Companies Act 2013, read with the relevant Rules thereunder, 
+shall be obtained. 
+A
+dequate systems, policies and procedures to address potential conflicts of 
+interest and compliance with the provisions of Companies Act, 2013
+ 
+need to be es
+tablished by the 
+insurers
+. These include Board level review of key transactions, disclosure of any conflicts of interest 
+to manage and control such issues
+. 
+Where the transactions with related parties are in the nature of 
+transactions such as reinsurance ar
+rangements or investment transactions or outsourcing to 
+related parties, for which specific regulations or guidelines have been notified, compliance with the 
+respective regulations or guidelines shall also be ensured
+.
+ 
+ 
+ 
+The Board of Directors of 
+an 
+insurer
+ 
+shall formulate a Policy 
+on Related Party Transactions
+ 
+laying 
+down the following:
+ 
+ 
+(a)
+ 
+Definition of Transactions in the ordinary course of the insurance business giving examples 
+specific to the insurance company.
+ 
+(b)
+ 
+Method of determination of arm’s length prici
+ng
+ 
+(c)
+ 
+List of items 
+requiring approvals
+ 
+from various authorities, Audit Committee, Board, 
+Shareholders etc.
+ 
+(d)
+ 
+Any other matter relevant to the Related party transactions
+ 
+ 
+The Policy shall be reviewed by the Board on an yearly basis. In the case of insurance cov
+er given 
+by the insurance company to the group companies, price/ premium quoted by the companies under 
+F&U guidelines should be considered as arm’s length.
+ 
+The disclosures about payments made to 
+group entities of the insurer out of the policyholders funds,
+ 
+shall
+ 
+be made as a part of the related 
+party disclosures in terms of para 9 of these guidelines
+; and a
+ll such transactions may be grouped 
+together under the related party transactions.
+ 
+ 
+ 
+2
+.
+ 
+Auditors, Actuaries, Directors and 
+Key
+ 
+Manage
+ment Persons
+ 
+shall n
+ot sim
+ultaneously 
+hold two 
+positions in the insurance company
+ 
+that could lead to conflict or 
+potential conflicts of interest.
+ 
+ 
+3.
+ 
+The Board should ensure ongoing compliance 
+with the statutory requirements 
+on capital 
+structure while planning or examining op
+tions 
+for capital 
+augmentation of the Company.
+
+[Page 7]
+4
+ 
+ 
+4.
+ 
+Governance Structure
+ 
+ 
+4.1
+ 
+General
+ 
+ 
+I
+nsurers in India are
+ 
+yet to go public and get their 
+shares listed on the stock exchanges. The 
+c
+omposition of the Boards of the 
+Public Sector Undertakings in the insur
+ance 
+sector is also laid 
+down by the 
+Government of India. It is relevant to 
+observe here that the Corporate 
+Governance 
+requirements of companies lis
+ted in the Stock Exchanges have 
+evolved over time and are outlined 
+in 
+SEBI (Listing Obligations and Disclosu
+re Requirements) Regulations 2015
+. As the listing 
+requi
+rements are available in public 
+domain they are not being repeated. 
+T
+he Authority advi
+ses all 
+Indian Insurance Companies
+ 
+to familiarize 
+themselves with Corporate Governa
+nce structures and 
+requirements 
+appropriate to listed entities. The companies
+, 
+even if unlisted
+, 
+ar
+e also well advised to 
+initiate 
+necessary steps to address the extant “gaps” that 
+are so identified to facilitate 
+smooth 
+transition at the time of their eventual listing in course of time.
+ 
+ 
+4.2
+ 
+ 
+Chairman 
+of the Board
+ 
+ 
+Subject to the above, the insurance companies
+ 
+presently could have different 
+structures with the 
+Board of Directors hea
+ded by a 
+Executive
+ 
+or 
+Non
+-
+executive
+ 
+Chairman with distinct overs
+ight 
+responsibilities 
+over
+ 
+the 
+other Directo
+rs and 
+K
+ey 
+M
+anagement 
+P
+ersons
+. It is
+ 
+expected that whatever 
+form is 
+taken, the broader elements of good Corporate Governance are present.
+ 
+ 
+4.3
+ 
+Groups and Conglomerates
+ 
+ 
+The governance structure of the insurer 
+could also be influenced by its 
+association wit
+h an 
+insurance group or a 
+larger financial/ non
+-
+financial 
+conglomerate. Insurers who are a part of 
+a 
+financial group could also be 
+subject to the regulatory requirements on gov
+ernance policies and 
+practices 
+established for the group level and implemented u
+niformly across the group.
+ 
+ 
+ 
+However, these practices should be reorien
+ted at the level of the insurer 
+taking into account its 
+specific business and ris
+k profile
+ 
+and sectoral regulatory requirements
+. Such insurers should 
+nevertheless strive to maintain con
+sistency in 
+policies and practices in order 
+to reinforce controls 
+across the group.
+ 
+ 
+5.
+ 
+Board of Directors
+ 
+ 
+5.1
+ 
+Composition
+ 
+ 
+
+ 
+The Insurance Act stipulates that t
+he insurance companies in India 
+would be 
+public companies 
+and 
+hence, would require a properly 
+co
+nstituted Board.
+ 
+
+ 
+Insur
+ance companies
+ 
+should ensure that the B
+oard comprises of competent and 
+qualified 
+Directors to drive the st
+rategies in a manner that would 
+sustain growth and protect the interests
+ 
+of the stakeholders in general 
+and policyholders in par
+ticular.
+
+[Page 8]
+5
+ 
+ 
+
+ 
+The size of the Board in additio
+n to being compliant with legal 
+requirements (where applicable), 
+s
+hould be consistent with scale, 
+nature and complexity of business. 
+The size and composition 
+should 
+ensure that they collectively provide k
+nowledge, s
+kills
+,
+ 
+experience and 
+commitment
+. 
+Further, the Board Members 
+should be in a position to dedicate sufficient time and
+ 
+commitment 
+to 
+fulfil
+l
+ 
+their responsibilities.
+ 
+
+ 
+It is expected that the shareholders of 
+the companies elect or nominate 
+Directors from variou
+s 
+areas of financial and management expertise
+ 
+such as accountancy, 
+law, insurance, pension, 
+ban
+king, 
+securities
+, economics
+,
+ 
+etc.,
+ 
+with 
+qualifications and experience that is appropriate to the 
+company.
+ 
+
+ 
+It is essential that the Directors
+ 
+possess the knowledg
+e of group 
+structure, organizational 
+structure, proc
+ess and products of the insurer 
+and the Board generally complies with the 
+following requirements:
+-
+ 
+ 
+The Board of Directors and 
+Key 
+M
+anagement 
+Persons
+ 
+should 
+understand the 
+operational 
+structure of
+ 
+the ins
+urer and have a general 
+understanding of the lines 
+of business and 
+products of the
+ 
+insurer, more particularly as the insurer grows in size
+ 
+and 
+complexity.
+ 
+ 
+The Board of Directors of an insurer belonging to a larger group
+ 
+structure/ conglomerate 
+shoul
+d unde
+rstand the material risks 
+and issues that could affect the
+ 
+group entities, with 
+attendant 
+implication on the insurer.
+ 
+ 
+The Board of Directors is required 
+to have 
+a 
+minimum of 
+three 
+“Independent Directors
+”
+. 
+However, 
+this requirement is relaxed to ‘two’ inde
+pendent directors, for the initial five years 
+from grant of Certificate of Registration
+ 
+to insurers
+.
+ 
+The 
+optimum 
+composition
+ 
+of 
+Independ
+ent and Non
+-
+Executive Directors 
+enhances the quality of bus
+iness judgment and 
+benefits the 
+shareholders and policyholder
+s. This is 
+especially important in respect 
+of 
+insurance companies under conglom
+erate structure and where there 
+is potential scope for 
+transfer of risks and conflicts of interests that
+ 
+affect the group entities. 
+ 
+ 
+I
+nsurers which have less than three indepen
+dent 
+directors
+ 
+shall ensure that they comply with 
+this requirement within one year of the date of 
+effect 
+of these guidelines.
+ 
+ 
+An independent Director shall fulfill all the conditions specified under Section 149 of the 
+Companies Act, 2013. An appointment l
+etter shall be issued to the Independent director 
+laying down the terms and conditions, including his duties, 
+responsibilities
+, 
+s
+itting fees
+, etc. 
+ 
+In case the number of independent directors falls below the required minimum laid down, 
+such vacancy shall b
+e filled up 
+before the immediately following Board meeting or 
+3
+ 
+months
+ 
+from the date of such vacancy, whichever is later, 
+under intimation to the Authority.
+ 
+ 
+Similarly, where the Chairman of the Bo
+ard is non
+-
+executive, the Chief 
+Executive Officer 
+should be
+ 
+a whole time director of the Board.
+
+[Page 9]
+6
+ 
+ 
+As required under Section 149 of the Companies Act, 2013, there shall be at
+ 
+least one 
+Woman Director on the Board of every Insurance company.
+ 
+ 
+ 
+ 
+5.2
+ 
+The Role and responsibility of the Board
+ 
+ 
+ 
+The specific areas of res
+ponsibilities of the Bo
+ard of 
+insurers
+ 
+are detailed in the 
+Annexure 1
+.
+ 
+The 
+Board wou
+ld primarily concentrate on the 
+direction, control and governance of the i
+nsurer and in 
+particular should 
+articulate and commit to a corporate phil
+osophy and governance tha
+t will 
+shape 
+the level of risk adoption, standards 
+of business conduct and ethical 
+behaviour of the company at 
+the macro level. The Board should also 
+set clear 
+and transparent policy framework for translati
+on of 
+the corporate objectives. 
+The Board can dele
+gate its authority to the Bo
+ard Committees in the 
+discharge 
+of this responsibility but such delegation does
+ 
+not absolve the Board from its 
+primary 
+responsibilities. In this regard, the
+ 
+Board should seek detailed and 
+transparent information flow 
+from the
+ 
+se
+nior management 
+(CEO and other KMPs)
+ 
+through well 
+documented agenda notes and 
+also devise 
+appropriate systems to serve as 
+effective monitoring arrangements. As the Boards 
+generally do not meet at 
+frequent intervals, it is imperative that the se
+nior managem
+ent is clearly 
+made 
+accountable fo
+r the two way information flow. 
+The structure of the Board of Directors shou
+ld 
+be oriented to setting
+-
+up of 
+objectives to meet the expectations of various stakeholders, strategies 
+for their
+ 
+fulfillment 
+and for monitoring t
+he ach
+ievements. The 
+Boards of 
+insur
+ance companies
+ 
+need 
+to 
+consider interests of all stakeholders, and espe
+cially their policyholders as a 
+specific group. 
+Further, since there could arise
+ 
+a conflict of interest amongst 
+the various stakeholders, a key board
+ 
+function
+ 
+would be 
+to establish strategies and 
+policies that define ethical individual and c
+orporate 
+behaviour and ongoing, 
+effective processes that ensure adherence to these strategies and policies.
+ 
+ 
+Thus, with a view to being effective, the Board 
+in acti
+ve consultation with the 
+Key 
+Management
+ 
+Persons
+,
+ 
+should 
+establish
+ 
+and evaluate 
+strategies and policie
+s to address, at the minimum, a 
+broad 
+range of areas, as indicated belo
+w. There should concurrently be 
+arrangements to review the 
+policies from time 
+to tim
+e to ensure that they are 
+dynamic.
+ 
+ 
+
+ 
+Overall direction of the business of the insur
+ance company
+, 
+including policies, strategies and 
+risk management across all the functions;
+ 
+
+ 
+P
+rojections 
+on the capital requirements, re
+venue streams, expenses and the 
+profitab
+ility. While 
+laying down 
+the projections, the Board must 
+address the expectations of the shareholders and 
+the policyholders.
+ 
+
+ 
+O
+bligation to fully comply with the Insurance A
+ct and the regulations 
+framed thereunder, and 
+other statutory requirements applicabl
+e to it;
+ 
+
+ 
+A
+ddressing conflicts of interest;
+ 
+
+ 
+E
+nsuring fair treatment of policyholders and employees;
+ 
+
+ 
+E
+nsuring information sharing with a
+nd disclosures to stakeholders, 
+including investors, 
+policyhold
+ers, employees, the regulators, 
+consumers, financial analys
+ts and/or rating agencies.
+ 
+
+ 
+E
+stablishing channels for encoura
+ging and facilitating employees 
+raising concerns or reporting 
+a possibl
+e breach of law or regulations, 
+with appropriate measures to prot
+ect 
+ 
+whistle blowers
+;
+ 
+
+ 
+D
+eveloping a corporate culture that r
+e
+cognizes and rewards adherence 
+to ethical standards.
+
+[Page 10]
+7
+ 
+ 
+5.3
+ 
+Fit and Proper Criteria
+ 
+ 
+In line with the international and domestic norms
+, the Directors of 
+insurers
+ 
+have to meet the “fit and 
+prope
+r” criteria. The criteria to be 
+satisfied, at a minimum, would re
+late to int
+egrity demonstrated in 
+personal 
+behaviour and business conduct, soun
+dness of judgment and financial 
+soundness. The 
+Insurance Act prohibits (i) a
+n
+ 
+insurance 
+intermediary/ 
+agent to be the 
+Director of 
+an
+ 
+insurance 
+company
+ 
+(except with prior approva
+l of the Authority)
+; a
+nd (ii) the common directorship 
+among life 
+insurance companies. Currently, 
+the fit and proper requirements 
+seek to ensure that the Director 
+should no
+t have been convicted or come 
+under adverse notice of the laws and regulations involv
+ing 
+moral turpitude or
+ 
+of any 
+professional body. With a view to ens
+uring that the Directors comply 
+with 
+the above requirement, a due diligence 
+enquiry should be undertaken on 
+the person to be 
+appointed as Director or for 
+the continuance of the existing 
+Dir
+ectors only after obtaining a 
+declara
+tion from the proposed/existing 
+Directors in the format given in 
+Annexure 2
+,
+ 
+at the time of 
+their 
+appointment/re
+-
+appointment.
+ 
+ 
+ 
+ 
+5.4
+ 
+Disclosures about
+ 
+Meetings
+ 
+of the Board and its Committees
+ 
+ 
+I
+nsurers shall ensure comp
+liance with the provisions of the Companies Act, 2013 and the 
+Secretarial Standards issued by the ICSI from time to time as regards conduct of the meetings of 
+the Board of Directors
+ 
+and their committees
+.
+ 
+In addition to the above, all insurers shall 
+disclos
+e the 
+following in the 
+Director’s
+ 
+Report
+:
+ 
+ 
+(a)
+ 
+Number of meetings of the Board of Directors and Committees mandated under the
+se
+ 
+Guidelines, in the financial year
+ 
+(b)
+ 
+Details of the composition of the Board of Directors and Committees mandated, setting out 
+name, qu
+alification, field of specialization, status of directorship held etc.
+ 
+(c)
+ 
+Number of meetings attended by the Directors and members of the Committee
+ 
+(d)
+ 
+Details of the remuneration paid, if any, to 
+all directors (including
+ 
+Independent Director
+s)
+ 
+ 
+6.
+ 
+Control Functi
+ons
+ 
+ 
+Given the risks that an insurer takes in carry
+ing out its operations, and the 
+potential impact it has on 
+its business, it i
+s important that the Board lays 
+down the policy framework to put in place:
+ 
+ 
+
+ 
+robust and efficient mechanisms for the identificati
+on, asse
+ssment, quantification, control, 
+mitigation and monitoring of the risks;
+ 
+
+ 
+appropriate processes for ens
+uring compliance with the Board 
+approved policy, and applicable 
+laws and regulations;
+ 
+
+ 
+appropriate internal controls to ensu
+re that the risk manage
+ment and 
+compliance policies are 
+observed;
+ 
+
+ 
+an internal audit function capable
+ 
+of reviewing and assessing the 
+adequacy and effectiveness 
+of, and
+ 
+the insurer’s adherence to its 
+internal controls as well as reporting on its strat
+egies, 
+policies and 
+procedures
+; and
+
+[Page 11]
+8
+ 
+ 
+
+ 
+Independence of the control functions
+, including the risk management 
+function, from business 
+operat
+ions demonstrated by a credible 
+reporting arrangement.
+ 
+ 
+6.1
+ 
+The 
+Board shall be responsible for the 
+oversight 
+over the
+ 
+control functions of
+ 
+an 
+Insurer
+.
+ 
+ 
+ 
+6.2
+ 
+For insur
+ers
+ 
+within a group, appropriate and ef
+fective group
+-
+wide risk control 
+systems should be 
+in place in addition to the cont
+rol systems at the level of the 
+insurer. It is essential to manage risks 
+appropr
+iately on a group
+-
+wide basis as 
+well as a
+t the level of the insurer. The Boards
+ 
+of the 
+respective insurers are 
+required to lay down requisite policy framework to ensure that
+ 
+such risks 
+are 
+adequately addressed.
+ 
+ 
+7.
+ 
+Delegation of Functions
+-
+ 
+Committees of the Board:
+ 
+ 
+With a view to providing adequa
+te Board time f
+or discharge of the significant 
+corporate 
+responsibilities, the Board can
+ 
+consider setting up of various 
+Committees of Directors by delegating 
+the over
+all monitoring responsibilities 
+after laying down the roles and responsibili
+ties of these 
+Committees to the 
+Board. In particular, the following aspects need 
+to be defined in respect of the 
+role and functions of the Committees:
+ 
+ 
+
+ 
+Constitution
+ 
+
+ 
+Objectives
+ 
+
+ 
+Responsibilities
+ 
+
+ 
+Frequency o
+f meeting / quorum requirements
+ 
+
+ 
+Appointment and removal of members
+ 
+
+ 
+Reporting to the Board
+ 
+ 
+Insurers 
+may 
+establish several Committees to undertake specific
+ 
+functions depending on the size 
+and level of th
+e complexity of the operations. 
+Typically, the Committees that assist the 
+Board are 
+Audit Committee, Risk 
+Management Com
+mittee, Nomination
+ 
+and 
+Remuneration Committee, 
+Investment Committee
+, Ethics Committee
+ 
+and 
+Asset
+-
+Liability
+ 
+Management
+ 
+Committee.
+ 
+ 
+However, the Authority advises 
+all 
+insurers
+ 
+th
+at it is mandatory to establish
+ 
+Committe
+e
+s for
+ 
+Audit
+,
+ 
+Investment
+,
+ 
+Risk Management
+,
+ 
+Pol
+icyholder Protection
+, Nomination and Remuneration
+,
+ 
+Corporate 
+Social Responsibility (only for 
+insurers earning profits)
+.
+ 
+ 
+ 
+In addition, Regulation 45d of the IRDA (Non
+-
+linked Insurance Products) Regulations, 2013 
+requires constitution of a ‘With Profit
+s’ Committee by Life Insurance Companies comprising of one 
+Independent Director of the Board, the Chief Executive Officer, the Appointed Actuary of the 
+Company and an Independent Actuary. 
+Establishment
+ 
+of the other Committees is left to the option 
+of the i
+nsurer. The role and
+ 
+responsibilities of the Committees would generally be as detailed 
+below:
+-
+
+[Page 12]
+9
+ 
+ 
+7.1
+ 
+Audit Committee (mandatory)
+ 
+ 
+
+ 
+Every 
+Insurer
+ 
+shall constitute 
+an
+ 
+Audit Committee as per Section 177 of the Companies Act, 
+2013
+.
+ 
+ 
+
+ 
+The Audit Committee shall o
+versee the 
+financial statements, financial 
+reporting, statement of 
+cash flow and 
+disclosure processes both on an 
+annual and quarterly basis. It shall set
+-
+up 
+procedures and processes to
+ 
+address all concerns relating to adequacy 
+of checks and control 
+mechani
+sms.
+ 
+
+ 
+The Chair
+person
+ 
+of the Audit Com
+mittee should be an 
+I
+ndependent 
+Director of the Board 
+with 
+an accounting
+/
+finance
+/
+audit experience 
+and 
+may 
+be a Chartered 
+Accountant or a person with 
+a 
+strong fin
+ancial analysis background. The 
+association of the CEO in 
+the Audit
+ 
+Committee 
+should be limited to 
+occasions where the Audit Committee requires 
+eliciting
+ 
+any specific 
+information concerning audit findings
+.
+ 
+As required under Section 177 of the Companies Act, 
+2013, the Audit Committee shall comprise of a minimum of
+ 
+three directors, m
+ajority of
+ 
+whom 
+shall be
+ 
+Independent Directors
+.
+ 
+
+ 
+The Audit Committee will oversee t
+he efficient functioning of the 
+internal audit department and 
+review 
+its reports. The Committee will 
+additionally monitor the progress made in 
+rectificatio
+n of 
+irregularities 
+and changes in processes wherever deficiencies have come to notice.
+ 
+
+ 
+The Audit Committee shall 
+be directly responsible for the 
+recommendation of the appointment, 
+remuneration, perfo
+rmance and 
+oversight of the work of the auditors 
+(
+intern
+al/statutory/Concurrent). 
+In case of statutory audit, the indepe
+ndence of the external 
+auditors 
+shall be ensured (although the approv
+al of appointment, remuneration 
+and removal of 
+the statutory auditors sh
+all be done by the shareholders 
+at the general body
+ 
+meeting).
+ 
+
+ 
+The Audit Committee shall have the 
+oversight on the procedures and 
+processes established to 
+attend to is
+sues relating to maintenance of 
+books of account, administration pro
+cedures, 
+transactions and other 
+matters having a bearing on the fin
+ancial
+ 
+position of the insurer, 
+whether 
+raised by the auditors or by any other person.
+ 
+
+ 
+The Audit Committee shall discuss wit
+h the statutory auditors before 
+the audit commences, 
+about the natur
+e and scope of audit as well as 
+have post
+-
+audit discussions to address
+ 
+areas of 
+concern.
+ 
+
+ 
+Act as a Compliance Committee to discuss the level of compliance in the Company and any 
+associated risks and to monitor and report to the Board on any significant compliance breaches.
+ 
+
+ 
+Any additional work other than s
+tatutory/internal aud
+it that is 
+entrusted to the auditor or any of 
+its 
+associated persons or companies 
+shall be specifically approved b
+y the Board keeping in 
+mind the 
+necessity to maintain the independ
+ence and integrity of the audit 
+relationship. All such 
+other work 
+entrusted 
+to the auditor or its 
+associates shall be specifically dis
+closed in the Notes 
+to Accounts 
+forming part of the annual accounts of the insur
+ance companies
+.
+ 
+However, it may 
+be ensured 
+that 
+insurance companies comply with Section 144 of the Companies Act
+,
+ 
+2013
+ 
+before 
+deciding to provide
+ 
+any additional work to 
+the 
+Statutory 
+A
+uditors
+.
+
+[Page 13]
+10
+ 
+ 
+7.2
+ 
+Investment Committee (mandatory)
+ 
+ 
+
+ 
+The Board of every 
+Insurer
+ 
+shall
+ 
+set up an Investment Committee 
+comprising of at least two 
+N
+on
+-
+E
+xecutive 
+D
+irectors, the Chief Executive Of
+ficer, Chief of Finance, Chief of Investment
+, 
+Chief Risk Officer 
+and, the Appointed Actuary.
+ 
+ 
+
+ 
+The Committee shall be respons
+ible to recommend 
+investment policy and 
+lay down the 
+operation
+al framework for the investment 
+operations of the insurer. The poli
+cy 
+should focus on 
+a prudential 
+Asset 
+Liability 
+Management (
+A
+L
+M) supported by robust internal 
+control systems. 
+The investment p
+olicy and operational framework 
+should, inter alia, encompass aspects 
+concerning liquidity for smooth 
+operations, compliance with
+ 
+pr
+udential regulatory norms on 
+investments, risk management / 
+mitigation strategies to ensure 
+commensurate yield on 
+investme
+nts and above all protection of 
+policyholders’ funds. 
+ 
+
+ 
+The 
+Investment Committee shall be responsible for implementing the 
+Investment P
+olicy 
+duly 
+approved by the Board. 
+ 
+
+ 
+Members of the Committee should 
+familiarize themselves and 
+be 
+conversant with the various 
+Act
+s
+, Rules, Regulations, Guidelines, Circulars
+,
+ 
+etc., issued by the Authority as amended from
+-
+time
+-
+to
+-
+time. 
+ 
+
+ 
+For assessment of cre
+dit risk and market risk, the 
+members of the Committee should 
+not be 
+influenced 
+only 
+by the 
+credit rating. The commit
+tee should independently review 
+their 
+investment decisions 
+and ensure that support by the internal 
+due diligence process 
+is an input 
+in mak
+ing appropriate investment decisions
+.
+ 
+
+ 
+The Committee shall formulate 
+an effec
+tive reporting system to ensure 
+compliance with the 
+policy set 
+out by it apart from Internal /
+Concurrent Audit mechanis
+ms for a sustained and on
+-
+going 
+monitoring of Investment Oper
+ations.
+ 
+
+ 
+The 
+Committee
+ 
+shall meet 
+at least 
+once in 
+a quarter 
+to review 
+investment operations and 
+submit a report to the Board
+ 
+on the performance of the investment portfolio with regard to its 
+safety and soundness
+.
+ 
+ 
+7.3
+ 
+Risk Management Committee (mandatory)
+ 
+ 
+It is now well recognized that the sound man
+agement of an insur
+ance company,
+ 
+as in the 
+case of 
+other financial sector entities, is de
+pendent on how well the various 
+risks are managed across the 
+organization.
+ 
+In pursuit of development of a 
+strong risk mana
+gement system and mitigation
+ 
+strategies, 
+insurers 
+shall set 
+up a separate Risk Management Committee
+ 
+to 
+implement 
+the 
+company’s Risk 
+Management Strategy. The risk management
+ 
+function 
+should be under the overall 
+guidance and 
+supervision of the Chief Risk Off
+icer (CRO) w
+ith a clearly defined role. It 
+shall be 
+organized in 
+such a way that it is able to monitor all the risks across the various
+ 
+lines of 
+business of 
+the company and the operatin
+g head has direct access to the 
+Board. 
+It should not focus solely on 
+co
+mpliance; it should focus on adding value to rest of the business. 
+Risk management 
+function 
+should work in close co
+-
+ordination with the finance function, but independently assess and evaluate 
+the capital, finance and other operating decisions. 
+Broadly, the
+ 
+Risk Management Committee shall:
+ 
+ 
+
+ 
+Establish effective 
+Risk M
+anagement framework and 
+recommend to the Board the
+ 
+R
+isk 
+M
+anagement polic
+y
+ 
+and processes for the organi
+z
+ation.
+
+[Page 14]
+11
+ 
+ 
+
+ 
+Set the risk tolerance limits and assess the cost and benefits associated with risk 
+exposure.
+ 
+
+ 
+Review the Company’s risk
+-
+ 
+-
+reward 
+performance to align 
+with 
+overall policy objectives
+. 
+ 
+
+ 
+Discuss and consider best practice
+s
+ 
+in risk management in the market and 
+advise
+ 
+the 
+respective functions;
+ 
+ 
+
+ 
+A
+ssist the Board in effective operatio
+n of the ris
+k management system 
+by performing 
+speciali
+z
+ed analyses and quality reviews;
+ 
+
+ 
+Maintain an aggregated view on the risk profile of the Company for all categories of risk 
+including 
+insurance risk, 
+market risk, credit risk, liquidity risk, 
+operational risk, comp
+liance risk, 
+legal risk,
+ 
+reputation risk
+,
+ 
+etc
+.
+ 
+
+ 
+A
+dvise the Board with regard to risk m
+anagement decisions in relation 
+to strategic and 
+operational mat
+t
+ers such
+ 
+as corporate strategy, mergers 
+and acquisitions and related matters.
+ 
+
+ 
+R
+eport to the Board
+,
+ 
+details
+ 
+on the risk 
+exposures and the actions taken 
+to manage the 
+exposures;
+ 
+r
+eview, monitor and challenge where necessary, risks undertaken by 
+the Company
+ 
+
+ 
+Review the solvency position of the Company on a regular basis. 
+ 
+
+ 
+Monitor and review regular updates on busi
+ness continuity.
+ 
+
+ 
+Formulation of a Fraud monitoring policy and framework for approval by the Board
+.
+ 
+
+ 
+Monitor implementation of Anti
+-
+fraud policy for effective 
+deterrence, 
+prevention, 
+detection
+ 
+and 
+mitigation of fraud
+s
+.
+ 
+
+ 
+Review compliance with the guidelines o
+n Insurance Fraud Monitoring Framework dt. 21
+st
+ 
+January, 2013, issued by the Authority.
+ 
+ 
+ 
+ 
+7.
+4
+ 
+Policyholder Protection Committee (mandatory)
+ 
+ 
+The Authority is manda
+ted by statute to protect poliycholders’ interests and therefore adoption of 
+sound and healt
+hy market practices in terms of sales, marketing, advertisements, promotion, 
+publicity, redressal of customer grievances, consumer awareness and 
+education
+ 
+is essential
+. The
+ 
+Authority 
+has
+, 
+therefore,
+ 
+notified the
+ 
+following Regulations/Guidelines/Circulars:
+-
+ 
+i)
+ 
+Protection of Policyholders’ Interests Regulations, 2002;
+ 
+ii)
+ 
+Insurance Advertisements and Disclosure Regulations, 2002;
+ 
+iii)
+ 
+Master Circular on Insurance Advertisements 
+in
+ 
+August, 2015
+ 
+iv)
+ 
+Guidelines on Public Disclosure
+ 
+for insurance co
+m
+panies
+ 
+v)
+ 
+Guidelines on 
+Advertis
+e
+ments, Promotion & Publicity of 
+Insurance Companies and 
+Insurance 
+Intermediaries in 
+May 
+200
+7
+. 
+ 
+vi)
+ 
+Various C
+ircular
+s
+ 
+on 
+Handling 
+and Disclosure 
+of the 
+Unclaimed Amount
+s pertaining to the 
+Policyholders
+ 
+ 
+vii)
+ 
+Guidelines on 
+Grievance Redressal by Insurance Companies 
+in July 2010 and Handling of 
+Complaints/Grievances from Policyholders in April 2015 
+ 
+viii)
+ 
+Guidelines on Electronic Mode of Payments for 
+C
+laims
+ 
+ 
+Indian 
+Insur
+ance companies
+ 
+are also required to report on the 
+number and nature of complaints 
+to 
+the IRDA
+I
+ 
+at monthly
+ 
+intervals to enable IR
+DA
+I
+ 
+to assess the governance and 
+market conduct
+
+[Page 15]
+12
+ 
+ 
+issues with respect to each insur
+ance company
+. With
+ 
+a view to addressing 
+the various compliance 
+issues relating to
+ 
+protection of the interests of 
+policyholders, as also relating to keep
+ing the
+ 
+policyholders well informed of 
+and educated about insurance products and
+ 
+complaint
+-
+handling 
+procedures, 
+each insurer shall set up a Policyholder P
+rotection Committee
+.
+ 
+ 
+Such Committee shall be headed by a Non
+-
+Executive Director and shall include 
+an 
+expert
+/
+representative of customers as 
+an 
+invitee to enable insurers to formulate policies and assess 
+compliance thereof.  T
+he Committee shall recommend a policy on customer education for approval 
+of the Board and ensure proper implementation of the same.  
+The Committee should put in place 
+systems to
+ 
+ensure that policyholders have 
+access to redressal mechanisms and shall est
+ablish 
+policies and procedures, 
+for the creation of a dedicated unit to de
+al with customer complaints and 
+resolve disputes expeditiously
+. 
+T
+he 
+functions and 
+responsibilities of the Policyho
+lder
+s’
+ 
+Protection 
+Committee shall 
+include:
+-
+ 
+ 
+
+ 
+Adopt standard operating 
+procedures 
+to treat the customer fairly
+ 
+including time
+-
+frames for 
+policy and claims servicing parameters and monitoring implementation
+ 
+thereof
+.
+ 
+
+ 
+Establish 
+effective mechanism to address 
+complaints and grievances of policy
+holders including 
+mis
+-
+selling by 
+intermediaries
+.
+ 
+ 
+
+ 
+Put in place a framework for 
+r
+eview 
+of 
+awards
+ 
+given by Insurance Ombudsman/Consumer 
+Forums.  
+A
+naly
+ze
+ 
+the
+ 
+root cause of c
+ustomer complaints
+, identify market conduct issues
+ 
+and 
+advis
+e
+ 
+the management appropriately
+ 
+about 
+rectifying 
+system
+ic issues, if any
+.
+ 
+ 
+
+ 
+Review all the awards given by Insurance Ombudsman/Consumer Forums remaining 
+unimplemented for more than three (3) months 
+with reasons therefor and report the same to the 
+Board for initiating remedial action
+,
+ 
+where necessary
+.
+ 
+
+ 
+Review the 
+measures and take steps to reduce customer complaints
+ 
+at periodic intervals.
+ 
+
+ 
+E
+nsure compliance with the statutory r
+equirements as laid down i
+n the 
+regulatory framework.
+ 
+
+ 
+Ensure adequacy of disclosure o
+f “material information” to the 
+policyholders. These disclosures 
+shall
+ 
+comply with the 
+requirements laid down by the Authorit
+y both at the point of sale and 
+at 
+periodic intervals.
+ 
+
+ 
+Provide details o
+f grievances at per
+iodic intervals in such formats 
+as may be prescribed by the 
+Authority.
+ 
+
+ 
+Ensure that 
+details of insurance ombudsmen 
+are provided
+ 
+to the policyholders
+.
+ 
+
+ 
+Review of 
+Claims Report, including status of Outstanding Claims with ageing of outstandi
+ng 
+claims
+.
+ 
+
+ 
+Reviewing Repudiated claims with analysis of reasons
+.
+ 
+
+ 
+Status of settlement of other customer benefit payouts like Surrenders, Loan, Partial withdrawal 
+requests etc.
+ 
+
+ 
+Review of u
+nclaimed amounts of Policyholders
+, as required under the Circular
+s an
+d guidelines 
+issued by the Authority. 
+ 
+ 
+The 
+Board shall review 
+the 
+status 
+report on 
+policyholders’ protection issues
+,
+ 
+submitted by the 
+Committee
+,
+ 
+in each of its meeting
+.
+
+[Page 16]
+13
+ 
+ 
+7.
+5
+ 
+Nomination and
+ 
+Remuneration Committee (mandatory)
+ 
+ 
+The Nomination and Remuneratio
+n Committee shall be constituted in line with the provisions of 
+Section 178 of the Companies Act
+,
+ 
+2013. 
+Indian 
+Insurance Companies which have constituted two 
+independent committees for Nomination and Remuneration 
+separately
+ 
+may merge these two 
+Committees a
+fter seeking the Board approval, under intimation to the Authority, within a period of 
+180 days from the date of issue of the
+se
+ 
+guidelines.
+ 
+ 
+The Nomination and Remuneration Committee shall 
+scrutinize the declarations of 
+intending 
+applicants before the 
+appo
+intment/reappointment/election of directors by the shareholders at the
+ 
+General Meetings. 
+The Committee shall also scrutinize the applications and details submitted by 
+the aspirants for appointment as the Key Management Persons. 
+The Nomination
+ 
+and 
+Remunerat
+ion
+ 
+Committ
+ee could also make independent/
+discreet references, where necessary, well 
+in tim
+e to verify the accuracy of the 
+information furnished by the applicant. The 
+insurance 
+companies are further 
+advised that they should obtain an annual decl
+aration fro
+m the Directors/ 
+KMPs that 
+the information provided in the declaration at the tim
+e of appointment/ reappointment 
+has not undergone any change s
+ubsequently and the changes, if 
+any, are apprised by the 
+c
+oncerned Director to the Board. 
+The Directors are also 
+required to enter int
+o a Deed of Covenant 
+as per the 
+format placed at 
+Annexure 3
+, with the insu
+rance company, duly approved by 
+the Board, 
+pursuant to their terms of appointmen
+t to ensure that there is a 
+clear understanding of the mutual 
+role of the
+ 
+company
+, the Directors and the 
+Board in Corporate Governance.
+ 
+More particularly, the 
+appointment and reporting of Key Management Persons should be as per the directions given in 
+Annexure 4
+.  
+ 
+ 
+It is pertinent to draw attention to the provisio
+ns of Section 34 (A) 
+(1) of the 
+Insurance Act, 1938 
+which stipulates that the
+ 
+remuneration of CEOs/Whole
+-
+time 
+Directors of Indian insurance 
+companies i
+s subject to statutory approval 
+of the IRDA
+I
+. Further, the overall management co
+sts of 
+the insurer are also 
+additionally gover
+ned by the limits prescribed statutorily in the Insurance Act
+ 
+and R
+egulations
+ 
+framed there under in order to protect the interests of the
+ 
+policyholders. 
+The 
+setting up of a
+ 
+Nomination and
+ 
+Remuneration Committee should keep the abov
+e 
+requirements in 
+view. F
+urther, the envisaged
+ 
+role of the Committee includes 
+the following aspects:
+-
+ 
+ 
+
+ 
+The 
+Nomination and 
+Remuneration Committee is require
+d to determine on behalf of the 
+Board 
+and on behalf of the shareholders 
+with agreed terms of reference, 
+the insur
+ance company’
+s
+ 
+policy on 
+remuneration packages and any 
+compensation payment, for the CEO
+,
+ 
+the Executive 
+Directors
+,
+ 
+Key management Persons of the 
+company.
+ 
+ 
+
+ 
+The remuneration package shal
+l be 
+aligned appropriately 
+with the 
+performance objectives laid 
+down for 
+the 
+Key Mana
+gement Persons
+.
+ 
+
+ 
+In order t
+o avoid conflict of interest, th
+e Nomination and Remuneration Committee, 
+may 
+comprise of at least three 
+non
+-
+executive 
+directors, with the Chairman of the Committee 
+being 
+an 
+independent director.
+ 
+At least one
+-
+half of the Committee 
+shall comprise of Independent 
+Directors.
+
+[Page 17]
+14
+ 
+ 
+
+ 
+The Nomination and Remuneration Committee shall ensure that the remuneration packages of 
+the Key Management Persons of the company are as per the Remuneration Policy approved by 
+the Board.
+ 
+
+ 
+The Committee shall also e
+nsure that the proposed appointments/ re
+-
+appointments of Key 
+Management Persons or Directors are in conformity with the Board approved policy on 
+retirement/ superannuation.
+ 
+   
+ 
+ 
+7.
+6
+ 
+Corporate Social Responsibility Committee (‘CSR Committee’)
+ 
+(mandatory)
+ 
+ 
+S
+ection 135 of the Companies Act, 2013 requires constitution of a CSR Committee if certain 
+conditions as mentioned in the 
+said 
+Section are fulfilled. For 
+Indian 
+Insurance Companies, a CSR 
+Committee 
+is required to 
+be set up 
+if the insurance company earns a N
+et Profit of Rs.
+ 
+5 Crores or 
+more during 
+the preceding
+ 
+financial year. Further the ‘Net Profit’ for this purpose shall be 
+as under:
+-
+ 
+ 
+“
+Net profit” means the 
+“profit/(loss) before tax” as 
+per its financial statements prepared in 
+accordance with the applicab
+le provisions of the Insurance Act
+, 1938
+ 
+and the Regulations framed 
+thereunder, but shall not include the following, namely
+ 
+(i) Any profit arising from any overseas branch or branches of the company, whether operated 
+as a separate 
+company 
+or otherwise; and
+ 
+(ii) any dividend received from other companies in India, which are covered under and 
+complying with the provisions of section 135 of the Companies Act
+.
+ 
+ 
+Provided 
+that net profit in respect of a financial year for which the relevant financial statements 
+w
+ere prepared in accordance with the provisions of the 
+Insurance
+ 
+Act, 19
+38
+, shall not be required 
+to be re
+-
+calculated in accordance with the provisions of the Companies Act.
+ 
+ 
+In line with Section 135(5) of Companies Act, 2013, the Board of Directors of the 
+Company shall 
+ensure that the Company spends not less than 2% of the 
+three years’ 
+average Net Profits as 
+defined above towards the CSR activities. 
+ 
+ 
+(a)
+ 
+CSR will be based only on the average of the three years’ profit as per the 
+Statement 
+of
+ 
+Profit 
+and Loss Ac
+count as stated above. 
+ 
+(b)
+ 
+The 
+CSR Committee shall 
+formulate 
+a 
+CSR policy
+ 
+and get it approved by the 
+Board. 
+Constitution of CSR Committee will be as per Companies Act, 2013.
+ 
+(c)
+ 
+The expense incurred on CSR shall not be included for the purpose of calculation of c
+eilings on 
+Expenses of Management under Section 40B or Section 40C, as the case may be.
+ 
+(d)
+ 
+The expenses incurred on CSR activities should not be charged to the Policyholders’ Account.
+ 
+ 
+ 
+7.
+7
+ 
+With Profits Committee:
+ 
+ 
+The Authority 
+has issued
+ 
+IRDA (Non
+-
+Linked In
+surance Products) Regulations 2013, which 
+lay down 
+the framework
+ 
+about the With Profit Fund Management and Asset sharing, among other things.
+ 
+In 
+terms of these Regulations, e
+very 
+Insurer
+ 
+transacting life insurance business
+ 
+shall constitute a With 
+Profits C
+ommittee comprising of an Independent Director, the CEO
+, The Appointed Actuary and an
+
+[Page 18]
+15
+ 
+ 
+independent Actuary. The Committee shall meet as often as is required to transact the business 
+and carry out the functions of determining the 
+following:
+ 
+ 
+ 
+t
+he share of as
+sets attributable to the policyholders
+ 
+ 
+t
+he investment income attributable to the participating fund of policyholders
+ 
+ 
+t
+he expenses allocated to the policyholders
+ 
+ 
+The report of the With Profits Committee in respect of the above matters should be attached 
+to the 
+Actuarial Report and Abstract furnished by the insurers to the Authority.
+ 
+The Board of an insurer 
+shall ensure that any other stipulations regarding the constitution and/ or functioning of the With 
+P
+rofits Committee as indicated in the Regulations m
+ade by the Authority 
+from time to time 
+shall be 
+complied with at all times.
+ 
+ 
+7.
+8
+ 
+Other Committees
+ 
+ 
+The other Committees wh
+ich can be set up by the Board, 
+include the 
+Ethics 
+Committee
+ 
+and 
+A
+LM 
+Committee
+ 
+(other than life insurers)
+. In cases where Board decide
+s not to constitute such 
+Commit
+tees, 
+their functions and responsibilities can be 
+addressed in such manner as the 
+Board 
+may deem fit.
+ 
+However, once these Optional Committees are in place, the insurer is required to 
+comply with the requirements on the “Role 
+and Responsibilities” of such Committees as laid down 
+under these Guidelines.
+ 
+ 
+W
+herever the functions of the mandatory committees are capable of being merged without affecting 
+the independence and objectivity envisaged in the corporate governance structure
+, insur
+ance 
+companies
+ 
+may do so under specific approval of their Boards and intimation to the Authority.
+ 
+However, the Audit Committee and the Investment Committee shall not be merged with any other 
+Committee of the Board under any circumstances.
+ 
+ 
+7.
+8
+.
+1
+ 
+Eth
+ics Committee (not mandatory)
+ 
+ 
+Functions and 
+Responsibilities of the Ethics Committee 
+shall 
+include:
+ 
+ 
+
+ 
+M
+onitoring the compliance function and the insur
+ance company’s
+ 
+risk
+ 
+profile in 
+respect of 
+compliance with external la
+ws and regulations and internal 
+polic
+ies, including 
+its
+ 
+code of ethics 
+or conduct
+.
+ 
+
+ 
+Receiving 
+reports on the above and on 
+proactive compliance activities 
+aimed at increasing the 
+insur
+ance company’s
+ 
+ability 
+to meet its legal and ethical 
+obligations, on identified weaknesses,
+ 
+lapses, breaches or
+ 
+violations 
+and the controls and other measu
+res in place to help detect and 
+address the same
+.
+ 
+
+ 
+Supervising 
+and monitoring matte
+rs reported using the insurer’s 
+whistle blowing or other 
+confidenti
+al mechanisms for employees and 
+others to report ethical and co
+mpliance
+ 
+concerns 
+or potential breaches 
+or violations
+.
+
+[Page 19]
+16
+ 
+ 
+
+ 
+Advising 
+the board on the effect of the above 
+on the insurer’s conduct of
+ 
+business and helping 
+the board set t
+he correct “tone at the top” by 
+communicating, or supporting th
+e communication, 
+at all leve
+ls of
+ 
+the 
+insurer of the importance of ethics and compliance
+.
+ 
+
+ 
+Approving 
+compliance programmes, reviewing t
+heir effectiveness on a 
+regular basis and 
+signing off on an
+y material compliance issues or 
+matters.
+ 
+ 
+ 
+7.
+8
+.2 Asset L
+iability Managemen
+t (ALM) Committee
+ 
+ 
+ 
+AL
+M is an ongoing process of formulatin
+g, implementing, monitoring and 
+revising strategies related 
+to assets and liabiliti
+es to achieve an organization’s 
+financial objectives, given the organization’s 
+ris
+k appetite, risk tolerances and 
+business profile.
+ 
+The need for 
+A
+LM canno
+t be over
+-
+emphasized 
+as it lays 
+down the framework to ensure that the insurer inves
+ts in a manner which 
+would enable it 
+to meet its cash flow need
+s and capital requirements at a 
+future date
+ 
+to mitigate liquidity risk and 
+solvency sti
+pulations
+.
+ 
+ 
+The 
+functions
+ 
+of the 
+AL
+M Committee 
+(wherever constituted) 
+shall include:
+ 
+ 
+
+ 
+Setting the insurer’s risk/reward obj
+ectives and assessing policyholder 
+expectations.
+ 
+
+ 
+Quantifying the level of risk expo
+sure (eg. market, credit and liquidity) and assess
+ing the 
+expected 
+rewards and costs associated with the risk exposure.
+ 
+
+ 
+Formulating and implementing opt
+imal ALM strategies and meeting 
+risk
+-
+reward objectives
+ 
+at 
+both 
+product and enterprise level.
+ 
+
+ 
+Ensuring that liabilities are backed by appropriate assets an
+d manage mismatches between 
+assets and liabilities to ensure they remain within acceptable monitored tolerances for liquidity, 
+solvency and the risk profile of the entity.
+ 
+
+ 
+Monitoring risk exposures at peri
+odic intervals and revising ALM 
+strategies where re
+quired.
+ 
+Reviewing, approving and monitoring systems, controls and reporting used to manage balance 
+sheet risks including any mitigation strategies
+.
+ 
+ 
+
+ 
+Regular review and monitoring of mismatch between assets and liabilities and the acceptable 
+tolerance limit
+s for mismatch, if any.
+ 
+ 
+
+ 
+Ensuring that management and valuation of all assets and liabilities comply with standards, 
+prevailing legislation and internal and external reporting requirements.
+ 
+ 
+
+ 
+Submitting
+ 
+the 
+AL
+M information before the Board at periodic inter
+vals.
+ 
+Annual review of 
+strategic asset allocation.
+ 
+
+ 
+Reviewing key methodologies and assumptions 
+including actuarial assumptions, 
+used to value 
+assets and liabilities
+ 
+ 
+
+ 
+Managing capital requirements at the company level using the regulatory solvency 
+requireme
+nts 
+ 
+
+ 
+Reviewing, approving and monitoring capital plans and related decisions over capital 
+transactions (e.g. dividend payments, acquisitions, disposals, etc).
+
+[Page 20]
+17
+ 
+ 
+Where an insurer does not constitute the Asset Liability Management (ALM) Committee, the 
+functio
+ns of ALM shall form part of the Risk Management Committee.
+ 
+ 
+7.
+9
+ 
+T
+he mandatory committees, 
+except Nomination and Remuneration Committee
+, 
+the 
+Corporate Social Responsibility Committeeand the With Profits Committee
+ 
+shall meet at least 
+four times in a year an
+d not more than four months shall elapse between two successive meetings 
+of such Committees. The quorum shall be two members o
+r
+ 
+one
+-
+third of the members of the 
+Committee, whichever is greater, 
+however
+ 
+in case  independent director
+(s)
+ 
+is
+/ are
+ 
+mandated to be
+ 
+in any of the Committees
+, 
+at least one
+ 
+such  independent director or his alternate 
+director
+,
+ 
+should necessarily be present to form the quorum.
+ 
+ 
+ 
+As 
+specified
+ 
+in the proviso to Section 161(2) of the Companies Act, 2013, no person shall be 
+appointed as an a
+lternate director for an independent director unless he/she is qualified to be 
+appointed as an independent director under the provisions of this Act. This condition shall be 
+applicable even while appointing an alternate 
+director
+ 
+to an Independent director 
+in any of the 
+Committees.
+ 
+ 
+It is emphasized that the overall responsibility for directing the affairs of the insurers shall be with 
+the Board and it shall continue to exercise its oversight directly on matters that are not specifically 
+delegated to any of 
+its Committees.
+ 
+ 
+ 
+8. 
+K
+ey 
+M
+anagement 
+P
+erson
+s:
+ 
+ 
+8.1
+ 
+CEO
+/ Managing Director/ Whole
+-
+Time Director
+ 
+ 
+The Chief Executive Officer
+/Whole Time Director/ Managing Director
+ 
+of the company 
+and other key 
+functionaries are 
+responsible for the operations and day to d
+ay m
+anagement of the company in 
+line 
+with the directions of the Board and the 
+Committees set up by the Board. 
+Section 34A of the 
+Insurance Act, 1938
+ 
+requires prior approval of the 
+Authority for appointment, re
+-
+appointment or 
+termination
+ 
+of the Chief 
+Executive 
+Officer and the Whole Time Direc
+tors. The Authority expects the 
+CEO to be responsible for the conduct of t
+he company’s affair
+s
+ 
+in a manner 
+which is not 
+detrimental to the interests of the policyholders and 
+which 
+is consistent
+ 
+with the policies and 
+directio
+ns of the Boar
+d. The Board should, therefore, 
+carry out effective due diligence to establish 
+tha
+t the new incumbent is ‘fit and 
+proper’ before recommending the name for Au
+thority’s approval. 
+In case the 
+CEO resigns, the Authority should be kept i
+nformed of
+ 
+such resignation and 
+the 
+reasons therefor. The Insurance Act also prohibits the 
+Managing Director or other Officer
+ 
+of a 
+life
+ 
+insurance company
+ 
+from being a 
+Managing 
+Director
+ 
+or Other Officer of any other Life insurance 
+company or of a Banking company or a
+n Investment Company. 
+As the appointment of the CEO is 
+made with
+ 
+the prior approval of the IRDA
+I
+ 
+the Board should take proactive steps to d
+ecide on the 
+continuance of CEO 
+well in time before the expiry of his tenure or
+ 
+to identify the new incumbent. 
+The Au
+thority requires the proposal to be sub
+mitted with the approval of the 
+Board at least a month 
+before the completion 
+of the tenure of the incumbent. 
+The 
+application 
+to the Authority 
+in Form A
+
+[Page 21]
+18
+ 
+ 
+(
+Annexure 5
+) 
+shall be accompanied
+ 
+with information as prescribed 
+in Form B and Form C as 
+indicated in and 
+Annexure 6
+ 
+of these guidelines.
+ 
+ 
+As a corollary, the 
+insurers
+ 
+should also have pr
+actices in place for succession 
+planning for the key 
+senior functionaries through a pr
+ocess of proper 
+identification and nurturing of 
+individuals for taking 
+over senior management
+ 
+positions.  A checklist of due diligence to be conducted by the Board 
+Nomination and Remuneration Committee before recommending consideration of appointment 
+of 
+a 
+person as a Managing or Whole
+-
+time Director is a
+ttached
+ 
+(Form A 
+of Annexure 5 
+& 
+Form 
+B of
+ 
+Annexure 6
+)
+.
+ 
+The 
+Form ‘
+C
+’
+ 
+which is required to be submitted to the Authority for considering 
+approval to the appointment of Managing/Whole
+-
+time Director is 
+also 
+attached
+ 
+(Annexure 6)
+.
+ 
+ 
+ 
+8.2
+ 
+Role of Appointed Actuar
+ies
+ 
+ 
+IRDA
+I
+ 
+has brought out detailed Regulations on Appointed Actua
+ry vide IRDA 
+(Appointed Actuary) 
+Regulations, 2000, 
+detailing the procedure for his 
+appointment, qualifications, powers along w
+ith his 
+duties and obligations. 
+The Regulations also stipulate 
+that prior app
+roval of the Authority shall be 
+taken for the appointment of the Appointed A
+ctuary. The Board should ensure 
+that the 
+requirements are scrupulously complied w
+ith. In brief, it is reiterated 
+that
+:
+ 
+ 
+
+ 
+A procedure for appointment of App
+ointed Actua
+ry should be put in 
+place.
+ 
+
+ 
+The Appointed Actuary should qualify 
+and satisfy the ‘Fit & Proper’ 
+criteria
+ 
+and other eligibility 
+conditions as mentioned in IRDA (Appointed Actuary) Regulations, 2000, as amended from 
+time to time
+.
+ 
+
+ 
+The insur
+ance companies
+ 
+shall
+ 
+clearly set forth the 
+Appointed 
+Act
+uary’s responsibilities and any 
+advisory role vis
+-
+à
+-
+vis 
+the Board or th
+e management as well as his/her 
+rights and
+ 
+obligations. 
+These shall be in 
+addition to the duties of
+ 
+the 
+Appointed Actuaries as specified 
+in the IRDA 
+Regulations and any 
+other directions of IRDA in the matter.
+ 
+
+ 
+As soon as the Appointed Actuary re
+alizes that the entity does not 
+comply or is likely to fail in 
+com
+plying with the requirements of 
+solvency and other parameters of
+ 
+sound operations, he/she 
+shall
+ 
+inform the 
+Board of the 
+insurer
+. I
+f no viable/acceptable 
+action
+ 
+is taken
+ 
+by the 
+Board
+, then 
+he/she has to inform 
+the same to 
+IRDA
+I
+.
+ 
+
+ 
+The Board shall interact directly with
+ 
+the Appointed Actuary wherever 
+it considers it expedient 
+to secure h
+is advice, it ma
+y do so in such manner as it may deem fit. 
+The Appointed Actuary 
+shall provide professional
+ 
+advice or certification to the 
+board with regard to:
+-
+ 
+ 
+o
+ 
+E
+stimation of technical provisions in accordance with the valuati
+on 
+framework set up by 
+the insurer
+ 
+o
+ 
+I
+dentific
+ation and estimation of
+ 
+material risks and appropriate 
+management of the risks
+ 
+o
+ 
+F
+inancial condition testing
+ 
+o
+ 
+S
+olvency margin requirements
+ 
+o
+ 
+A
+ppropriateness of premiums (and surrender value)
+ 
+o
+ 
+A
+llocation of bonuses to with
+-
+profit insurance contracts
+
+[Page 22]
+19
+ 
+ 
+o
+ 
+M
+anagement of
+ 
+participating funds 
+(including analysis of material 
+effects caused by 
+strategies and policies)
+ 
+o
+ 
+P
+roduct design, risk mitigation (including 
+reinsurance) and other related risk 
+management roles. 
+ 
+ 
+While the areas of advice/certification listed ab
+ove are with
+ 
+specific reference 
+to life companies, the 
+appointed actuarie
+s in case of non life insurance 
+companies shall provide such advice/certificatio
+n 
+to the extent applicable. 
+In order to facilitate the Appointed Actuary in 
+discharg
+ing
+ 
+his
+/ her
+ 
+responsibilities, 
+he
+/ she
+ 
+shall at all times be provided access to the information as required.
+ 
+ 
+ 
+ 
+8
+A
+.
+ 
+External Audit 
+-
+ 
+Appointment of Statutory Auditors
+ 
+ 
+The IRDA
+I
+ 
+(
+Preparation of Financial Sta
+tements and Auditors’ Report of 
+Insurance Companies
+) 
+Regulations, 2002
+ 
+empower t
+he Authority to issue 
+directions/guidelines on appointment, 
+contin
+uance or removal of auditors of 
+an 
+insurer
+. These guidelines/directions 
+may include 
+prescriptions 
+on qualifications and experience of audi
+tors, their rotation, period of 
+appointment, etc. 
+as
+ 
+may be deemed necessary by the Authority.
+ 
+ 
+The detailed guidelines as regards appointment of auditors and the reporting about all the auditors 
+appointed by insurers are given in 
+Annexure 7
+ 
+to these guidelines. 
+The Boa
+rd should therefore 
+ensure that 
+the st
+atutory auditors are compliant with 
+the regulatory requirements and 
+there are no 
+conflicts of
+ 
+interest in their appointment. 
+The auditors should possess the compet
+ence and integrity 
+to alert the 
+appropriate authorities promptly of any event 
+that could seri
+ously affect the 
+insur
+ance 
+company’s
+ 
+financial position or the organizati
+on 
+structure 
+o
+f
+ 
+its administration or 
+accounting and of 
+any criminal violations or ma
+terial irregularities that come 
+to his notice.
+ 
+ 
+ 
+8
+A
+.
+1
+ 
+Access to Board and Audit Committee
+ 
+ 
+The Aud
+it Committee should have discussi
+ons with the statutory auditors 
+periodically about internal 
+control systems, t
+he scope of audit including the 
+observations of the auditors (where applicable
+) 
+and review the quarterly/half 
+yearly and annual financial stateme
+nts as th
+e case may be before 
+submission 
+to the Board of Directors and also ensure compliance with the internal
+ 
+control systems. 
+The statutory auditors should also have access to the Board of Directors
+ 
+through the Audit 
+Committee.
+ 
+ 
+9.
+ 
+Disclosure Requiremen
+ts
+ 
+ 
+The IRDA
+I
+ 
+(Preparation of Financial Statements 
+and Auditors’ Report of 
+Insurance Companies) 
+Regulations, 2002
+, have 
+prescribed certain disclosures in the financial statements and the Authority 
+is
+ 
+in the process of finalizing additional disclo
+sures to b
+e made by 
+insurers
+ 
+at 
+periodical intervals. In 
+the meantime
+,
+ 
+it may b
+e ensured by the Board that the 
+information on the following, including the
+
+[Page 23]
+20
+ 
+ 
+basis, methods and assumptions
+ 
+on which the information is prepared and th
+e impact of any 
+changes therein 
+are a
+lso disclosed in the annual accounts:
+-
+ 
+ 
+
+ 
+Quantitative and qualitative information on the insur
+ance company
+’s fi
+nancial and 
+operating 
+ratios, 
+viz. 
+ 
+incurred
+ 
+claim, commission and expenses 
+ratios.
+ 
+
+ 
+Actual solvency margin details vis
+-
+à
+-
+vis the required margin
+ 
+
+ 
+I
+nsurers 
+engaged in life insurance business
+ 
+shall disclose p
+ersistency
+ 
+ratio
+ 
+of policies sold by 
+them
+ 
+
+ 
+Financial performance including gr
+owth rate and current financial 
+position of the insur
+ance 
+company
+ 
+
+ 
+D
+escription of the risk management architecture
+ 
+
+ 
+Details
+ 
+of number of claims intimate
+d, disposed of
+f
+ 
+and pending with 
+details of duration
+ 
+
+ 
+All pecuniary relationships or tr
+ansactions of the Non
+-
+Executive 
+Directors vis
+-
+à
+-
+vis the 
+insur
+ance company
+ 
+shall be
+ 
+disclosed in the Annual Report
+ 
+
+ 
+Elements of remuneration pa
+ckage
+(including incentives)
+ 
+of MD & CEO and 
+all 
+other directors
+ 
+and Key Management Persons
+ 
+
+ 
+Payments made to group entities from the Policyholders Funds
+ 
+
+ 
+Any other matters, which have m
+aterial impact on the insurer’s 
+financial position.
+ 
+ 
+Where finalization o
+f annual accounts extends beyond 90 days from the end of the Financial 
+Year
+, 
+the status on disclosure in the financial statements required under this clause may be made within 
+15 days of adoption of annual accounts by the Board of Directors of the Insurers
+.
+ 
+ 
+10.
+ 
+Outsourcing
+ 
+Arrangements
+ 
+ 
+10.1 
+All 
+outsourcing arrangements of 
+an 
+Insurer
+ 
+shall have the approval 
+of 
+a Committee of 
+Key 
+Management Persons
+ 
+and should meet 
+the 
+terms of the 
+Board
+ 
+approved outsourcing policy.
+ 
+The 
+Board or the Risk Management Committee
+ 
+should be periodically apprised about the outsourcing 
+arrangements entered into by the insurer and also confirmation to the effect that they comply with 
+the stipulations of the Authority as well as the internal policy
+ 
+be placed before them
+.
+ 
+An insurer 
+sha
+ll not outsource any of the
+ 
+company’s 
+core
+ 
+functions other than those that have been 
+specifically
+ 
+permitted
+ 
+by the Authority
+.
+ 
+Every outsourcing contract 
+shall contain explicit safeguards 
+regarding 
+confidentiality of data and all 
+outputs from the data, cont
+inuing ownership o
+f the data with 
+the insurer and 
+orderly handing over of the data and all
+ 
+related software programs on 
+termination of 
+the outsourcing arrangement.
+ 
+ 
+ 
+10.2 The 
+management of the insurance company 
+shall monitor and review the 
+performance of 
+a
+gencies to whom 
+operations have been outsourced at least annu
+ally and report findings to the 
+Board.
+ 
+ 
+10.3 The Authority reserves the right to access t
+he operations of the outsourced 
+entity to the extent 
+these are relevant to th
+e insurance company and for t
+he 
+protection of policyholder.
+
+[Page 24]
+21
+ 
+ 
+1
+1
+.
+ 
+Interaction with the 
+Regulator
+ 
+ 
+1
+1
+.1 Effective corporate governance practices in the of
+fice of the insur
+ance company
+ 
+will enable 
+IRDA
+I 
+to have greater confidence in the work an
+d judgment of 
+its
+ 
+board, 
+K
+ey 
+M
+anagement 
+P
+er
+sons
+ 
+and control functions.
+ 
+ 
+1
+1
+.2 In assessing the governance practices in place, the IRDA
+I
+ 
+would:
+ 
+ 
+•
+ 
+Seek confirmation that the insu
+r
+ance company
+ 
+has adopted and effectively 
+implemented 
+sound corporate governance policie
+s and practices;
+ 
+•
+ 
+A
+ssess the fitness a
+nd propriety of board members;
+ 
+•
+ 
+M
+onitor the performance of boards;
+ 
+•
+ 
+A
+ssess the quality of insur
+ance company’
+s inter
+nal reporting, risk management, 
+audit 
+and control functions;
+ 
+•
+ 
+E
+valuate the effects of the insur
+ance company
+’s group structure on the governance
+ 
+strategies;
+ 
+•
+ 
+A
+ssess the adequacy of governance 
+processes in the area of crisis 
+manage
+ment and 
+business continuity.
+ 
+ 
+1
+1
+.3 The IRDA
+I
+ 
+would bring to
+ 
+the attention of the Board and 
+senior management, concerns which 
+have be
+en detected 
+by it 
+through supervisory 
+a
+ctivities.
+ 
+ 
+1
+1
+.4
+ 
+Reporting to IRDA
+I
+ 
+ 
+1
+1
+.4.1 Insurers should examine to what extent they are currently c
+omplying with 
+these guidelines 
+and initiate immediate acti
+on to achieve compliance (where 
+not already in compliance) within a 
+period
+ 
+of 
+three
+ 
+months from
+ 
+the date of 
+notification of 
+these guidelines. It is expected that all the 
+ar
+rangements 
+sh
+ould be in place to 
+ensure full compliance with the guidelines fro
+m the financial 
+year 201
+6
+-
+201
+7
+. 
+Where such compliance is not possible for a
+ny specific reason, the i
+nsur
+ance 
+companies
+ 
+should write to the IRDA
+I
+ 
+for further guidance.
+ 
+ 
+1
+1
+.4.2 Each 
+insurer 
+should designate 
+Company Secretary
+ 
+as the Compliance of
+ficer whose duty 
+will be to monitor continuing compliance with these guidelines.
+ 
+ 
+1
+1
+.4.3 Annual Report of 
+insurer
+s
+ 
+sha
+ll have a separate certification from the Compliance Officer in 
+the format attached herewith as 
+An
+nexure
+ 
+8
+.
+ 
+ 
+ 
+1
+1
+.4.4 
+All 
+insurers
+ 
+are required to file a report on status of compliance with the Corporate 
+Governance guidelines on an annual basis.
+ 
+This r
+eport shall be filed within 
+3 months
+ 
+from the end 
+of the financial year
+,
+ 
+i.e.
+,
+ 
+before 30 June. The report shall be filed as per the format in the 
+A
+nnexure
+ 
+9
+.
+
+[Page 25]
+22
+ 
+ 
+1
+2
+.
+ 
+Whistle 
+Blow
+er
+ 
+Policy
+ 
+ 
+1
+2
+.1
+ 
+Insurers
+ 
+are well advised to put in place a 
+“whistle blow
+er
+” po
+licy, where
+-
+by mechanisms exist 
+for employees to raise concerns internally 
+about possible 
+irregularities, governance weaknesses, 
+financial reporting issues or other such
+ 
+matters. These could include employee reportin
+g in 
+confidence directly to the 
+Chairman
+ 
+of the Board or of a Committee 
+of the Board or to the 
+Statutory 
+A
+uditor.
+ 
+ 
+The Policy illustratively covers the following aspects:
+ 
+ 
+
+ 
+A
+wareness of the employees that such
+ 
+channels are available, how to 
+use them and how their 
+report will be handled
+.
+ 
+
+ 
+H
+andling 
+of the reports received 
+confidentially, for independent 
+assessment, investigation and 
+where n
+ecessary for taking appropriate 
+follow
+-
+up actions
+.
+ 
+
+ 
+A
+ 
+robust anti
+-
+retaliation policy to pro
+tect employees who make reports 
+in good faith
+.
+ 
+
+ 
+Briefing of the board of d
+irectors.
+ 
+ 
+1
+2
+.2
+ 
+The appointed actuary and the statutory/int
+ernal auditors have the duty to 
+‘whistle blow’, i.e., 
+to report in a timely manne
+r to the IRDA
+I
+ 
+if they are aware 
+that the insur
+ance company
+ 
+has failed to 
+take appropriate 
+steps to rectify a matter
+ 
+which 
+has a material adverse effect on its financial 
+c
+ondition. This would enable the 
+IRDA
+I
+ 
+to take prompt action before policyholders’ interests are 
+undermined.
+ 
+ 
+1
+3
+. Evaluation of Board of Directors 
+including
+ 
+Independent Directors
+ 
+ 
+As required under Sche
+dule IV of the Companies Act, 2013, 
+the independent directors shall meet at
+ 
+least once in a year to evaluate the performance of 
+other than 
+independent Directors. Similarly, 
+there shall be an evaluation of the 
+Independent Directors by the other members of t
+he Board of 
+Directors as required in the Schedule
+.
+ 
+ 
+14. Applicability
+ 
+ 
+These guidelines 
+shall be
+ 
+applicable to 
+all insurers granted registration by the Authority 
+except that
+:
+ 
+ 
+(i) 
+reinsurance companies 
+may
+ 
+not 
+be 
+require
+d
+ 
+to have the Policyholders’ Protect
+ion Committee
+; 
+and
+ 
+(ii) 
+branches of foreign reinsurers in India 
+may not be required to constitute the Board and its 
+mandatory committees
+ 
+as indicated herein
+.
+
+[Page 26]
+23
+ 
+ 
+Annexure 1
+ 
+ 
+(Refer Para 5.2) 
+ 
+Role and 
+Responsibilities of the Board of Directors
+ 
+ 
+ 
+1) The Boar
+d should ensure that the Governance
+ 
+principles set for the insurer 
+comply with all 
+relevant laws, regulation
+s and other applicable codes of 
+conduct.
+ 
+ 
+2) The Board should set the following po
+licies in consultation with the 
+Management of the 
+Company.
+ 
+ 
+a) Def
+ine and periodically review the business 
+strategy
+.
+ 
+b) Define the underwriting policy of the insurer.
+ 
+c) Determine the retention and reinsuranc
+e policy and in particular, the 
+levels of retentions of risk 
+by the insurer and the nat
+ure and extent of 
+reinsuran
+ce protection to be maintained by the insurer.
+ 
+d) Define the policy of the insurer 
+as regards
+ 
+inve
+stment of its assets consistent with an appropriate 
+asset liability management structure.
+ 
+ 
+e) Define the insurer’s policy on appointments an
+d qualification 
+re
+quirements for 
+human resources 
+an
+d 
+ensure that the 
+incentive
+ 
+structure
+ 
+do
+es
+ 
+not
+ 
+encourage imprudent behaviour.
+ 
+ 
+ 
+3) The Board should define and set the following standards:
+-
+ 
+ 
+a) Define the standards of business co
+nduct and ethical behaviour for 
+directors a
+nd senior 
+management.
+ 
+b) Define the standards to be maintained i
+n policyholder servicing and in 
+redressal of grievances of 
+policyholders.
+ 
+ 
+4) The Board would be responsible to
+ 
+provide guidance for 
+implementation of business 
+strategy 
+and 
+review 
+the same per
+iodically
+.
+ 
+ 
+5) As an integral part of proper implementation of t
+he 
+business 
+strategy
+, the Board should take 
+action as under:
+-
+ 
+ 
+a) Establish appropriate systems to regu
+late the risk appetite and risk 
+profile of the Company. It will
+ 
+also enable identificatio
+n and 
+measurement of significant risks to which the com
+pany is exposed in 
+order to develop an effective risk management system.
+ 
+ 
+b) Ensure that all 
+directions 
+of IRDAI 
+are submitted to the 
+Board and the reco
+mmendations are 
+implement
+ed
+ 
+as per the
+ 
+Board phil
+osophy.
+ 
+ 
+ 
+c
+) Ensure that the IT systems in the c
+ompany are appropriate and have 
+built
+-
+in checks and 
+balances to produce data with integrity
+ 
+and 
+put in place
+ 
+a business continuity and disaster recovery 
+plan
+.
+
+[Page 27]
+24
+ 
+ 
+d
+) Ensure that the company has 
+put 
+in place
+ 
+a ro
+bust compliance system for 
+all applicable laws and 
+regulations.
+ 
+ 
+e
+) Prescribe 
+requirements
+ 
+and frequency of re
+porting in respect 
+of each of the above areas of 
+responsibility
+ 
+as may be decided by the Board
+.
+ 
+ 
+ 
+6) In discharge of the above and other 
+Governanc
+e functions, the Board 
+may
+ 
+delegate the 
+responsibilities to mandated/ other recommended
+ 
+Empowered Committees of Direct
+ors while 
+retaining its primary 
+accountability.
+
+[Page 28]
+25
+ 
+ 
+ 
+Annexure 2
+ 
+ 
+(
+R
+efer Para 5.3) 
+ 
+Declaration from the proposed/ existing Directors 
+ 
+ 
+Name 
+of the Insurance Company:
+ 
+Declaration and Undertaking by Director
+ 
+(with enclosures as appropriate as on 
+________________(date)
+)
+ 
+ 
+I. Personal details of director
+ 
+a. Full Name
+ 
+b. DIN
+ 
+c
+. Date of Birth
+ 
+d
+. Educational qual
+i
+fications
+ 
+e
+. Relevant Background, Know
+ledge and
+ 
+Experience
+ 
+f
+. Permanent Address
+ 
+g
+. Present Address
+ 
+h
+. E
+-
+mail Address
+ 
+and 
+Telephone Number
+ 
+i
+. Permanent Account Number under the
+ 
+Income Tax Act and name and address of
+ 
+Income Tax circle
+ 
+where assessed
+ 
+j
+. Any other information relevant to Directors
+hip
+ 
+of the Insurance Company
+ 
+ 
+II. Relevant relationships of Director
+ 
+a. List of relatives
+,
+ 
+if any
+,
+ 
+who are connected with
+ 
+the insurer ( Refer Section 
+2(77)
+ 
+of the Companies Act, 
+2013
+)
+ 
+b. List of entities, if any, in which he/she is
+ 
+considered as being inte
+rested
+ 
+(Refer Section
+ 
+184
+ 
+of the Companies
+ 
+Act
+ 
+2013
+)
+ 
+ 
+III. Records of professional achievements
+ 
+ 
+a. Relevant professional achievements
+ 
+ 
+b
+. Whether the director was associated as
+ 
+director or officer with any entity that was
+ 
+wound up or that was penalized fo
+r violation
+ 
+of any law.
+ 
+ 
+IV
+.
+ 
+Proceedings, if any, against the director
+ 
+a. If the director is a member of a professional
+ 
+association/
+ 
+body, details of disciplinary
+
+[Page 29]
+26
+ 
+ 
+action, if any, pending or commenced or
+ 
+resulting in conviction in the past against
+ 
+him/her o
+r whether he/she has been banned
+ 
+from entry of at any profession/occupation at
+ 
+any time.
+ 
+ 
+b. Details of prosecution, if any, pending or
+ 
+commenced or resulting in conviction in the
+ 
+past against the director and/or against any of
+ 
+the entries listed 
+at 
+II(b) 
+and (c) above for
+ 
+violation of economic laws and regulations.
+ 
+ 
+c. Details of criminal prosecution, if any, pending
+ 
+or commenced or resulting in conviction in the
+ 
+last five years against the director
+ 
+ 
+d. Whether the director attracts any of the
+ 
+disqualifica
+tions envisaged under Section 
+164
+ 
+of the Compan
+ie
+s Act, 
+2013
+?
+ 
+ 
+e. Has the director or any of the entities at II (b)
+ 
+and (c) above been subject to any investigation
+ 
+at the instance of Government department or
+ 
+agency?
+ 
+ 
+f. Has the director at any time been fo
+und guilty
+ 
+of violation of rules/regulations/legislative
+ 
+requirements 
+of
+ 
+customs/excise/income
+ 
+tax/foreign exchange/other revenue
+ 
+authorities
+? If so, 
+give particulars
+ 
+ 
+g. Whether the director 
+has at any time co
+me to the
+ 
+adverse notice of a regulator such a
+s SEBI,
+ 
+RBI, MCA
+? If so, give particulars
+.
+ 
+ 
+h
+. Any other exp
+lanation/information in regard 
+to items
+ 
+I to III 
+above 
+and other information 
+considered releva
+nt for judging his/ her fit and 
+proper compliance
+ 
+for directorship
+.
+ 
+ 
+ 
+V
+.
+ 
+D
+irectorships or senior execu
+tive
+ 
+positions held by the director
+ 
+in other corporate bodies.
+
+[Page 30]
+27
+ 
+ 
+Undertaking
+ 
+ 
+I confirm that the above information is, to the best o
+f my knowledge and belief, true 
+and complete. I 
+undertake to keep the insurer fully in
+formed, as soon as possible, of 
+all 
+events which take place 
+subsequent to my appoin
+tment which are relevant to the 
+information provided above.
+ 
+ 
+I also undertake to execute the deed of covenant
+ 
+required to be executed by 
+the
+ 
+directors of the 
+insurance company.
+ 
+ 
+Place: 
+                        
+                                                                         
+Signature of the Director
+ 
+Date:
+ 
+ 
+VI. Remarks of Board of Directors of Insurer
+ 
+ 
+ 
+Place: 
+ 
+Signature
+ 
+Date:
+
+[Page 31]
+28
+ 
+ 
+ 
+Annexure 3
+ 
+ 
+(Refer para 7.6)
+ 
+ 
+FORM OF DEED OF COVEN
+ANTS WITH A DIRECTOR
+ 
+ 
+THIS DEED OF COVENANTS is made
+ 
+this ______ day of ________Two 
+thousand _____ 
+BETWEEN _______________, having its registered office at
+ 
+ 
+____________ (hereinafter called the ‘Insurance Company ') of the one part and
+ 
+ 
+Mr/Ms_____________ 
+of ______________ (hereinafter called the 'Director')
+ 
+of the other part.
+ 
+ 
+WHEREAS
+ 
+ 
+A. The Director has been appointed as a Directo
+r on the Board of the Insurance 
+Company 
+(hereinafter called 'the Board') and i
+s required as a term of his/her 
+appointment to e
+nter into a Deed 
+of Covenants with the Insurance Company.
+ 
+ 
+B. The Director has agreed to enter into this De
+ed of Covenants, which has been 
+approved by the 
+Board, pursuant to his said terms of appointment.
+ 
+ 
+NOW IT IS HEREBY AGREED AND THIS DEED OF COVENANTS
+ 
+WITNESSETH
+ 
+AS FOLLOWS:
+ 
+ 
+1) 
+The Director acknowledges that his/her appoi
+ntment as Director on the Board 
+of the Insurance 
+Company is subject to 
+applicable laws and regulations 
+including the Memorandum and Articles 
+of 
+Association of the Insurance 
+Company and
+ 
+the provisions of this Deed of Covenants.
+ 
+ 
+2) 
+The Director covenants with the Insurance Company that:
+ 
+ 
+i) The Director shall disclose to the Board 
+the nature of his/her interest, 
+direct or indirect, if he/she 
+has any int
+erest in or is concerned with a 
+con
+tract or arrangement or any proposed 
+contract or 
+arrangement entered 
+into or to be entered into between the 
+Insurance Company and any other 
+person, immediately upon becoming awa
+re of the same or at meeting of 
+the Board at which the 
+question of
+ 
+entering int
+o such contract or 
+arrangement is taken into consideration or
+ 
+if the Director 
+was not at the 
+date of that meeting concerned or interest
+ed in such proposed contract or 
+arrangement, then at the first meeting
+ 
+of the Board held after he/she 
+becomes so concerne
+d or 
+interested and in case of any o
+ther contract or 
+arrangement, the required disclosure shall 
+be made 
+at the first meeting of 
+the Board held after the Director becomes
+ 
+concerned or interested in the 
+contract or arrangement.
+
+[Page 32]
+29
+ 
+ 
+ii) The Director shall disclo
+se by general no
+tice to the Board his/her other Directorships, his/her 
+memberships of bod
+ies corporate, his/her interest 
+in other entities and his/her interest as a
+ 
+partner 
+or proprietor of firms 
+and shall keep the Board apprised of all changes therein.
+ 
+ 
+i
+ii) The Director shall provide to the Insu
+rance Company a list of his/her 
+relatives as defined in the 
+Companies 
+Act, 
+2013 
+and to the extent the 
+Director is aware of Directorships and inter
+ests of such 
+relatives in other 
+bodies corporate, firms and other en
+tities.
+ 
+ 
+iv) The Director shall in carrying on hi
+s/her duties as Director of the 
+Insurance Company:
+ 
+ 
+a) use such degree of skill as may
+ 
+be reasonable to expect from a 
+person with his/her knowledge 
+or experience;
+ 
+ 
+b) in the performance of his/her duties
+,
+ 
+ta
+ke such care as he/she might be reasonably expected 
+to 
+take on 
+his/her own behalf and exercise 
+any power vested in him/her in goo
+d faith and in the 
+interest of 
+the Insurance Company;
+ 
+ 
+c) shall keep himself/herself informed about the busine
+ss, activities 
+an
+d financial status of the 
+Insurance Company to the extent 
+disclosed to him/her;
+ 
+ 
+d) attend meetings of the Board and C
+ommittees thereof (collectively 
+for the sake of brevity 
+hereinafter refe
+rred to as ' Board ') with fair 
+regularity and conscientiously 
+ful
+fill
+ 
+his/her obligations 
+as Director 
+of the Insurance Company;
+ 
+ 
+e) shall not seek to influence an
+y decision of the Board for any 
+consideration other than in the 
+interests of the Insurance Company;
+ 
+ 
+f) shall bring independent judgment to bear o
+n all matters
+ 
+affecting 
+the Insurance Company brought 
+bef
+ore the Board including but not 
+limited to statutory compliances, p
+erformance reviews, 
+compliances 
+with internal control system
+s and procedures, key executive 
+appointments and 
+standards of conduct;
+ 
+ 
+g) shall in e
+xercise of his/her judgmen
+t in matters brought before the 
+Board or entrusted to him/he
+r 
+by the Board be free from any 
+business or other relationship which 
+could materially interfere with 
+the exercise of his/her independent judgment; and
+ 
+ 
+h) shall express h
+is/her views and opi
+nions at Board meetings without 
+any fear or favour and 
+without any i
+nfluence on exercise of his/her 
+independent judgment;
+ 
+ 
+v) The Director shall have:
+ 
+ 
+a) fiduciary duty to act in good fa
+ith and in the interests of the 
+Insurance Company
+ 
+and not for any 
+collateral purpose;
+
+[Page 33]
+30
+ 
+ 
+b) duty to act only within the power
+s as laid down by the Insurance 
+Company’s Memorandum and
+ 
+Articles of Association and by 
+applicable laws and regulations; and
+ 
+ 
+c) duty to acquire proper under
+standing of the business 
+of the 
+Insurance Company.
+ 
+ 
+vi) The Director shall:
+ 
+ 
+a) not evade responsibility in regard to matters entrusted to him/her
+ 
+by the Board;
+ 
+b) not interfere in the performance of their duties by t
+he whole
+-
+time 
+Directors and other office
+rs of 
+the Insurance Comp
+any and 
+wherever the Director has reasons to 
+believe otherwise, he/she shall 
+forthwith disclose his/her concerns to the Board; and
+ 
+ 
+c) not make improper use of information disclosed to him/her 
+as a 
+member of the Board for his/her
+ 
+or someone else’s advantag
+e or 
+benefit and shall use the informat
+ion disclosed to him/her by the 
+Insurance Company in his/her capaci
+ty as Director of the Insurance 
+Company only for the purposes 
+of performance of his/her
+ 
+duties as 
+a Director and not for any other purpose.
+ 
+ 
+3)
+ 
+The In
+surance Company covenants with the Director that:
+ 
+ 
+i) the Insurance Company shall apprise the Director about:
+ 
+ 
+a) Board procedures including identification of legal and other duties
+ 
+of Director and required 
+compliances with statutory obligations;
+ 
+ 
+b) contr
+ol systems and procedures;
+ 
+ 
+c) voting rights at Board meetings incl
+uding matters in which Director 
+should not participate 
+because of his/h
+er interest, direct or indirect 
+therein;
+ 
+ 
+d) qualification requirements and p
+rovide copies of Memorandum and 
+Articles 
+of Association;
+ 
+ 
+e) corporate policies and procedures;
+ 
+ 
+f) insider dealing restrictions;
+ 
+ 
+g) constitution of, delegation of authori
+ty to and terms of reference of 
+various committees 
+constituted by the Board;
+ 
+ 
+h) appointments of Senior Executives and their 
+authority;
+ 
+ 
+i) remuneration policy,
+ 
+ 
+j) deliberations of committees of the Board, and
+
+[Page 34]
+31
+ 
+ 
+ 
+k) communicate any changes in policies, procedures, control 
+systems, 
+applicable regulations 
+inclu
+ding Memorandum and Articles of 
+Association of the Insurance Co
+mpany, de
+legation of 
+authority, 
+Senior Executives, etc. and appoint t
+he compliance officer who shall 
+be responsible for all 
+statutory and legal compliance.
+ 
+ 
+ii) the Insurance Company shall disclose and
+ 
+provide to the Board including 
+the Director all 
+information whi
+ch is reason
+ably required for them to carry 
+out their functions and duties as a 
+Dir
+ectors of the Insurance Company 
+and to take informed decisions in respec
+t of matters brought 
+before the 
+Board for its consideration or entrusted to the Director by the Board
+ 
+or
+ 
+any committee thereof; 
+The insurance company shall provide training on an on
+-
+going basis to
+ 
+enable the directors to discharge their role effectively.
+ 
+ 
+iii) the disclosures to be made by the Ins
+urance Company to the Directors 
+shall include but not be 
+li
+mited to the following:
+ 
+ 
+a) all relevant information for taking informed decisions in respect of
+ 
+matters brought before the Board;
+ 
+ 
+b) Insurance Company’s strategic and business plans and forecasts;
+ 
+ 
+c) organisational structure of the I
+nsurance Company and
+ 
+delegation 
+of authority,
+ 
+ 
+d) corporate and management
+ 
+controls and systems including 
+procedures;
+ 
+ 
+e) economic features and marketing environment,
+ 
+ 
+f) information and updates as appropriate on Insurance Company’s
+ 
+products;
+ 
+ 
+g) information and updates on ma
+jor expenditure;
+ 
+ 
+h) periodic reviews of performance of the Insurance Company; and
+ 
+ 
+i) report periodically about implementati
+on of strategic initiatives and 
+plans;
+ 
+ 
+iv) the Insurance Company sha
+ll communicate outcome of Board 
+deliberations to Directors and
+ 
+conc
+erned personnel and prepare and 
+circulate 
+the draft 
+minutes of the meeting of Board 
+to 
+Directors in a timely manner 
+and to the extent possible within 
+fifteen
+ 
+d
+ays of the date of 
+conclusion 
+of the Board meeting; and
+ 
+ 
+v) advise the Director about the le
+vels of
+ 
+authority delegated in matters 
+placed before the Board.
+ 
+ 
+4)
+ 
+The Insurance Company shall provide to the D
+irector periodic reports on the 
+functioning of 
+internal control system including effectiveness thereof.
+
+[Page 35]
+32
+ 
+ 
+ 
+5)
+ 
+The Insurance Company shall appoint 
+a co
+mpliance officer who shall be a 
+Senior Executive for 
+reporting to the Board/respective Committees of the
+ 
+Board and be responsible for setting 
+forth a 
+framework on compliance 
+responsibility and for implementation the
+reof. He/she shall also monitor 
+adher
+ence to the applicable laws and regulati
+ons and policies and procedures 
+including but not 
+limited to directi
+ons of Insurance Regulatory and 
+Development Authority and other conce
+rned 
+statutory and governmental 
+authorities.
+ 
+ 
+6)
+ 
+The Director shall not assign,
+ 
+transfer, sublet
+ 
+or encumber his/her office and 
+his/her rights and 
+obligations as Director of the Insurance 
+Company to any 
+third party provided that nothing herein 
+contained shall be construed to 
+prohibit delegation of any authority, power
+, function or de
+legation 
+by the 
+Board or any committee thereof subject to 
+applicable laws and regulations 
+including 
+Memorandum and Articles 
+of Association of the Insurance 
+Company.
+ 
+ 
+7)
+ 
+The failure on the part of either party hereto to
+ 
+perform, discharge, observe or 
+comply
+ 
+with any 
+obligation or duty shall not b
+e deemed to be a waiver thereof 
+nor shall it operate as a bar to the 
+perfor
+mance, observance, discharge or 
+compliance thereof at any time or times thereafter.
+ 
+ 
+8)
+ 
+Any and all amendments and/or supplements 
+and/or alte
+rations to this Deed 
+of Covenants shall 
+be valid and effectual only 
+if in writing and signed by the 
+Director and the duly authorized 
+representative of the Insurance Company.
+ 
+ 
+9)
+ 
+This Deed of Covenants has been executed i
+n duplicate and both the copies 
+shal
+l be deemed to 
+be originals.
+ 
+ 
+IN WITNESS WHEREOF THE 
+PARTIES HAVE DULY EXECUTED THIS 
+AGREEMENT ON THE 
+DAY, MONTH AND YEAR FIRST ABOVE WRITTEN.
+ 
+ 
+For the Insurance
+ 
+Company
+ 
+ 
+Name
+ 
+Title
+ 
+Signed and delivered
+ 
+In the Presence of:
+ 
+… .. … … … … … … … .
+ 
+ 
+Director
+ 
+Na
+me: 
+ 
+Signed and delivered
+ 
+In the presence of: 
+… … … … … … … … .
+
+[Page 36]
+33
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure
+-
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Para 7.6)
+ 
+Guidelines on appointment and reporting of Key Management Persons
+ 
+The Authority had issued guidelines 
+vide 
+ref. IRDA/Life/GDL/ Misc./202/1
+0/2013 dt. 9
+th
+ 
+October, 2013 as regards the reporting of Key Persons of 
+insurers
+. The guidelines 
+provided for seeking important information about the persons appointed at key positions by 
+the insurers and reporting the same to the Authority. The guidelines
+ 
+also envisaged the 
+certification of compliance on an annual basis by the CEO of the insurer.
+ 
+The Companies Act, 2013 has brought in many changes as regards the key management 
+persons and directors of companies and has enhanced the compliance 
+requirements
+ 
+as 
+regards these personnel. The Corporate Governance Guidelines issued by the Authority 
+have also been revised.
+ 
+In the light of the above, there is a need to integrate the guidelines in respect of key 
+persons with the overall corporate governance framework
+ 
+of insurers. Therefore, the 
+Authority hereby issues these modified guidelines for appointment and reporting of Key 
+Management Persons of insurers.
+
+[Page 37]
+34
+ 
+ 
+Guidelines:
+ 
+Definition
+ 
+–
+ 
+Key Management Person(KMP):
+ 
+ 
+ 
+“Key Management Person” means members of t
+he core management team
+ 
+of an 
+insurer
+ 
+including all whole
+-
+time directors/ Managing Directors/ CEO and the 
+functional heads one level below the MD/CEO, including the CFO, Appointed 
+Actuary, Chief Investment Officer, Chief Risk
+ 
+Officer,
+ 
+Chief 
+Compliance Offi
+cer and 
+the Company Secretary.
+ 
+ 
+Explanation: 
+The nomencla
+ture o
+r
+ 
+des
+ignations used in the above definition 
+are only illustrative and 
+shall be appropriately mapped to the respective 
+functions of the Insurers while reporting information under these guideline
+s, 
+wherever, necessary. 
+ 
+ 
+With regard to the appointment and i
+n order to 
+ensure
+ 
+that
+ 
+all
+ 
+positions of “Key 
+Management 
+Persons” are adequately
+ 
+and totally
+ 
+manned, all the Insurers are hereby 
+directed 
+that: 
+ 
+ 
+1.
+ 
+The appointment of MD/CEO/Whole
+-
+time Director and
+ 
+Appointed Actuary shall be 
+governed by the provisions of the Insurance Act, 1938 and Regulations made 
+thereunder
+.
+ 
+2.
+ 
+Appointment or termination of all such key management person
+s
+ 
+shall be 
+made 
+with 
+the
+ 
+approval of
+ 
+Board of Directors 
+on recommendation of the 
+Nomination and 
+Remuneration C
+ommittee. 
+ 
+Before appointment of a person as a KMP, the Board or Committee thereof shall 
+carry out due diligence to ensure that the appointee is “fit and proper” for the 
+proposed position. Insurers shall obtain declaration in F
+orm KMP
+-
+1 annexed to 
+these guidelines from the proposed KMP prior to their consideration for 
+appointment.
+ 
+ 
+3.
+ 
+Insurer
+s
+ 
+shall ensure that no 
+single
+ 
+individual
+ 
+is simultaneously holding more
+ 
+than one position of Key Management Person that may have potential con
+flict of 
+interest.
+
+[Page 38]
+35
+ 
+ 
+Where a person is going to have 
+two or more positions of Key 
+Management 
+Person 
+s
+imultaneously, 
+insurer shall furnish a note highlighting 
+the 
+reasons for such 
+appointment, to the Authority
+ 
+prior to such dual/ multiple 
+appointments
+.
+ 
+ 
+4.
+ 
+Al
+l insurers are required 
+to 
+obtain and maintain
+ 
+the particulars of their respective  
+‘Key 
+Management 
+Persons’ in the format ‘Form 
+-
+ 
+K
+M
+P
+–
+1’
+, separately for each key 
+person, as 
+and when there is an appointment/ change in the individual person 
+holding the posi
+tion of Key management Person. Intimation of appointment/ 
+reappointment/ change of any KMP shall be filed with the Authority within 30 days 
+from the date of new person taking over the position of 
+‘
+Key Management Person
+’
+.
+ 
+ 
+5.
+ 
+Insurers shall within a period of 
+30 days notify the Authority in the event of any 
+position of 
+‘key Management person’
+ 
+falling vacant
+,
+ 
+with 
+the details of the person 
+who will officiate in that position.
+ 
+ 
+6.
+ 
+In the event of vacancy in the office of any Key Management Person
+,
+ 
+i
+nsurers shall 
+ini
+tiate 
+action for
+ 
+filling up of such vacant positions on a priority basis. At no point of 
+time the position of any ‘
+Key Management Person
+’ shall remain vacant for a 
+continuous period 
+of 
+more than 180 days.
+ 
+7.
+ 
+The name
+s
+ 
+and designation
+s
+ 
+of all the ‘
+Key Manageme
+nt Persons’ 
+shall be 
+dis
+closed on the
+ir
+ 
+respective websites by all Insurers.
+ 
+8.
+ 
+Unless specified otherwise by t
+he Authority in the respective Regulations, Chief 
+Compliance Officer shall be the designated Compliance Officer for submitting 
+returns, reports and 
+applications for approvals to the Authority.
+ 
+ 
+9.
+ 
+Notwithstanding the above provisions, i
+n order to develop the accountable 
+organizational reporting structures,
+ 
+it
+ 
+shall
+ 
+be 
+ensure
+d
+ 
+that any information that is 
+called for by the Authority
+,
+ 
+shall be submitted on
+ly 
+by the concerned
+ 
+‘Key 
+Management 
+Person’
+. The Board of the Insurer or Committee thereof may 
+also 
+delegate the powers to 
+any of 
+the ‘Key Management Person’
+ 
+for submitting such 
+information to the Authority.
+ 
+10.
+ 
+Every Insurer shall submit an annual compliance 
+certificate or declaration as a part 
+of the 
+Corporate Governance Check
+-
+list
+, to the Authority
+.
+
+[Page 39]
+36
+ 
+ 
+ 
+Form K
+M
+P 
+-
+ 
+1
+ 
+Information relating to
+ 
+Key 
+Management 
+Person 
+-----
+---
+ 
+(Designation)
+ 
+as at
+ 
+(date) 
+------
+--
+ 
+in terms of Clause 
+---
+ 
+of ‘Guidelines on 
+Corporate Go
+vernance 
+ 
+Name of Insurance Company:
+ 
+1.
+ 
+Name (and any previous names)
+ 
+of KMP
+:
+ 
+ 
+2.
+ 
+Present Residential Address:
+ 
+3.
+ 
+C
+urrent Telephone, Fax and E
+-
+mail Addresses:
+ 
+4.
+ 
+Date and Place of Birth
+:
+ 
+5.
+ 
+Nationality (and any previous Nationality)
+:
+ 
+6.
+ 
+Passport / Identity Card:
+ 
+a.
+ 
+Number
+:
+ 
+b.
+ 
+Dat
+e and Place of Issue:
+ 
+c.
+ 
+Date of expiry
+:
+ 
+d.
+ 
+Issuing Authority:
+ 
+ 
+7.
+ 
+Name and Address of Bank:
+ 
+8.
+ 
+Details and Dates of Academic Qualification:
+ 
+9.
+ 
+Details and Dates of Professional Qualification:
+ 
+10.
+ 
+Description of the position (including responsibilities) and 
+proposed 
+date of 
+commencement:
+ 
+11.
+ 
+Experience:
+ 
+ 
+(covering preceding 
+5 years)
+ 
+12.
+ 
+(a) 
+Details of previous employment (in the last 5 years) 
+:
+ 
+(b)
+ 
+If previous employer was regulated by a regulatory body, then:
+ 
+ 
+ 
+1.
+ 
+Name of the Previous Employer:
+ 
+2.
+ 
+Nature of Employer’s business:
+ 
+3.
+ 
+Name of th
+e Regulatory body supervising the Employer:
+ 
+4.
+ 
+Last Designation (including duties & responsibilities)
+:
+ 
+5.
+ 
+Date of Appointment
+:
+ 
+6.
+ 
+Date of resignation
+:
+
+[Page 40]
+37
+ 
+ 
+ 
+13.
+ 
+Details of other business interests of the Key Management Person during the 
+preceding 5 years in the form of hold
+ing equity shares in excess of 2% or 
+Directorships in any other entity
+:
+ 
+ 
+ 
+14.
+ 
+Relationship 
+of KMP 
+with the Insurer and related parties of insurer, if any:
+-
+ 
+a.
+ 
+Details of shareholdings or voting powers in ex
+c
+ess of 
+2% 
+in the Insurer and 
+related parties of insurer:
+  
+ 
+b.
+ 
+Details of any Business relationships with the Insurer or related parties of 
+insurer
+:
+ 
+c.
+ 
+Details of any Business relationships between the Directors’ and key 
+management persons’ former employers and the 
+insurer 
+or related 
+parties of 
+insurer:
+ 
+ 
+15.
+ 
+Full details 
+on the 
+K
+ey 
+Management 
+P
+ersons’ reputation and character:
+-
+ 
+ 
+a.
+ 
+whether the applicant has ever been declared bankrupt;
+ 
+b.
+ 
+details of 
+convictions 
+for
+ 
+any offence involving fraud or other dishonesty;
+ 
+ 
+c.
+ 
+any disqualification from acting as a 
+Director/ Key Management Pe
+rson
+ 
+in 
+any 
+company;
+ 
+d.
+ 
+whether the Director or key person has ever been refused (or had revoked) a 
+licence or authorization to carry on any regulated financial business
+ 
+during 
+past five years
+;
+ 
+ 
+16.
+ 
+Details of a
+ny censure or disciplinary action initiated by any g
+overnment, regulatory 
+or professional body
+:
+ 
+17.
+ 
+Details of a
+ny dismissals from office or employment, subjection t
+o disciplinary 
+proceedings by the 
+previous 
+employer or  refus
+al of
+ 
+entry 
+into any profession or 
+occupation:
+ 
+18.
+ 
+Details of conviction, if any of the
+ 
+Ke
+y 
+Management P
+erson f
+or
+ 
+any offence involving 
+moral turpitude
+:
+
+[Page 41]
+38
+ 
+ 
+19.
+ 
+Whether any governmental, regulatory or professional body has ever investigated 
+any employer, company or organisation with which the Key Management P
+erson
+ 
+ha
+s
+ 
+been associated as a director, o
+fficer, manager or shareholder
+?
+ 
+20.
+ 
+Whether any company or organisation with which the 
+K
+ey
+ 
+Management P
+erson w
+as
+ 
+associated as a director, officer, manager, has ever been wound up, gone into 
+receivership or ceased trading either whilst the 
+K
+ey 
+Management P
+erso
+n was 
+associated with it
+; 
+or
+ 
+within one year after the 
+K
+ey 
+Management P
+erson so ceased 
+to be associated
+?
+ 
+ 
+ 
+21.
+ 
+P
+lease mention whether 
+the
+ 
+Key Management Person
+ 
+is 
+also 
+an 
+Insurance 
+Corporate A
+gent, 
+employee of Insurance B
+roker, 
+D
+irector or 
+E
+mployee of any othe
+r 
+insurance 
+intermediaries or Insurer 
+or reinsurer in India or in any foreign country or 
+director of any other company in India or in any foreign country. 
+ 
+ 
+22.
+ 
+Whether the Key Management Person is into the full time employment of the 
+insurer? If not, then ple
+ase give the full detail of other employment/ engagement:
+ 
+ 
+23.
+ 
+Whether the key management person is on deputation / secondment from any other 
+organisation?
+ 
+If yes, 
+ 
+(a)
+ 
+furnish the full particulars of the Parent Organisation:
+ 
+(b)
+ 
+whether any remuneration etc is paid b
+y the Parent Organisation, if so 
+complete detail of the remuneration:
+ 
+ 
+24.
+ 
+Whether the Key Person is into the full time / part time employment of any group 
+company / associated company or the promoting partner of the insurer?
+ 
+ 
+It is certified that the above in
+formation is true to the best of my knowledge and 
+belief and if anything reported herein is found to be false or incorrect, then I shall be 
+liable for appropriate action. 
+ 
+ 
+Key Management Person
+ 
+ 
+ 
+ 
+       
+Chief 
+Compliance Officer
+ 
+(Applicant)
+ 
+Date:
+ 
+ 
+Place:
+
+[Page 42]
+39
+ 
+ 
+ 
+ 
+ 
+Form 
+–
+ 
+K
+M
+P 
+-
+2
+ 
+ 
+ 
+Annual Compliance Certificate for the Financial Year ____
+_____
+ 
+in terms of 
+Para No. _____
+ 
+of 
+Corporate Governance 
+Guidelines on Reporting of Key
+ 
+Management 
+Persons
+ 
+(KMPs
+)
+ 
+ 
+Name of Insurance Company:
+ 
+ 
+It is hereby certified that all th
+e provisions relating to 
+‘Guidelines on 
+appointment and 
+Reporting of Key 
+Management 
+Persons (
+KMPs) 
+issued by Insurance Regulatory and 
+Development Authority
+ 
+as part of the Corporate Governance Guidelines, are duly complied 
+with.  It is further certified tha
+t the Company has in place procedures for complying with the 
+provisions of 
+‘Guidelines on 
+appointment and reporting of 
+Reporting of Key 
+Management 
+Persons’
+.
+ 
+ 
+Date:
+ 
+Place:
+ 
+ 
+Chief Compliance Officer
+ 
+Name of the Insurance Company
+ 
+Company Seal
+
+[Page 43]
+40
+ 
+ 
+ 
+ 
+Annexure 
+-
+5
+ 
+ 
+(Refer Para 8.1)
+ 
+ 
+Form for seeking approval of the Authority to appointment of Managing/Whole
+-
+time 
+Directors
+ 
+ 
+Form A
+ 
+ 
+Sr. 
+No.
+ 
+Particulars 
+ 
+ 
+ 
+1
+ 
+State who is the competent authority to make the 
+appointment / re
+-
+appointment in question and t
+o fix the 
+terms thereof. In case it is the Board of Directors, please 
+quote the number of the relevant Article 
+ 
+(A certified copy of the resolution (also mentioning the 
+date thereof) of the competent authority, the General 
+Body or the Board of Directors, a
+s the case may be 
+authorizing the appointment. re
+-
+appointment should be 
+furnished along with the application. If the resolution is in 
+vernacular, a certified copy thereof as translated into 
+English may preferably be supplied) 
+ 
+ 
+ 
+2
+ 
+Full name of the person 
+to be appointed / re
+-
+appointed:
+ 
+ 
+3
+ 
+His present designation
+ 
+ 
+4
+ 
+Insurance and / or other professional experience stating 
+the name/s of the institution/s the position/s held therein 
+and the approximate period of such experience
+ 
+ 
+5
+ 
+State the name of the com
+panies with their nature of 
+business, in which the person also holds the position of 
+Director / Managing Director.
+ 
+ 
+ 
+6
+ 
+Terms of appointment / re
+-
+appointment 
+ 
+(a) Whether the appointment/ re
+-
+appointment will be 
+under a contract or agreement (If so, a copy 
+of the 
+draft contract or agreement should be furnished 
+together with a copy of existing contract or 
+agreement, if any) 
+ 
+(b) Period of appointment / re
+-
+appointment if any fixed 
+(in case the period of appointment / re
+-
+appointment should not exceed more than 
+5 
+years)
+
+[Page 44]
+41
+ 
+ 
+(c) Details of remuneration : The particulars should be 
+furnished in the enclosed Form “C” 
+ 
+ 
+7
+ 
+State whether 
+ 
+(a) The insurance company complies with the 
+provision of Section 32(A) (1) of Insurance Act, 
+1938 
+ 
+(b) In case the appointee is an exp
+atriate, the work 
+permit from the Ministry of Home, Govt. of India 
+has been taken (a certified copy of the work 
+permit to be enclosed) 
+ 
+ 
+ 
+8
+ 
+Position in regard to compliance with such provisions of 
+the Companies Act, 
+2013
+ 
+as are attracted 
+particularly 
+Sect
+ions 164 (disqualification of Directors), Section 188 
+(office or place or profit) and Section 196 (except Central 
+Governnment approval).
+ 
+ 
+Please state the position with 
+reference to each Section separately.
+ 
+ 
+9
+ 
+Any additional facts which the insurance comp
+any may 
+like to state in support of the application or otherwise
+.
+ 
+ 
+ 
+For
+--------------------------
+ 
+ 
+(Name of the Insurance Company) 
+ 
+--------------------------------
+ 
+ 
+(Signature) 
+ 
+----------------------------------
+ 
+ 
+(Designation) 
+ 
+ 
+Note: In case the applic
+ation relates to the re
+-
+appointment of the Managing Director, also 
+involving an amendment of the provision/s relating to his existing appointment or 
+remuneration, only one application as in Form ‘A” need be submitted.
+
+[Page 45]
+42
+ 
+ 
+ 
+Annexure
+-
+6
+ 
+ 
+(Refer Para 
+8.1)
+ 
+Form B
+ 
+ 
+Name of the Insurance
+ 
+Company: 
+ 
+ 
+ 
+ 
+Dec
+l
+ar
+a
+t
+ion 
+a
+nd Undert
+a
+k
+ing by M
+a
+naging
+ 
+Dire
+c
+t
+or / 
+C
+EO
+ 
+(w
+i
+t
+h 
+e
+nclosures as appropr
+i
+ate
+ 
+as
+ 
+on
+ 
+…………)
+ 
+I.
+ 
+Personal Details of Director / CEO
+ 
+a.
+ 
+Full Name
+ 
+ 
+b.
+ 
+Date of Birth
+ 
+ 
+c.
+ 
+Educational
+ 
+Qualifications
+ 
+ 
+d.
+ 
+Relevant       
+ 
+Back
+g
+round       
+ 
+and
+ 
+Experience
+ 
+ 
+e.
+ 
+Permanent
+ 
+Address
+ 
+ 
+f.
+ 
+Present Address
+ 
+ 
+g.
+ 
+E
+-
+mail      
+ 
+Address/      
+ 
+Telep
+h
+one
+ 
+Number
+ 
+ 
+h.
+ 
+Permanent     
+ 
+Account     
+ 
+Number
+ 
+under
+ 
+the
+ 
+Income
+ 
+T
+ax
+ 
+Act a
+n
+d name
+ 
+and
+ 
+address
+ 
+of Income
+ 
+Tax Circle
+ 
+ 
+i.
+ 
+R
+elevant        
+ 
+knowledge        
+ 
+a
+nd
+ 
+experience
+ 
+ 
+j.
+ 
+Any
+ 
+other
+ 
+i
+nformation
+ 
+relevant
+ 
+to
+ 
+appointment
+ 
+ 
+k.
+ 
+In 
+ 
+case 
+ 
+of 
+ 
+foreign 
+ 
+national, 
+ 
+the
+ 
+wheth
+e
+r Residential Permit h
+a
+s 
+been issued by the Ministry of 
+Home. If n
+o
+, then reas
+o
+n thereof.
+ 
+ 
+ 
+II
+ 
+ 
+Relevant R
+elationships
+ 
+of Managing
+ 
+D
+i
+rect
+o
+r / Chi
+e
+f Exec
+u
+t
+ive Off
+i
+cer
+ 
+a.
+ 
+No.   
+ 
+of   
+ 
+shares   
+ 
+he
+l
+d   
+ 
+by   
+ 
+the
+ 
+Managing        
+ 
+Director/        
+ 
+Chief
+ 
+Executive Officer
+ 
+ 
+b.
+ 
+List
+ 
+of
+ 
+entities
+ 
+if
+ 
+any
+ 
+in
+ 
+which
+ 
+he
+ 
+/she is considered as be
+i
+ng 
+interested (Refer 
+Secti
+on
+ 
+184
+ 
+and 
+2(49) 
+of
+ 
+the Companies Act,
+ 
+2013
+)
+ 
+ 
+c.
+ 
+Name
+ 
+of
+ 
+the
+ 
+Insurance
+ 
+Company
+ 
+in
+ 
+which
+ 
+he
+ 
+/
+ 
+she
+ 
+is 
+ 
+or
+ 
+ 
+has
+ 
+been
+ 
+a
+
+[Page 46]
+43
+ 
+ 
+ 
+ 
+member  
+ 
+of  
+ 
+the  
+ 
+Board  
+ 
+(Giv
+e 
+detail
+s
+ 
+of
+ 
+period
+ 
+during
+ 
+which
+ 
+such office was held)
+ 
+ 
+d.
+ 
+Fund 
+ 
+and 
+ 
+non
+-
+fund 
+ 
+facilities, 
+if
+ 
+any,
+ 
+presently availed by him / 
+her and / or by entities listed in II 
+(a) and (b) above from the 
+Insurance Company.
+ 
+ 
+ 
+III
+ 
+ 
+Records of professional
+ 
+achievements
+ 
+a.
+ 
+Professional achievements
+ 
+ 
+ 
+ 
+IV
+ 
+ 
+Proceed
+i
+ng, if any,
+ 
+again
+s
+t the Managing D
+i
+rect
+o
+r, 
+C
+hief Exec
+u
+t
+ive Offic
+e
+r
+ 
+a.
+ 
+If the 
+M
+an
+a
+ging Director / CEO is 
+a
+ 
+member of a profess
+i
+onal 
+association
+ 
+/ body, details of 
+disciplinary action, if any, pending 
+or commenced or 
+r
+esulting in
+ 
+conviction
+ 
+in
+ 
+the
+ 
+past
+ 
+against
+ 
+h
+i
+m
+ 
+/ her  or  wheth
+e
+r  he  /  she  
+has been bann
+ed from e
+n
+try of at 
+any profession/   occupation at 
+any time.
+ 
+ 
+b.
+ 
+Details of prosecution, 
+i
+f any,
+ 
+pending or commenced or 
+resulting in conviction in the pa
+s
+t 
+against
+ 
+the Managing
+ 
+Director.
+ 
+ 
+c.
+ 
+Whether
+ 
+t
+h
+e
+ 
+director
+ 
+attr
+a
+cts
+ 
+a
+n
+y
+ 
+of the disqualifications
+ 
+en
+visaged under
+ 
+Section
+ 
+16
+4 of
+ 
+the Companies Act,
+ 
+2013
+ 
+ 
+d.
+ 
+Has
+ 
+the
+ 
+Managing
+ 
+Director
+ 
+/
+ 
+CEO
+ 
+or
+ 
+any
+ 
+of
+ 
+the
+ 
+entities
+ 
+at
+ 
+II
+ 
+(b)
+ 
+and (c) above been sub
+j
+ect to 
+any investigation
+ 
+at the
+ 
+instance
+ 
+of Government department or 
+agency?
+ 
+ 
+e.
+ 
+Has
+ 
+the
+ 
+M
+anaging
+ 
+Director/
+ 
+C
+EO
+ 
+at
+ 
+any
+ 
+ti
+m
+e
+ 
+been
+ 
+found
+ 
+guilty of violation
+ 
+of rules / 
+regulations
+ 
+/ legislative 
+requir
+e
+ments by customs / 
+excise/ i
+n
+come tax / foreign 
+ex
+c
+h
+ange / other reven
+u
+e 
+authorities,
+ 
+if so give p
+a
+rticulars
+
+[Page 47]
+44
+ 
+ 
+ 
+f.
+ 
+Whether
+ 
+the
+ 
+Managing
+ 
+Director
+ 
+at
+ 
+any time come to 
+the adverse 
+notice of a regulator such as 
+SEBI, DCA, RBI
+ 
+ 
+V
+ 
+Any 
+ 
+o
+t
+h
+e
+r 
+ 
+explanation/ information 
+ 
+in reg
+a
+rd to 
+i
+t
+ems I to III 
+ 
+a
+nd 
+ 
+o
+t
+her
+ 
+information
+ 
+c
+o
+nsidered rele
+v
+ant for judging
+ 
+fit and proper
+ 
+ 
+ 
+Und
+e
+rt
+ak
+ing
+ 
+ 
+I confirm
+ 
+that the above informat
+i
+on is to
+ 
+t
+h
+e
+ 
+best
+ 
+of
+ 
+my
+ 
+knowledge and belief true and 
+complete. I undertake
+ 
+to keep the insur
+a
+nce company fully 
+i
+nf
+o
+rmed, as 
+s
+oon as 
+possible,
+ 
+of all
+ 
+events
+ 
+which
+ 
+take
+ 
+place
+ 
+subsequent
+ 
+to
+ 
+my
+ 
+appointment
+ 
+which
+ 
+are 
+relevant to the inform
+a
+t
+ion provided to above.
+ 
+ 
+I
+ 
+a
+lso
+ 
+undertake
+ 
+to
+ 
+executive
+ 
+the
+ 
+deed
+ 
+of covenant
+ 
+required
+ 
+to
+ 
+be
+ 
+executed
+ 
+by
+ 
+all 
+directors of the insurance company.
+ 
+ 
+ 
+ 
+Place: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date: 
+___________
+ 
+   
+ 
+   
+Signa
+t
+ure of 
+proposed appointee
+ 
+ 
+Signature 
+o
+f 
+Chief 
+Compliance Officer
+
+[Page 48]
+45
+ 
+ 
+ 
+F
+orm 
+C
+ 
+ 
+Details of Remunerati
+o
+n of the Ch
+i
+ef Executi
+v
+e
+ 
+Officer
+ 
+/ Managing director
+ 
+ 
+Remuneration
+ 
+Etc
+ 
+Existing
+ 
+Proposed
+ 
+Reasons    
+ 
+for
+ 
+Change
+ 
+(1)
+ 
+(2)
+ 
+(3)
+ 
+(4)
+ 
+Remuneration:
+ 
+1. 
+ 
+Salary
+ 
+2. 
+ 
+Dearness Allowance
+ 
+3. 
+ 
+House rent
+ 
+allowance
+ 
+4. 
+ 
+Conveyan
+c
+e allowance
+ 
+5. 
+ 
+Ente
+r
+t
+ain
+m
+ent allowa
+n
+ce
+ 
+6. 
+ 
+Other   
+ 
+all
+o
+wances,   
+ 
+if   
+ 
+any   
+ 
+(please 
+specify)
+ 
+ 
+ 
+ 
+Perquisities:
+ 
+1. 
+ 
+Free furnished house
+ 
+2. 
+ 
+Free use insurance company’s c
+a
+r for
+ 
+(i)    
+ 
+Official
+ 
+purposes
+ 
+(ii)
+ 
+For    
+ 
+private      purposes      on 
+compensating
+ 
+the   
+ 
+company 
+with suitab
+l
+e amount
+ 
+3. 
+ 
+Provident Fund / Grat
+u
+ity / Pension
+ 
+4. 
+ 
+Traveling
+ 
+and
+ 
+Halting
+ 
+Allowance
+ 
+5. 
+ 
+Medical benefits
+ 
+6. 
+ 
+Other benefits, if any (
+p
+lease speci
+f
+y)
+ 
+ 
+ 
+ 
+Bonus
+ 
+1. 
+ 
+Performan
+c
+e Bonus
+ 
+2. 
+ 
+Annual
+ 
+Bonus
+ 
+3. 
+ 
+Employee Stock Options
+ 
+4. 
+ 
+any ot
+h
+e
+r incentive
+ 
+ 
+ 
+ 
+ 
+Note
+s:
+ 
+(1) If
+ 
+any
+ 
+of
+ 
+the
+ 
+benefits
+ 
+is
+ 
+of
+ 
+a
+ 
+non
+-
+monet
+a
+ry
+ 
+nature,
+ 
+e.g.
+ 
+free
+ 
+furnished
+ 
+house,
+ 
+its 
+monetary
+ 
+e
+quivalent
+ 
+as
+ 
+best
+ 
+as
+ 
+it is
+ 
+possible
+ 
+to
+ 
+determine
+ 
+should
+ 
+be
+ 
+given.
+ 
+I
+n case
+ 
+the
+ 
+p
+erson
+ 
+to
+ 
+b
+e
+ 
+appointed
+ 
+is already
+ 
+associated
+ 
+with
+ 
+the
+ 
+a
+pplicant company, 
+particulars
+ 
+of
+ 
+his existing remunerat
+i
+on, etc. sh
+o
+uld be furnished
+ 
+(2)
+ 
+In case of performance
+ 
+bonus,
+ 
+pl
+e
+ase ens
+u
+re 
+th
+at 
+th
+e 
+a
+mount 
+p
+aid
+ 
+each 
+y
+ear is 
+specifically
+ 
+approved
+ 
+by
+ 
+the
+ 
+Board
+ 
+of
+ 
+D
+i
+rector
+ 
+by
+ 
+passing
+ 
+a
+ 
+separate
+ 
+resolution 
+for the p
+ayment of bonus.
+ 
+(3)
+ 
+The
+ 
+shares
+ 
+of
+ 
+the
+ 
+promote
+r
+/
+ 
+group/
+ 
+assoc
+i
+ate
+ 
+companies
+ 
+offered
+ 
+as
+ 
+ESOPs
+ 
+to 
+the
+ 
+CEO/
+ 
+MD/
+ 
+Principal
+ 
+Officer
+ 
+of
+ 
+the insurance
+ 
+company
+ 
+shall
+ 
+be
+ 
+g
+overned
+ 
+by the 
+provisions 
+SEBI (
+Share Based Employee Benefits
+) Regulations, 20
+14
+.
+ 
+(4)
+ 
+The
+ 
+shar
+es
+ 
+of
+ 
+the
+ 
+insurance
+ 
+company/ unlisted
+ 
+companies
+ 
+offered
+ 
+as
+ 
+ESOPs
+ 
+t
+o the 
+CEO/ MD/ Principal
+ 
+Officer of the i
+n
+suran
+c
+e company
+ 
+shall
+ 
+also be governed by
+ 
+the
+ 
+pro
+v
+isions
+ 
+SEBI
+ 
+(Share Based Employee Benefits) Regulations, 2014
+ 
+except
+ 
+those 
+relating to pricing
+ 
+of 
+the shares.
+ 
+(5)
+ 
+If
+ 
+the
+ 
+com
+p
+any
+ 
+proposes
+ 
+to
+ 
+increase
+ 
+the
+ 
+emoluments
+ 
+and
+ 
+/
+ 
+or
+ 
+other
+ 
+benefits/
+ 
+perquisites,
+ 
+the
+ 
+reasons
+ 
+therefore
+ 
+may
+ 
+be
+ 
+explained
+ 
+suitably
+ 
+under
+ 
+column
+ 
+no. 
+(4)
+
+[Page 49]
+46
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure 
+-
+7 
+ 
+ 
+Appointment of Statutory Auditors by Insur
+e
+rs
+ 
+ 
+S
+ection 12 of Insurance Act
+,
+ 
+1938 prescribes that all insur
+ers
+ 
+must be 
+a
+udited annually by 
+the Auditors. 
+ 
+ 
+The Authority has reviewed the existing guidelines as regards appointment of auditors by 
+insurers. In light of the 
+amendments to the 
+Insurance Ac
+t, 
+1938
+ 
+and the Companies Act, 
+2013, Authority issues the revised guidelines as under
+:
+ 
+ 
+In
+surers 
+shall comply with the provisions 
+relating to
+ 
+appointment of Auditor
+s
+ 
+as contained in 
+the Companies Act, 2013
+. Additionally, insurers shall also comply with the
+ 
+provisions 
+contained in these guidelines.
+ 
+ 
+ 
+On recommendation of the Audit Committee, the Board shall appoint the statutory auditors, 
+subject to the shareholders’ approval at the general meeting
+ 
+of an 
+Indian 
+insur
+ance company
+. 
+The remuneration of the audi
+tors shall also be approved by the shareholders in the general 
+meeting. 
+ 
+ 
+I.
+ 
+The 
+eligibility, 
+qualifications and other requirements of the auditors are detailed 
+below:
+ 
+ 
+ 
+1.
+ 
+The Auditor of an insurer shall be a firm, including a Limited Liability Firm, 
+constit
+uted under the LLP Act, 2008.
+ 
+ 
+2.
+ 
+The Firm should have been established and in continuous practice for at least 15 
+years.
+ 
+ 
+3.
+ 
+The auditor should have:
+ 
+ 
+a)
+ 
+a minimum of 5 full
+-
+time partners,
+ 
+of whom,
+ 
+ 
+(i) 
+at least 2 should have been in 
+full
+-
+time 
+practice as partners
+ 
+exclusively 
+associated with the firm for a continuous period of minimum of 10 years, and
+ 
+(ii) 
+at least 2 other partners should have been in continuous association 
+ 
+    
+with the audit firm either as partner or as employee for a minimum
+ 
+period of 
+5 years, a
+nd
+
+[Page 50]
+47
+ 
+ 
+ 
+(iii
+) one partner in 
+full
+-
+time 
+practice with the firm 
+as a partner 
+for a minimum 
+period of 1
+ 
+year,
+ 
+and
+ 
+ 
+(iv
+) out of the total partners of the firm, at least two should be FCA 
+ 
+ 
+ 
+    
+and be in practice for a minimum period of 5 years as FCA.
+ 
+ 
+OR (
+Altern
+atively
+)
+, 
+ 
+ 
+a)
+ 
+a minimum of 7 Chartered Accountants, 
+ 
+ 
+(i) 
+of which not less than 2 are partners in full
+-
+time practice exclusively 
+associated with the firm for a 
+ 
+continuous period of a minimum of 10 years, 
+and
+ 
+(ii
+) at least 3 other Chartered Accountants in c
+ontinuous association 
+ 
+    
+with 
+the audit firm as partner or employee for a minimum period of 5 years, and
+ 
+ 
+ 
+(iii
+) at least 2 Chartered Accountants should be FCA and be in practice 
+ 
+               
+for a minimum period of 5 years as FCA. 
+ 
+ 
+4.
+ 
+At least one p
+artner or employee of the audit firm should possess the 
+D
+ISA/ 
+C
+ISA         
+ 
+    
+or equivalent qualification 
+as may be recognized by the IRDAI from time to time 
+and such 
+partner or employee must 
+be 
+involved in the audit
+ 
+of the insurer
+.
+ 
+ 
+5.
+ 
+The Audit firm sh
+ould have a minimum experience of 5 years in audit assignments     
+ 
+    
+of entities in the financial sector. At least one of the joint statutory auditors of an 
+ 
+    
+insurer must have experience in insurance company audits of at least two years.
+ 
+ 
+ 
+6.
+ 
+For th
+e above purposes, a
+ 
+full
+-
+time partner shall not include a person who is 
+–
+ 
+ 
+a) a partner in other 
+CA 
+firm(s) or
+ 
+ 
+b) employed full time/ part time elsewhere, practicing in own name, or engaged in 
+practice otherwise or engaged in other activity which would be
+ 
+deemed to be in practice 
+under section 2(2) of the Chartered Accountants Act, 1949.
+ 
+ 
+ 
+ 
+7.
+ 
+Insur
+ers 
+should verify to their satisfaction 
+that 
+the 
+proposed auditors meet the 
+eligibility 
+criteria before considering
+ 
+/
+ 
+approving their appointment. 
+A declaration
+ 
+in the prescribed 
+format 
+(Form A1)
+ 
+shall be obtained by insurers at the time of appointment of auditors.
+
+[Page 51]
+48
+ 
+ 
+8.
+ 
+Any change in the constitution of the 
+Audit 
+firm/information submitted/certifications 
+submitted 
+which affects the eligibility criteria indicated i
+n these guidelines, 
+should be duly 
+informed by the Audit firm to the Insur
+ers
+ 
+within 
+7 working days 
+of such change.
+ 
+In such 
+cases, the insurer must ensure compliance with the guidelines within six months from date of 
+such intimation.
+ 
+ 
+ 
+9.
+ 
+The Authority mus
+t be informed 
+about 
+appointment
+ 
+of auditors 
+within 
+7 working days 
+thereof with a certification to the effect that the 
+above eligibility stipulations have been
+ 
+met, as 
+per the enclosed
+ 
+format
+ 
+(Form A2)
+. 
+ 
+ 
+10.
+ 
+Insurers are also advised to file a Return on an
+ 
+annual basis as per the enclosed 
+(Format 
+A3)
+ 
+giving details of Chartered Accountant firms engaged in various capacities like Statutory 
+Auditors, Internal Auditors, Concurrent Auditors, Tax Auditors 
+etc.
+ 
+If it comes to the notice of the Authority that the 
+appointment 
+of auditors by insurers 
+is not in 
+line with the
+se guidelines
+, the appointment is liable for cancellation and it 
+shall be
+ 
+open for 
+the Authority to consider such further action as may be deemed necessary in this 
+regard
+.
+ 
+An insurer shall not remo
+ve its statutory auditor without the prior approval of the Authority. 
+ 
+II. 
+Maximum Number of Statutory Audits 
+of
+ 
+Insur
+ers
+ 
+that can be accepted by an audit 
+firm
+ 
+at a time :
+ 
+ 
+ 
+1)
+ 
+A
+n Audit firm 
+shall be entitled 
+to carry out Statutory Audits of 
+not more than thr
+ee 
+Insur
+ers
+ 
+(Life/Nonlife/
+Health /
+Reinsurer)
+ 
+at a time
+. 
+ 
+ 
+Provided that 
+an audit
+ 
+firm shall not have 
+the audit assignments of 
+more than 2 
+insurers 
+in one 
+line of business 
+(
+i.e.
+ 
+life insurance, general insurance, health insurance and reinsurance
+) at a 
+time.
+ 
+ 
+ 
+Explanation:
+ 
+An audit firm shall include 
+its
+ 
+associate/ affiliate firms which are under the 
+same network or other firm
+(s)
+ 
+whose name or trade mark or brand is used by the audit 
+firm or any of its partners. 
+ 
+ 
+III. 
+Rotation of Joint Auditors: 
+ 
+ 
+1)
+ 
+Each insur
+er
+ 
+shall 
+have 
+a minimum of 
+two auditors a
+s
+ 
+joint audit
+ors
+. 
+A joint auditor 
+of 
+an insurer 
+shall not include other associate/ affiliate firms which are under the same
+
+[Page 52]
+49
+ 
+ 
+network or whose name or trade mark or brand is used by the firm or any of the 
+partners of 
+the other 
+joint 
+auditor.  
+ 
+ 
+Provided that requirement of joint auditors would not be applicable 
+in case of new 
+insurers
+ 
+during
+ 
+their 
+first year of operations
+.
+  
+The 
+requirement shall be mandatory 
+from the financial 
+year succeeding the year in which the Cert
+ificate of 
+R
+egistration 
+i
+s 
+granted 
+by the Authority
+.
+ 
+ 
+2)
+ 
+An audit firm which completes 
+the 
+tenure of five years at the first instance in respect of 
+an insur
+er
+ 
+may be reappointed as statutory auditors 
+of that Insur
+er
+ 
+for another term of
+  
+five
+ 
+years. 
+Thus, an a
+udit firm may be appointed as statutory auditors by an insurer for 
+a continuous period of up to ten years. 
+There
+after there
+ 
+sha
+ll be a cooling
+-
+off
+ 
+period of 
+five
+ 
+years.
+ 
+T
+he incoming auditor 
+during the cooling
+-
+off period 
+shall not include other 
+associate/ a
+ffiliate firm
+(
+s
+)
+ 
+which are under the same network or whose name or trade 
+mark or brand is used by the firm or any of the partners of the retiring auditor. 
+The 
+retiring/ 
+outgoing statutory auditor 
+or its associate/ affiliate as explained above, 
+shall 
+not un
+dertake the investment risk management, or concurrent audit of the insurer 
+during cooling
+-
+off period.
+ 
+ 
+It is clarified that the period for which the auditors have already served as on the date of 
+effect of these guidelines shall be counted towards determin
+ing the term of appointment of 
+statutory auditors for five years.
+ 
+ 
+  
+ 
+IV. Statutory Auditors taking up other assignments
+: 
+ 
+Statutory auditor may take up other assignments 
+with
+ 
+the insurer subject to compliance 
+of the following
+:
+ 
+ 
+a.
+ 
+Any additional work other t
+han statutory audit that is entrusted to the auditor or 
+other firms under the same network/ associate/ affiliate firms whose name or trade 
+mark or brand is used by the 
+audit 
+firm or any of its partners
+,
+ 
+shall be specifically 
+approved by the Board or 
+Audit
+ 
+C
+ommittee thereof;
+ 
+b.
+ 
+The board or its committee while approving the assignment shall ensure the 
+independence and integrity of the audit relationship.
+ 
+c.
+ 
+The aggregate of the fees for the additional work in a financial year shall not 
+exceed the Statutory Audit F
+ees for the said financial year. 
+It is clarified that the 
+fees for the quarterly and half yearly audit/ review may be excluded for the 
+purpose of calculating the aggregate fees for other assignments of the statutory 
+auditors.
+ 
+All fees/ remuneration for suc
+h other work entrusted to the auditor or 
+other firms whose name or trade mark or brand is used by the firm or any of its
+
+[Page 53]
+50
+ 
+ 
+partners shall be specifically disclosed in the Notes to Accounts forming part of the 
+annual accounts of the insurer.
+ 
+d.
+ 
+Insurers shall
+ 
+en
+sure compliance
+ 
+with Section 144 of the Companies Act 2013 and 
+Chartered Accountants Act, 1949 and Regulations issued thereunder, 
+and the 
+applicable guidelines of ICAI issued from time to time in this regard, 
+before 
+considering to  provide any additional w
+ork to Statutory auditors
+.
+
+[Page 54]
+51
+ 
+ 
+ 
+Form A1
+ 
+Declaration
+ 
+ 
+ 
+I / We, the undersigned, partner(s) of M/s _________________________ do hereby declare 
+that the particulars as given above are as on ______________ and are correct in al
+l 
+respects to the best of my / our knowledge and belief. 
+ 
+ 
+I / we hereby declare that 
+ 
+ 
+a.
+ 
+none of our branches or associate/ affiliate concerns or LLP or other firm whose 
+name or trade mark or brand is used by our firm or any of our partners,  has/ have 
+been
+ 
+appointed as statutory auditor of any insurer; 
+o
+r 
+ 
+ 
+the following of our branch or associate/ affiliate concern or LLP or  other firm 
+whose name or trade mark or brand is used by our firm or any of our partners has/ 
+have been appointed as statutory audito
+rs of insurer(s) 
+ 
+ 
+Name of the firm / 
+associate / affiliate/ LLP
+ 
+Name of the Insurer
+ 
+Period of Appointment
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+b.
+ 
+ 
+I /we have gone through the instructions and terms and conditions as specified in 
+the guidelines issued by the Authority and affirm that 
+our firm is compliant with the 
+guidelines and in no way infringes the terms and conditions so prescribed.
+ 
+c.
+ 
+ 
+In case the terms or conditions so prescribed are found to have been infringed the 
+application/appointment is liable to be rejected/ cancelled.
+ 
+d.
+ 
+ 
+I /w
+e further recognize that if any of the terms or conditions is infringed or any of 
+the statement made therein or information furnished in the application form is not 
+correct, I /we would be liable for disciplinary action under the Chartered 
+Accountants Act,
+1949 and regulations framed there under and under the provisions 
+of Companies Act, 2013
+
+[Page 55]
+52
+ 
+ 
+e.
+ 
+No further assignment(s) by our audit firm or branch or associate or LLP or other 
+firm whose name or trade mark or brand is used by our firm or any of our partners 
+shal
+l be taken which are not in compliance to these guidelines.  
+ 
+ 
+I / we hereby declare that audit / other assignment allotted on the basis of information 
+furnished in the application form will not be accepted and carried out if the firm in whose 
+name the app
+lication was made is not in existence at the time of audit. 
+ 
+ 
+ 
+Name of the Audit Firm
+:
+ 
+ 
+ 
+Name of Partner 
+ 
+Membership No.
+ 
+Signature*
+ 
+ 
+ 
+_________________ _______________ _______________ 
+ 
+_________________ _______________ ________________ 
+ 
+_________________ _
+______________ ________________ 
+ 
+ 
+ 
+Place
+:
+ 
+__________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Date:_____________
+ 
+ 
+* The declaration should be signed by all the partners of audit firm undertaking 
+audit of the insurer.
+
+[Page 56]
+53
+ 
+ 
+ 
+Form A2 
+ 
+Name of the Insurer
+:
+ 
+ 
+This is to inform that the foll
+owing audit firms have been appointed as Statutory Auditors for 
+(Name of the Insurer) for the financial year___________
+ 
+ 
+Sl. No. 
+ 
+Name of the Audit Firm 
+ 
+Address 
+ 
+Telephone/ e
+-
+mail
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The past record of 
+Statutory Auditors of (Name of the I
+nsurer) for the 
+preceding
+ 
+ten
+ 
+years is as under: 
+ 
+ 
+Present Term
+ 
+ 
+Year
+-
+4 
+ 
+Year 
+-
+3 
+ 
+Year 
+-
+2 
+ 
+Year 
+-
+1 
+ 
+Current Year 
+ 
+Name of the Audit Firm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Previous Term
+ 
+Year
+-
+9
+ 
+Year 
+-
+8
+ 
+Year 
+-
+7
+ 
+Year 
+-
+6
+ 
+Year
+-
+ 
+5
+ 
+Name of the Audit Firm
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It is certified that this appointment/reappointment is in compliance with the 
+guidelines for appointment 
+of auditors as a part of Corporate Governance Guidelines issued by the Authority . 
+ 
+ 
+Date:         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Si
+gned 
+ 
+ 
+Place:                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chief Executive Officer
+
+[Page 57]
+54
+ 
+ 
+Form 
+A
+3 
+ 
+Name of the Insurance Company: 
+ 
+Return of Auditors engaged for the financial year ________ 
+ 
+Sl. 
+No. 
+ 
+Auditors engaged as
+ 
+Name of the Firm
+ 
+Address
+/ Telephone/ e
+-
+mail
+ 
+1. 
+ 
+Statutory 
+Auditors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+Internal Auditors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+3. 
+ 
+Concurrent Auditors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+4.  
+ 
+Tax Auditors 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+5. 
+ 
+Any Other Capacity (to be 
+specified) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. 
+ 
+ 
+ 
+ 
+ 
+ 
+I
+t is certified that the above information is correct and complete to the best of my knowledge 
+and belief, and reflects the true position. 
+ 
+ 
+Date:          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Signed 
+ 
+Place:        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chief Executive Officer
+
+[Page 58]
+55
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure 
+–
+ 
+8
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Refer Para 11.4)
+ 
+ 
+“Certification for compliance of the Corporate Governance Guidelines”
+ 
+ 
+I _______________________ (Name) hereby certify that ___________________ (company 
+name) has complied with the corporate governance guidelines for Insurance Companies 
+as 
+amended from time to time and nothing has been concealed or suppressed. 
+ 
+ 
+ 
+Signature
+----------------------
+ 
+Full Name and Designation”
+
+[Page 59]
+56
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annexure 
+–
+ 
+9 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(refer Para 11.4)
+ 
+ 
+CORPORATE GOVERNANCE GUIDELINES 
+–
+ 
+STAT
+US OF COMPLIANCE
+ 
+CG guidelines
+ 
+Compliance 
+Status 
+ 
+Y/N
+ 
+If No, gaps in  
+Compliance
+ 
+Proposed Action 
+for 
+address
+ing the 
+gap
+s
+ 
+I. Governance Structure 
+-
+ 
+Board of 
+Directors
+ 
+ 
+ 
+ 
+Board Composition 
+ 
+ 
+ 
+ 
+1.
+ 
+Properly Constituted Board:
+ 
+ 
+ 
+ 
+       
+a. total number of Dire
+ctors in the 
+Board
+ 
+ 
+ 
+ 
+       
+b.  total number of Independent 
+Directors
+ 
+ 
+ 
+ 
+       
+c.  Total number of non
+-
+executive 
+Director
+ 
+ 
+ 
+ 
+2.
+ 
+Independent Directors
+:
+ 
+ 
+ 
+ 
+ 
+(i)
+ 
+Independent Directors
+:  The 
+Board of Directors is required to 
+have a significant number of 
+“Indepe
+ndent Directors” (
+as laid 
+down in the Listing 
+Agreement
+).  
+ 
+ 
+ 
+ 
+(ii)
+ 
+Whether 
+more than one member 
+of a family or a close relative as 
+defined in the Companies Act or 
+an associate (partner, director 
+etc) are  on the Board of an 
+Insurer as ‘Independent director’
+ 
+ 
+ 
+ 
+(iii)
+ 
+Whether 
+the total number of 
+Independent Directors are three 
+or more
+ 
+ 
+ 
+ 
+3.  In case Chairman is Non
+-
+executive 
+Chairman
+, 
+ 
+Whether CEO is Whole
+-
+time Director of 
+the Board
+ 
+ 
+ 
+ 
+ 
+II. The Role and responsibilities of the 
+Board and their Discharge
+
+[Page 60]
+57
+ 
+ 
+(i)
+ 
+As stipu
+lated in Annexure I of 
+the CG guidelines
+ 
+ 
+ 
+ 
+(ii)
+ 
+Whether the Board has set 
+clear & transparent policy 
+framework for translation of 
+corporate objectives.
+ 
+ 
+ 
+ 
+(iii)
+ 
+Transparent Information flow 
+from the senior management 
+through well documented 
+agenda notes and approp
+riate 
+systems to serve as effective 
+monitoring arrangements.
+ 
+ 
+ 
+ 
+(iv)
+ 
+Establish strategies and 
+policies to define ethical 
+individual behavior and 
+corporate behaviour and 
+ongoing, effective processes 
+that ensure adherence to these 
+strategies and policies
+ 
+ 
+ 
+ 
+(v)
+ 
+Are
+as for Board to focus: (in 
+Nutshell)
+ 
+a.
+ 
+Overall direction if business
+ 
+b.
+ 
+Compliance with IRDA 
+regulations, Insurance Act & 
+other statutory requirements.
+ 
+c.
+ 
+Addressing conflict of interest
+ 
+d.
+ 
+Fair treatment of policyholders & 
+employees.
+ 
+e.
+ 
+Sharing & disclosure of 
+informat
+ion
+ 
+f.
+ 
+Develop corporate culture & 
+adherence to ethical standards
+ 
+ 
+ 
+ 
+III.  Fit and Proper Criteria
+: 
+ 
+ 
+ 
+ 
+(i)
+ 
+Whether there is a system to 
+obtain an annual declaration 
+from the Directors that the 
+information provided in the 
+declaration at the time of 
+appointment/
+ 
+reappointment has 
+not undergone any change 
+subsequently and the changes, 
+if any, are apprised by the 
+concerned Director to the Board
+ 
+ 
+ 
+ 
+(ii)
+ 
+Whether the Directors are also 
+required to enter into a Deed of 
+Covenant as per the 
+format
+ 
+prescribed by the Authority
+ 
+with 
+the insurance company.  
+ 
+ 
+ 
+ 
+IV.
+ 
+Conduct of Meetings:
+
+[Page 61]
+58
+ 
+ 
+(i)
+ 
+System that would make Co. 
+Secretary responsible for 
+proper conduct of the Board 
+meetings and w
+CG 
+guidelines_2016 (Final) (1)
+ith 
+adequate time to deliberate on 
+the major issues in
+ 
+detail.
+ 
+ 
+ 
+ 
+(ii)
+ 
+System of familiarizing new 
+Directors with the background 
+of the company’s governance 
+philosophy, duties and 
+responsibilities of the Directors 
+etc.
+ 
+ 
+ 
+ 
+(iii)
+ 
+Disclosure Requirements:
+ 
+ 
+ 
+ 
+a.
+ 
+The company must 
+disclose the following in 
+their annual report
+, inter
+-
+alia, Number of the 
+meetings held of the Board 
+of Directors and 
+Committees mandated 
+under the guidelines, in the 
+financial year.
+ 
+ 
+ 
+ 
+b.
+ 
+Details of the composition 
+of the Board of Directors 
+and Committees mandated, 
+setting out name, 
+qualification, fiel
+d of 
+specialization, status of 
+directorship held etc.
+ 
+ 
+ 
+ 
+c.
+ 
+Number of the meetings 
+attended by the Directors 
+and the members of the 
+committee.
+ 
+ 
+ 
+ 
+d.
+ 
+Details of the remuneration 
+paid, if any, to the 
+directors 
+(including independent 
+directors)
+ 
+ 
+ 
+ 
+(iv)
+ 
+All the mandat
+ory committees 
+should meet at least four times 
+in a year and not more than 
+four months shall elapse 
+between two successive 
+meetings. The quorum shall be 
+either two members or one 
+third of the members of the 
+committee whichever is 
+greater, but in case an 
+in
+dependent director is 
+mandated to be in any of the 
+Committees, he/she should be 
+necessarily present to form the 
+quorum.
+
+[Page 62]
+59 
+ 
+V. Control
+ Functions:    
+(i) W
+hether the Board has laid 
+down the policy framework on 
+various control systems as 
+enumerated at para no. 6 of CG 
+guidelines. 
+   
+(ii) Appropriate 
+and effective group-
+wide risk control systems in 
+addition to the systems for 
+insurers within a Group.  Boards 
+of the insurers to lay down the 
+requisite policy framework. 
+   
+(iii) W
+hether the Board has put in 
+place a mechanism for 
+assessment of effectiveness of 
+working of its Committees at 
+periodic intervals 
+   
+VI. Comm
+ittees    
+A
+. Mandatory Committees    
+1) Audi
+t Committee 
+2) Investment Committee 
+3) Risk Management Committee  
+4) Poli
+cyholders Protection 
+Committee 
+ 
+5) Nomination and 
+Remuneration Committee 
+6) Corporate Social 
+Responsibility Committee 
+7) W
+ith Profits Committee 
+ 
+   
+B. Opt
+ional Committees    
+1. Ethics Com
+mittee 
+2. Asset Liabil
+ity Management 
+(Its functions may be merged 
+with  Risk Management 
+Committee) 
+   
+Status o
+f Compliance with the guidelines 
+in respect of optional committees 
+   
+1. Compos
+ition of the Committees    
+(i) A
+udit Committee :  
+a. w
+hether the chairman of the 
+audit committee is an 
+independent Director with 
+strong financial analysis 
+background 
+b. Appointment of statutory 
+auditors to be recommended 
+   
+-
+
+[Page 63]
+60
+ 
+ 
+by the Audit committee and 
+appointed at the shareholders 
+meeting.
+ 
+(ii)
+ 
+Investment Committee
+ 
+: 
+ 
+a.
+ 
+Whether 
+Committee consists 
+of at least two Non Executive 
+Directors, the Chief Executive 
+Officer, Chief of Finance, 
+Chief of Investment Division, 
+Chief
+ 
+of Risk Management 
+Function  and wherever an 
+appointed actuary is 
+employed, the Appointed 
+Actuary
+ 
+b.
+ 
+Whether any new 
+appointment or removal of 
+any member of the 
+Investment Committee is also 
+be approved by the Board 
+and there is a system to 
+communicate to the
+ 
+Authority 
+within 30 days.
+ 
+c.
+ 
+Whether the IC meets at least 
+once in a quarter and looks 
+into various aspects of 
+investment operations and 
+monitors them.
+ 
+d.
+ 
+Whether the IC furnishes a 
+report to the Board on the 
+performance of Investments 
+at least on a quarterly b
+asis 
+and provides analysis of its 
+Investment portfolio and on 
+the future outlook to enable 
+the Board to look at possible 
+policy changes and 
+strategies.
+ 
+ 
+ 
+ 
+(iii)
+ 
+Risk Management 
+Committee:
+ 
+a. Whether the risk 
+management function is 
+under the overall guidance 
+and
+ 
+supervision of the Chief 
+Risk Officer
+ 
+b. Whether the operating 
+head of the risk management 
+function (CRO) has direct 
+acess to the Board.
+ 
+c. Whether fraud monitoring 
+policy and framework 
+approved by the Board is in 
+place.
+ 
+d. Whether fraud information 
+is ex
+changed with insurers
+
+[Page 64]
+61
+ 
+ 
+and compliance with IRDAI 
+guidelines on fraud  is 
+reviewed periodically   
+ 
+(iv)
+ 
+Policyholder Protection 
+Committee: 
+ 
+a.
+ 
+whether the minutes of the 
+committee are placed as an 
+agenda item to the Board.
+ 
+b.
+ 
+Whether expert/ consumer 
+representative
+ 
+is part of the 
+Committee
+ 
+ 
+ 
+ 
+ 
+(v)
+ 
+Nomination and 
+Remuneration Committee: 
+ 
+(a) Whether the Chairman of the 
+Committee is an independent 
+director;
+ 
+(b) whether at least one half of 
+the committee are independent 
+directors;
+ 
+(c) whether declarations of 
+intending app
+licants (directors/ 
+KMPs) are scrutinized by the 
+Committee;
+ 
+(d) Whether the Committee 
+recommends the policy for 
+remuneration packages of the for 
+the Directors and KMPs.
+ 
+ 
+ 
+ 
+(vi)
+ 
+Corporate Social 
+Responsibility Committee:
+ 
+a. Whether CSR Policy is 
+formulated and 
+appro
+v
+ed by 
+the Board.
+ 
+b. Whether CSR expenditure 
+is based on three years’ profit 
+ 
+c. Whether expenses on CSR 
+charged to Policyholder’s 
+Account.
+ 
+ 
+ 
+ 
+(vii)
+ 
+With Profits  Committee: 
+ 
+(a) Whether the Committee is 
+constituted by an independent 
+director, CEO, Appoint
+ed 
+Actuary and an Independent 
+Actuary;
+ 
+(b) whether report of the Committee is 
+appended to the Actuarial 
+Report and Abstract;
+ 
+(c) whether asset share, expenses 
+allocated and investment 
+income attributed to the 
+participating fund have been 
+approved by the Co
+mmittee
+
+[Page 65]
+62
+ 
+ 
+C. 
+Quorum / Frequency of the Meeting
+ 
+(i)
+ 
+Whether the mandatory 
+committees (as specified in the 
+Guidelines) meet at least four 
+times in a year and not more than 
+four months elapse between two 
+successive meetings. 
+ 
+(ii)
+ 
+The quorum shall be either two 
+m
+embers or one third of the 
+members of the committee 
+whichever is greater, but in case 
+an independent 
+director(s) is/are 
+mandated to be in any of the 
+Committees, at least one is 
+necessarily present to form the 
+quorum.
+ 
+ 
+ 
+ 
+ 
+D. Merging of Committees
+ 
+ 
+    
+(i) 
+Whether any of the mandatory 
+Board Committees have been merged
+ 
+ 
+    
+(ii) If yes, names of the Committees
+ 
+ 
+    
+(iii) How independence and objectivity 
+of the 
+merged 
+Committees has been 
+ensured by the Board
+ 
+ 
+ 
+ 
+ 
+VII. 
+Disclosures 
+in Financial 
+Statements:
+ 
+ 
+ 
+ 
+(i)
+ 
+G
+eneral D
+isclosure
+s
+ 
+ 
+ 
+ 
+a.
+ 
+Basis, methods and assumptions 
+on which the information is 
+compiled.
+ 
+b.
+ 
+Quantitative & qualitative 
+information on the insurer’s 
+financial & operating ratios viz., 
+incurred claim, commission & 
+expenses ratios.
+ 
+c.
+ 
+Actual solvency margin deta
+ils vis
+-
+à
+-
+vis the required margin.
+ 
+d.
+ 
+Financial performance including 
+growth rate and current financial 
+position of the insurer.
+ 
+e.
+ 
+Description of the risk management 
+architecture.
+ 
+f.
+ 
+Details of number of claims 
+intimated, disposed of & pending 
+with details of dura
+tion.
+ 
+g.
+ 
+All pecuniary relationships or 
+transactions of non
+-
+executive 
+directors.
+ 
+h.
+ 
+Elements of remuneration package 
+of MD & CEO and other individual 
+directors
+.
+
+[Page 66]
+63 
+ 
+(ii) Wheth
+er disclosures in the 
+Financia
+l Statements - 
+   
+a. Are su
+mmarized under major 
+groups. 
+b. Contain all related party 
+transactions. 
+c. Include matters which have 
+material impact on the financial 
+position of the company. 
+   
+VIII. Outsou
+rcing:    
+a. W
+hether all outsourcing 
+arrangements of the company 
+have the approval of the 
+Committee of Key 
+Management Persons in 
+terms of a Board approved 
+Policy? 
+ 
+b. Whether Every outsourcing 
+contract contains explicit 
+safeguards regarding 
+confidentiality of data and all 
+outputs from the data, 
+continuing ownership of the 
+data with the insurer and 
+orderly handing over of the 
+data and all related software 
+programmes on termination of 
+the outsourcing arrangement? 
+c. Whether the arrangements 
+are for a defined duration and 
+have a provision for 
+premature cancellation 
+without attracting penalties? 
+d. Whether annual review of all 
+the outsourcing contracts is 
+carried out and reported to 
+the Board or its Committee? 
+   
+IX. Re
+lationship with Stakeholders:    
+The discl
+osures stipulations must 
+address the following: 
+a. financial statements 
+accurately and fairly represent 
+the financial condition of the 
+insurer; and  
+b. The insurer is running its 
+business soundly and will be 
+viable over the long term.  
+In particular, the disclosure requirements 
+of the participating policyholders and the 
+   
+LJ
+
+[Page 67]
+64
+ 
+ 
+ 
+unit linked policyholders must be duly 
+addressed.
+ 
+X. 
+Reporting 
+t
+o 
+IRDA
+I
+ 
+ 
+ 
+ 
+
+ 
+Whether the Insurer has 
+appointed Company Secretary as 
+Compliance officer whose duty 
+will be to monitor continuing 
+compliance with these guidelines.
+ 
+ 
+ 
+ 
+XI. 
+Whistle 
+Blower
+ 
+Policy
+ 
+ 
+ 
+ 
+
+ 
+Whether the Insurer has put in 
+place a “Whistle 
+Blower
+ 
+Policy
+”
+ 
+approved by its Board of 
+Directors
+.

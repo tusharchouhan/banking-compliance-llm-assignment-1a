@@ -1,0 +1,1081 @@
+[Page 1]
+INSURANCE REGULATORY AND DEVELOPMENT 
+AUTHORITY OF INDIA 
+GUIDANCE NOTE 
+PREPRATATION OF INVESTMENT RETURNS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ver 02 
+AUGUST, 2016 
+ 
+ 
+The Authority, to bring consistency in the “data” filed through electronic submission, had prepared 
+“Guidance Note on Preparation of Investment Returns”. While due care had been taken to prepare this 
+Guidance Note, users can point out through Life or General Insurance Council any inconsistency , to be 
+addressed in the subsequent versions 
+• 
+ildai
+
+[Page 2]
+Page 2 of 31 
+ 
+FORM 1 – STATEMENT OF INVESTMENT AND INCOME ON INVESTMENT 
+ 
+OBJECTIVE  
+ 
+To ascertain return on investment assets, insurers shall file FORM-1 listing Category of Investment wise 
+(as per Investments - Master Circular on Category of Investments) income and yield on such investment 
+at gross and net basis . The Form shall be prepared in respect of each fund. In case of ULIP s, FORM 1 
+shall be prepared at Segregated Fund ( SFIN) level and also at consolidated level. The Income on 
+Investments shown in FORM1 shall reconcile with Revenue and Profit & Loss Account figures  
+ 
+A. METHOD OF PREPARATION  
+ 
+a. COI (Category of Investments)  
+ 
+Category of investment shall be as per Investments - Master Circular on Category of Investments  – 
+Annexure - 1  
+ 
+b. Cat Code (Category Code)  
+ 
+Category Code shall be as prescribed in Investments - Master Circular on Category of Investments  – 
+Annexure - 1   
+ 
+ DETAILS PERTAINING TO THE CURRENT QUARTER  
+ 
+c. Investments  
+ 
+The insurer shall state the Simple Average of investments for (Non -ULIP and General Insurer including 
+an insurer carrying on business of re -insurance or health insurance) the quarter at their Book Value and 
+for ULIP Business at the value of Investment Assets taken for computing NAV. The simp le average 
+investments shall be calculated based on daily closing balance. In case where any security has been 
+reclassified (when the Security is moved from Approved to Other Investment Category or vice versa) to 
+another category then the simple average ba lance shall be shown under the first category till the time 
+such investment was classified under that category and for the balance period in the reclassified 
+category.  
+ 
+NOTE:   
+ 
+Simple average of investments shall be the sum of daily closing balance of Investments divided by the 
+number of day(s) such investments are outstanding. The net investment current assets of linked funds 
+shall be reported as at the period end in the Current quarter and Year to Date column.  
+ 
+d. Income on Investment
+
+[Page 3]
+Page 3 of 31 
+ 
+ 
+For non -ULIP funds and General Insurer including an insurer carrying on business of re -insurance or 
+health insurance, Income on Investments will include , income taken to Revenue Account & Profit an d 
+Loss account (Interest, profit / (loss) on sale, accretion of discount, amortization of premium, dividend 
+earned during the quarter) and taken to financial statements pertaining to all the securities held under 
+that category during that quarter.  
+ 
+In case of ULIP funds, any incremental un-realized gains / (loss) arisen for the period on investment shall 
+be included. In case where any security has been reclassified to another category then income shall be 
+shown under the first category till the time such i nvestment was classified under that category and for 
+the balance period in the reclassified category. Income earned on lending securities under SLB shall be 
+shown in the CAT code of underlying security.    
+ 
+Further, Year to Date Income on investment shall be reconciled with figures in Revenue accou nt and 
+Profit and Loss Account. Provisions on Assets, if any, as per regulations, shall be reduced from Income 
+shown in FORM 1 
+ 
+e. Gross yield  
+ 
+The gross yield  shall be computed by dividi ng the income on Investment for the quarter by the simple 
+daily average investments outstanding for number of days for the quarter 
+ 
+f. Net Yield  
+ 
+The net yield shall be computed by giving the effect of tax rate to the gross yield.   
+ 
+1. DETAILS PERTAINING TO THE INCOME AND YIELD FOR YEAR TO DATE  
+ 
+Under the head “Year to Date”, details of Investments, Income, Gross Yield and Net Yield shall be shown 
+for the period April to the end of the quarter for which details are being furnished. For example for the 
+quarter ended June, the details from April to June shall be provided and for the quarter ended 
+September, the details pertaining to April to September shall be provided.  
+ 
+2. DETAILS PERTAINING TO THE INCOME AND YIELD FOR PREVIOUS YEAR   
+ 
+Under the head “Year to Date”, details of Investments, Income, Gross Yield and Net Yield for the 
+corresponding period of the previous year are to be shown.
+
+[Page 4]
+Page 4 of 31 
+ 
+FORM 2 – STATEMENT OF DOWNGRADED INVESTMENTS 
+(PART – A) 
+ 
+OBJECTIVE   
+ 
+In order to establish the movement of securities from one category to another especially the movement 
+from Approved Investments to Other Investments on account of rating downgrades/upgrades on the 
+reporting date, all insurers are required file FORM 2 , list ing various instruments which have been 
+downgraded from its rating at the time of the purchase (original rating).    
+ 
+A. METHOD OF PREPARATION  
+ 
+The details of all the downgraded debt securities during the quarter shall be given under ‘current 
+quarter’ and al l downgraded securities shall be shown under “As on date”. 'Investments currently 
+upgraded to the original grade or above, listed as Down Graded during earlier Quarter shall be deleted 
+from the Cumulative listing.  
+ 
+a. COI (Category of Investments)  
+ 
+Insurers are required to pick up the corresponding Category of Investment (COI) for every downgraded 
+security, reposition the same at the appropriate COI as prescribed in the regulation.  
+ 
+b. Amount  
+ 
+The Book Value (as defined in FORM 3 PART- A of Guidance Note on Preparation of Investment Returns) 
+shall be stated in this column.   
+ 
+c. Date of purchase  
+ 
+In this column, the insurer shall state the date of purchase of that security. In case there are multiple 
+purchases then the date on which the earliest purchase was made shall be stated.  
+ 
+d. Rating Agency  
+ 
+In this column, the insurer shall state the name of the rating agency as prescribed in the regulation. If an 
+instrument is rated by more than one rating agency, the lowest rating must be us ed as a matter of 
+conservatism. 
+ 
+e. Original Grade  
+ 
+Original grade is the rating at the time of purchase of the instrument.
+
+[Page 5]
+Page 5 of 31 
+ 
+f. Current Grade  
+ 
+Current grade is the rating for the instrument as at the last day of the quarter.  
+ 
+g. Date of Downgrade  
+ 
+Further the Insurer shall state the date of downgrade along with remarks, if any. In case of any 
+downgrade of security resulting in securities being reclassified as “Other Investment”, in Pension and 
+General Annuity fund, the same shall be specifically disclosed in the Returns.
+
+[Page 6]
+Page 6 of 31 
+ 
+FORM 2 – INVESTMENT ASSETS – RATING PROFILE 
+(PART – B) 
+ 
+OBJECTIVE  
+ 
+To assess the credit quality of the Investment portfolio, Insurers are required to file FORM 2. This form 
+needs to be linked to FORM 3A/ 3B . Equity or Equity Related Instruments and other than Debt 
+Instruments Portfolio are also reported in FORM 2 , for the purpose of linking the total portfolio to 
+FORM 3A / 3B 
+ 
+A. METHOD OF PREPARATION  
+ 
+1. FORM - 2 shall be prepared in respect of each fund/investment assets. In case of ULIP FORM 2 shall 
+be prepared at Segregated Fund (SFIN) level and also at consolidated level.  
+ 
+2. For the purpose of asset classification in various rating classes, the following points may be noted:  
+ 
+a. Debt investments which are capable of being rated and are not rated shall be shown under 
+"Unrated"  
+b. In case of loans in housing sector, infrastructure sector, secured loans appearing in approved 
+investment and unsecured loans appearing in ‘Other investments’ amount shall appear in 
+unrated column of the FORM 2(PART B) 
+c. All loans, excluding policy loans, shall form part of Other Investments 
+d. Reverse Repo with underlying corporate bond, Investment in Mutual Funds including Promoter 
+Group Mutual Funds, Bank FDs, Net investment current assets, Venture funds, immovable 
+property and any other non -debt investments as permitted under the regulations, shall be 
+shown under “Equity and Other Instruments”   
+e. In case of Reverse Repo with underlying Government securities  & CBLO the same shall be 
+classified under 'AAA' or Equivalent  
+f. Non-Performing investments assets will be shown separately irrespective of rating  
+ 
+3. Book value of the Investments shall be provided. The figures in Col (i) must match with FORM 3A/B   
+ 
+4. Percentage to Investment Assets shall be computed, in the case of Non -ULIP funds and General 
+Insurer including an insurer carrying on business of re -insurance or health insurance by dividing the 
+Book value of investments in various rating cla ss by the total Book value of Investment assets held 
+and in the case of ULIP funds, by dividing the Market Value of investments in various rating class by 
+the total Market Value of Investment assets held
+
+[Page 7]
+Page 7 of 31 
+ 
+5. Other investments in housing and infrastructure should be disclosed under ‘Other Investments’
+
+[Page 8]
+Page 8 of 31 
+ 
+FORM 2 - INVESTMENT ASSETS & INFRA INVESTMENTS - RATING PROFILE 
+(PART – C) 
+ 
+OBJECTIVE  
+ 
+To assess the amount of infrastructure investments in life funds, Insurers are required to file FORM 2C. 
+Section 1 of this s form needs to be linked to FORM 3A / 3B .  Section 2 of the Form would contain the 
+details of Investments in Infrastructure sector only.  Investments in housing sector would not be part of 
+it.  
+ 
+A. METHOD OF PREPARATION  
+ 
+1. FORM – 2C shall be prepared in respect of life fund only and General Insurer including an insurer 
+carrying on business of re-insurance or health insurance.  
+2. The figures under investment assets category must reconcile with FORM 3A / FORM 3B  
+3. The figures under the infrastructure category must reconcile with FORM 5
+
+[Page 9]
+Page 9 of 31 
+ 
+FORM 3A – STATEMENT OF INVESTMENT ASSETS 
+(PART – A) 
+ 
+OBJECTIVE  
+ 
+The Insurer shall file FORM 3A (PART A)  for compliance of fund wise Pattern of Investments showing 
+Investment assets and other assets and linking the same with Balance Sheet figures.   
+ 
+A. METHOD OF PREPARATION  
+ 
+1. FORM 3A (Part-A) has two Sections  
+ 
+SECTION-I 
+ 
+Section I provides link to Investment assets reported in the Balance Sheet with that as reported in FORM 
+3A (PART A). The investment assets which are subject to pattern of investments, under each fund of the 
+Life Insurer as required under Regulation 3, and shown under “funds available for investments”  
+ 
+a. Funds available for Investment  
+ 
+To arrive at the “funds available for investments”, the amounts appearing in the non investment 
+schedules and non investment line items appearing in Balance Sheet under Appli cation of Funds, are 
+deducted. Similarly any non -investment items, deducted from Balance Sheet, shown under Application 
+of Funds, shall be added back in the reconciliation to arrive at the “funds available for investments”. If 
+any Insurer is carrying Loans  as a part of investments, then the same shall not be deducted from the 
+application of the funds.    
+ 
+The balance so arrived as “funds available for investments” shall tally with the sum of the values shown 
+in the “Total Fund” column of all the three funds in FORM 3A (PART A) which shall reconcile with figures 
+shown in schedule 8, 8A, 8B & 9.  
+ 
+Application Money for investments under ‘non linked funds’ shall form part of the Schedule 12 and the 
+same shall not form part of the Schedule 8, 8A, &  9. It shall not form part of the investment assets till 
+the allotment is complete. In case of ‘Linked portfolios’ the same shall form part of ‘Net Current assets’ 
+till the allotment is complete.  Also, it shall be reported under Schedule 8B. If investment  application 
+money is paid through ASBA Fixed Deposit instead of cash, the same shall be treated as application 
+money (current Assets) and the lien shall be properly disclosed in Form 6 as a note.  
+ 
+SECTION-II   
+ 
+Section II requires the insurer to report the fund wise, pattern of investments as prescribed under
+
+[Page 10]
+Page 10 of 31 
+ 
+Regulation 4, 5 and 6 of the IRDAI (Investment) Regulations 2016 as amended from time to time.   
+ 
+Separate Custodian account shall be maintained for “balanc e” investments of Shareholder’s fund that 
+does not form part of the FRSM (except in case of Securities held with RBI/ CCIL). Shareholders’ funds  
+held beyond the solvency requirements shall not be subject to Pattern of Investments prescribed under 
+Regulation 4, 5 and 6 and shall be subject to Prudential / Exposure norms prescribed under Regulation 
+9, provided the same are maintained in a separate custody account.  
+ 
+a. Category of Investments  
+ 
+Investments shall be categorized as per the Regulation or circular issued there under, such as Central 
+Government Securities, State Government Securities, Other Approved Securities, Housing and 
+Infrastructure, Approved Investments and Other Investments.   
+ 
+b. % as per Regulation  
+ 
+This specifies the minimum or maximum % of i nvestments under each category of investments as 
+prescribed in Regulation for various funds.  
+ 
+c. Shareholder’s and Policyholder’s fund  
+ 
+All the insurers shall maintain portfolios of SH - FRSM, SH BALANCE (other than fund representing 
+solvency margin), UL non-unit reserves, Par and Non par. The insurer shall maintain sub portfolios under 
+these broad portfolios on the basis of various line of business. The Pattern of Investment, with respect 
+to Life Fund, shall be complied with respect to the total of Life fund (both shareholder fund representing 
+solvency and Policyholder funds taken together). It may be noted that the pattern of Investment will not 
+apply to Shareholders funds in excess of solvency requirement, held in a separate custody account. But 
+exposure norms of ‘Investee’ company, ‘Group’, and ‘industry sector’ will apply to both shareholders 
+and policyholders funds. 
+ 
+d. Book Value (SH+PH)  
+ 
+In case of ULIP Net asset value including net current assets shall be considered for pattern of 
+investments. Net curre nt assets shall be considered as ‘approved investment’ for this purpose. All the 
+securities (both Equity and Debt) shall be marked to market.  
+ 
+In case of ‘Non -Linked’ funds, cost plus amortization value of the debt securities and acquisition cost in 
+case of Equity, mutual fund and investment property and other than Debt investments will be 
+considered for pattern of investments. Net current Assets shall not be considered for calculation of 
+Pattern of Investments for non linked portfolio.
+
+[Page 11]
+Page 11 of 31 
+ 
+e. Actual %  
+ 
+The actual % of the each category of investments under Non -linked portfolios shall be calculated as a % 
+to the total book value of investment assets in the fund. The amounts in the column (f) shall be used for 
+calculating the Exposure %.  
+ 
+In case of the U LIP, the actual % of each category are calculated as a % to the ‘market value’ of the 
+assets of the funds including ‘net current assets’ that is considered for NAV calculation.  
+ 
+f. Fair Value Change (FVC) Amount  
+ 
+The insurer shall compute the fair value for  equities and units of mutual fund. The difference between 
+the fair value and the book value is the Fair Value Change (FVC) and the same shall be disclosed in the 
+column provided for.   
+ 
+g. Total Fund  
+ 
+The amount after adding the fair value amount to the boo k value shall be shown under Total Fund 
+Column. The Grand total under this column shall reconcile with the ‘Balance Sheet’ value of investments 
+assets shown in Section I    
+ 
+h. Market Value  
+ 
+The market value of the securities classified under the various cat egories of investments shall be shown 
+under Market Value column. In the case of Equity, the Market Value shall be as per regulation, as 
+amended from time to time. 
+ 
+NOTE  
+ 
+a. In case of Life Fund, Pattern of Investment is applicable for Share holder fund repre senting solvency 
+margin and Policyholder funds. Shareholder fund beyond solvency margin is not subject to pattern of 
+investment.  
+b. In FORM 3A PART A , the equation provided under 'Book Value (SH+PH) shall be read as '(f) =  
+[b+c+d+e],   
+c. “Other Investments” made from all Categories of Investment including housing and infrastructure 
+category shall not exceed 15% of investment assets of Life fund.  
+d. All the investment assets such as Fixed Deposits, shall form part of the Schedule, 8, 8A, 8B or 9 with a 
+note in the respective forms.   
+e. Non-investment assets of the non-linked funds shall be shown in the respective schedules other than 
+8, 8A & 9
+
+[Page 12]
+Page 12 of 31 
+ 
+f. Net Current Assets of the Linked portfolios shall be shown as a separate line item in the Schedule 8B
+
+[Page 13]
+Page 13 of 31 
+ 
+FORM 3A – STATEMENT OF INVESTMENT ASSETS 
+(PART – B) 
+ 
+OBJECTIVE  
+ 
+The objective of the form is for compliance to the pattern of Investment under Reg. at the Segregated 
+Fund level of ULIP fund. This Form is linked to the item C of FORM 3A (PART-A).   
+ 
+A. METHOD OF PREPARATION  
+ 
+Fund 1 to Fund `n`  
+ 
+Details about each Segregated Fund of ULIP and its total shall be provided in this form. The number of 
+funds shall be the funds as approved by the File & Use of IRDAI.  
+ 
+i. FORM 3A (Part-B) has two sections  
+ 
+SECTION-I 
+ 
+This section shows the movement of funds from the previous  quarter to the reporting quarter on 
+account of  the inflow /outflow in the  policyholders funds and increase/decrease in the value of 
+investments during the quarter.   
+ 
+a. Opening Balance (Market Value)  
+ 
+The closing fund values i.e. total Assets under Management (AUM) (at the segregated ULIP fund level) at 
+the end of the previous quarter shall be brought forward as opening balance of the linked portfolio(s).  
+ 
+b. Inflow during the quarter  
+ 
+Inflow (a positive figure) will represent the funds brought in for creation of units in each of the Fund(s).   
+ 
+c. Outflow During the quarter  
+ 
+Outflow (a negative figure) during the quarter shall represent the redemption of units for surrender, 
+claims, charges etc.  
+ 
+d. Increase / (Decrease) value of Investments  
+ 
+Increase / (decrease) in the value of investments shall include the realized, unrealized gains/losses and 
+other Investment income that has accrued to the individual fund during the reporting quarter  
+ 
+e. Total Investible Funds (Market Value)
+
+[Page 14]
+Page 14 of 31 
+ 
+Opening Balance (Market Value) + inflow during the quarter + net Increase / (Decrease) in the value of 
+Investments – outflow during the quarter of all funds taken together. In the case of Equity, the Market 
+Value shall be, as per regulations, as amended from time to time. 
+ 
+SECTION-II  
+ 
+INVESTMENT OF UNIT FUND  
+ 
+All the Investments under the ULIP each Segregated Fund(s) shall be shown under two heads namely 
+Approved and Other Investments.   
+ 
+Under the Approved Investment Category, the investments shall be further divided into Central Govt.  
+Securities, State Govt Securities, Other Approved Securities, Corporate Bonds, Infrastructure Bonds, 
+Equity, Money Market investments, Mutual funds, Deposi t with Banks. ‘Net current assets’ shall be 
+classified as ‘Approved Investment’ and its breakup shall be provided as prescribed in the format.  
+ 
+Under the Other Investment Category, the investments shall be further divided into between Corporate 
+Bonds, Infrastructure Bonds, Equity, Mutual funds, and any other investments which can be readily 
+realizable and marketable. No investment shall be made in  the securities which cannot be marked to 
+market on daily basis. Total funds i.e. aggregate of Approved and Other Investments shall reconcile with 
+the Total investible funds as shown in the Section 1 of the FORM 3A (PART B) 
+ 
+NOTE  
+ 
+a. The aggregate of all the above Segregated Unit-Funds should tally with item C of FORM 3A (PART A), 
+for both Par & Non Par Business  
+b. The details of Item 12 of FORM LB 2 which form part of IRDA (Actuarial Report) Regulation, 2000 
+shall be reconciled with FORM 3A (PART B). LB2 being an annual form the reconciliation would be 
+done only at year end.  
+c. Other Investments' are as permitted under regulations, as amended from time to time. 
+d. Market value of the securities considered for NAV calculation shall be taken for the purpose of 
+applicability of Pattern of Investments for ULIP  
+e. All the assets of linked funds at the segregated level including net current assets shall be considered 
+in the denominator for limit monitoring
+
+[Page 15]
+Page 15 of 31 
+ 
+FORM 3A – STATEMENT OF INVESTMENT ASSETS 
+(PART - C) 
+ 
+OBJECTIVE  
+ 
+The objective of the form is to compare the performance of funds at various periods. Further the form 
+establishes the consistency of NAV considered for accounting and that reported in Actuarial Statement 
+LB2 are the same. Also the form provides the periodi cal investment returns of fund(s). This Form is 
+linked to the FORM 3A (PART B).  
+ 
+A. METHOD OF PREPARATION  
+ 
+a. Name of the Segregated fund  
+ 
+Details about each segregated fund of linked fund shall be provided in this column.  
+ 
+b. SFIN  
+ 
+SFIN for each of the segregated fund shall be provided.  
+ 
+c. Date of Launch  
+ 
+The date of the first unit allotted under the fund needs to be stated against each segregated fund.  
+ 
+d. Par/Non Par  
+ 
+Details about the fund whether it is Par/Non Par to be provided  
+ 
+e. Assets Under Management  on the above date  
+ 
+The total should be equivalent to the Assets under Management (AUM) of the segregated fund as 
+provided in FORM 3A PART B.  
+ 
+f. NAV as per LB 2  
+ 
+NAV as per FORM LB2, (Regulation 4 of IRDA (Actuarial Report and Abs tract) Regulations 2000 shall be 
+provided in the column. LB2 being an annual form, the NAV as per LB2 would equal the published NAV 
+on a quarterly basis.  
+ 
+g. NAV as on the above date  
+ 
+The NAV on the last day of the quarter shall be provided for calculating the return.
+
+[Page 16]
+Page 16 of 31 
+ 
+h. NAV of previous quarters  
+ 
+NAV from previous quarter upto the 4th previous quarter shall be provided. For example for the quarter 
+ended June 2012, the NAV on March 31, 2 012 shall be provided in Previous Qtr NAV column, the NAV 
+on December 31, 2011 shall be provided in 2nd Previous Qtr NAV column, the NAV on September 30,  
+2011 shall be provided in 3rd Previous Qtr NAV column and the NAV on June 30, 2011 shall be provided 
+in 4rd Previous Qtr NAV column.   
+ 
+i. Return  
+ 
+The absolute yield should be computed for one year return based on NAV movement. Absolute return/ 
+yield = Current quarter NAV/ 4 th Previous Qtr NAV -1. In case the fund inception data is later than 4 th 
+previous quarter NAV date the same must be reported as NA (Not Applicable).   
+ 
+j. 3 Year rolling CAGR  
+ 
+The formulae for 3 year CAGR is = ((X/Y) ^ (1/3))-1   
+X = NAV as provided in the as on above date column  
+Y = NAV of the corresponding date of the 3rd previous year  
+ 
+In case the fund inception data is later than three years from as on above date of the Form the same 
+must be reported as NA (not applicable).  
+ 
+k. Highest NAV since inception  
+ 
+Highest NAV of each fund since inception should be provided.   
+ 
+l. NAV upto 4 decimals to be given at all places
+
+[Page 17]
+Page 17 of 31 
+ 
+FORM 3A – STATEMENT OF INVESTMENT ASSETS 
+(PART - D) 
+ 
+OBJECTIVE  
+ 
+All insurers are required to file FORM 3A (Part – D) to provide the details of investments made under 
+various funds (Life, Pension and Linked) of the Life Insurer during the quarter. The Form should be 
+prepared separately for each fund and in aggregate for all segregated linked funds. The form is intended 
+to bring out the accretion to the insurers investments (fund wise) while complying with the fund wise 
+pattern of Investment.   
+ 
+A. METHOD OF PREPARATION  
+ 
+a. Opening balance  
+ 
+The value of investments of the previous quarter as disclosed under FORM 3A (Part A) shall be reported 
+in the column.   
+ 
+b. % to Total   
+ 
+The opening balance of prescribed category of investments under various funds divided by total value of 
+investments of the fund expressed as a percentage.  
+ 
+c. Net Accretion for the Qtr.  
+ 
+Net increase/ (decrease) in the category of investments during the quarter.  
+ 
+d. Total   
+ 
+Opening balance of the category of investments plus net accretion during the quarter must be shown in 
+the column. The summation of the column for the various funds should tally with book value figures 
+shown in FORM 3A (PART A).
+
+[Page 18]
+Page 18 of 31 
+ 
+FORM 3A – STATEMENT OF INVESTMENTS 
+(PART - E) 
+ 
+OBJECTIVE  
+ 
+All insurers are required to file FORM 3A (Part – E) to provide the details of investments made under 
+unit linked funds (at a segregated fund level) of the Life Insurer during the quarter. The Form should be 
+prepared separately for each fund and in aggregate for all segregated linked funds. The form is intended 
+to bring out the reconciliation of Investment details of ULIP products (UIN) to segregated funds (SFIN)  
+ 
+A. METHOD OF PREPARATION  
+ 
+a. This form is to be prepared for all ULIP products at UIN level. UIN approved by IRDAI  
+b. Premium  
+It represents premium income (including first year premium, renewal premium, Top up premium 
+and Single premium) received during the quarter for each UIN  
+c. Others – need to specify type of inflow, other than premium income, which flows into policy fund.  
+d. Outflow  
+Details of all charges, policyholders’ payouts including claims, surrender, partial withdrawal, and any 
+other outflows (need to specify), which gets deducted either from premium inflow or policy fund (by 
+way of policyholders’ payout or charges) during the quarter.  
+e. The above information will flow from policy admin system at UIN level  
+f. Policy funds  
+Net inflow or outflow as computed above will flow into or flow out of segregated policy fund (at 
+SFIN level) during the quarter. This information will reconcile with change in unit capital and 
+premium reserve at SFIN level in the Investment management system  
+g. Difference between net inflows/outflows as per UIN level and Net inflows/outflows as per SFIN level 
+must be “nil”  
+h. Total of Net Inflows as per FORM 3A PART E should match with Total of Net Inflows as per FORM 3A 
+PART B
+
+[Page 19]
+Page 19 of 31 
+ 
+FORM 3B – STATEMENT OF INVESTMENTS 
+(PART - A) 
+ 
+OBJECTIVE  
+ 
+The Insurer shall file FORM 3B (Part A) for compliance of Pattern of Investments showing Investment 
+assets and other assets and linking the same with Balance Sheet figures  
+ 
+A. METHOD OF PREPARATION  
+ 
+a. FORM 3B has two sections:   
+ 
+Section I  
+ 
+Section I requires the insurer to establish linkage with the details of investment as shown in the Balance 
+Sheet and the investment returns. The Insurer shall furnish the figures as appearing in Schedule 8 to 15 
+and the debit balance in Profit & Loss Account. Further, all the items pertaining to investments disclosed 
+in the investment returns (FORM 5) which do not form part of schedule 8 need to be shown in the “less” 
+items of this section. The Investment assets as a ppearing in section I shall be reconciled with the 
+investment assets shown under the head “Total Fund” in section II.  
+ 
+Section II  
+ 
+In Section II, the insurer is required to comply with the pattern of investments as prescribed under 
+Regulation 7 of the IRDAI (Investment) Regulations 2016 as amended from time to time. Separate 
+Custodian account shall be maintained for “balance” investments of Shareholder’s fund that does not 
+form part of the FRSM (except in case of Securities held with RBI/ CCIL). Shareho lders’ funds held 
+beyond the solvency requirements shall not be subject to Pattern of Investments prescribed under 
+Regulation 7 (provided such assets are kept in a separate custody account) but shall be subject to 
+Prudential / Exposure norms prescribed und er Regulation 9, provided the same are maintained in a 
+separate custody account.  
+ 
+b. Category of Investments  
+ 
+Investments shall be categorized as per the Regulation, such as Central Government Securities, State 
+Government Securities, Other Approved Securiti es, Housing and Infrastructure, Approved Investments 
+and Other Investments.   
+ 
+c. % as per Regulation  
+ 
+This specifies the minimum or maximum % of investments under each category of investments as
+
+[Page 20]
+Page 20 of 31 
+ 
+prescribed in Regulation for various funds.  
+ 
+d. Shareholders’ Fund (SH) and Policyholders’ Fund  
+ 
+All the insurers shall maintain portfolios of SH BALANCE (other than fund representing solvency margin) 
+and /or assets representing Solvency Margin. The Pattern of Investment shall be complied with funds 
+representing solve ncy margin (both shareholder fund representing solvency and Policyholder funds 
+taken together. It may be noted that the pattern of Investment will not apply to Shareholders funds in 
+excess of solvency requirement, held in a separate custody account. But ex posure norms of ‘Investee’, 
+‘company’, ‘Group’ and ‘industry sector’ will apply to both shareholders and policyholders funds. 
+ 
+Any amount shown under the head “Balance” shall clearly identified (security wise) in a separate 
+custody account.   
+ 
+e. Book Value (SH + PH)  
+ 
+Investment assets allocated under SH and PH shall be shown at Book value i.e. all the debt securities 
+shall be at historical cost subject to amortization. Units of Mutual Fund and equity and equity related 
+instruments shall be shown at cost of a cquisition. In the investment returns, column d would be sum of 
+column b and column c. 
+ 
+f. % Actual  
+ 
+The insurer shall work out the percentage of holding in G Sec, G Sec or Other Approved Securities 
+(including Govt. Securities), Housing & Loans to State Gove rnment for Firefighting equipments; 
+Infrastructure Investments, Approved investments and Other Investments with respect to Total 
+Investment asset.  
+ 
+g. FVC Amount  
+ 
+The insurer shall compute the fair value for holding in equities and for units of mutual fund. The 
+difference between the fair value and the book value is the Fair Value Change (FVC).   
+ 
+h. Total  
+ 
+This is the sum of Balance of Shareholders Fund, FRSM, Policy holders funds and FVC amount. The grand 
+total under this column should tally with the investments assets shown in section I.  
+ 
+i. Market Value  
+ 
+The market value all the securities shall be shown, Category code wise as provided in the Guidelines
+
+[Page 21]
+Page 21 of 31 
+ 
+issued. In the case of Equity, the Market Value shall be the lower of BSE / NSE prices  
+ 
+NOTE  
+ 
+a. “Other Investments” made from all categories of Investment including Housing and Infrastructure 
+sectors shall not exceed 25% of the total investment assets.  
+b. All investment assets such as Fixed Deposit, Section 7 deposit should form part of Schedule 8 in the 
+Balance Sheet
+
+[Page 22]
+Page 22 of 31 
+ 
+FORM 3B – STATEMENT OF INVESTMENTS 
+(PART - B) 
+ 
+OBJECTIVE  
+ 
+All insurers are required to file FORM 3B (Part – B) to provide the details of investments during the 
+quarter. The form is intended to bring out the accretion to the Insurer’s investments while complying 
+with the pattern of Investment.  
+ 
+A. METHOD OF PREPARATION  
+ 
+a. Opening balance  
+ 
+The closing book value of investments of the previous quarter as disclosed under FORM 3B (Part A) shall 
+be reported in the column.   
+ 
+b. % to Opening Balance   
+ 
+The opening balance of prescribed category of investments under various funds divided by total book 
+value of investments of the fund expressed as a percentage.  
+ 
+c. Net Accretion for the Qtr.  
+ 
+Net increase/ (decrease) in the category of investments during th e quarter is the difference between 
+the opening balance and the closing balance during the quarter.  
+ 
+d. Total   
+ 
+Opening balance of the pattern of investment assets plus net accretion during the quarter must be 
+shown in the column. The summation of the colum n for the various funds should tally with book value 
+figures shown in FORM 3B (PART A).
+
+[Page 23]
+Page 23 of 31 
+ 
+FORM 4A – EXPOSURE NORMS COMPLIANCE 
+(PART A, B, C & D) 
+ 
+OBJECTIVE  
+ 
+In order to establish compliance with prudential and exposure norms as prescribed in Regulation 9 and 
+other circulars issued by the Authority from time to time, all insurers are required to file FORM 4A 
+(PART A, B, C & D).  Norms for exposure to Investee Co mpany, Investee Company Group and Industrial 
+Sector have been laid down in Regulation 9 of the IRDAI (Investment) Regulation, 2016 as amended 
+from time to time. FORM 4A (PART A) requires exception reporting and hence only deviations from the 
+prescribed regulations are required to be reported. FORM 4A (Part B) shall be prepared for Promoter 
+Group, FORM 4A (PART C) shall be prepared for Non Promoter Group and Part D  be prepared for each 
+Industry Sector. FORM 4A (PART A, B, C & D)  shall be prepared for Life, Pension & General Annuity and 
+for ULIP at Segregated Funds [SFIN] level.   
+ 
+A. METHOD OF PREPARATION  
+ 
+In Part A of FORM 4A  
+ 
+The insurer is required to submit only the instances of deviation where there is non -compliance with 
+investee company norms as prescribed in Regulation.  
+ 
+a. Investee Company  
+ 
+The insurer shall state the full name of the Investee Company.  
+ 
+b. Eligibility limit as per Regulation   
+ 
+The insurer shall state the limit in terms of amount for equity and debt. The maximum amount (Eligible 
+limit) for investment in equity, preference shares and convertible debentures shall be the lower of 
+amount computed as per percentage (prescribed under Regulation 9 of IRDAI (Investment) Regulations, 
+2016 as amended from time to time) of (1) investee company’s outstanding shares or (2) insurers 
+investment assets/ funds.  
+ 
+In case of debt, loans and other investments t he limit shall be the lower of amount computed as per 
+percentage (prescribed under Regulation 9 of IRDAI (Investment) Regulations, 2016 as amended from 
+time to time) of (1) Paid -up share capital, free reserves and Debentures / Bonds or (2) insurers 
+investment assets/ funds.  
+ 
+Outstanding shares do not include the preference shares. Investments in preference shares, Convertible 
+debentures / bonds shall be as per Regulation 9 of IRDAI (Investment) Regulations, 2016 as amended
+
+[Page 24]
+Page 24 of 31 
+ 
+from time to time. Further, the t otal exposure to any company (equity, debt and all other investments 
+taken together) shall be capped as prescribed in the regulations. The insurer shall endeavor to obtain 
+the latest available details.   
+ 
+c. Actual Investment  
+ 
+In this column the insurer shal l show, Investee Company wise, the actual investments at Book Value. 
+The insurer shall show equity investments and debt investments separately.   
+ 
+d. Deviation Amount  
+ 
+The deviation amount is the difference between the eligible investment amount and the actu al 
+investment made by the insurer. The deviations shall be given separately for equity and debt 
+investments. The insurer shall report only those cases where there are deviations.  
+ 
+In Part B of FORM 4A  
+ 
+a. Serial No. 
+ 
+b. Name of the Promoter Group Company 
+ 
+The insurer shall identify Investee Company with the promoter group to whi ch Investee Company 
+belongs to. The insurer shall follow the “Group” definition consistently as prescribed in the Investment 
+Regulation  
+ 
+c. Eligible limit of the Promoter Group as per Regulation 
+ 
+The maximum investments in any company belonging to the Insurer’s promoter Group shall be the 
+percentage (as prescribed in the Regulations) computed on investment assets at aggregate level.  
+ 
+d. Actual Investments  
+ 
+In this column the insurer shall sh ow, Investee Company Group wise, the actual investments at Book 
+value 
+ 
+e. Actual Investments (cumulative) 
+ 
+The exposure should be on the Book Value basis for all non-linked funds and on Market  Value basis for 
+all ULIP Funds 
+ 
+f. Deviation  
+ 
+The deviation amount is the difference between the eligible investment limit as shown in column ‘d’ and
+
+[Page 25]
+Page 25 of 31 
+ 
+the actual investment as shown in column ‘e’.  
+ 
+In Part C of FORM 4A  
+ 
+a. Name of the Group  
+ 
+The insurer shall identify every investee company with the group to which Investee Company belongs 
+to. The insurer shall follow the “Group” definition consistently as prescribed in the Investment 
+Regulation.   
+ 
+b. Eligible limit of the Promoter Group as per Regulation 
+ 
+The maximum investments in the investee company belonging to the Group Company as defined in the 
+Investment Regulation. Shall be the percentage (as prescribed in the Regulations) computed on 
+investment asset/ fund. In the case of ULIP funds, the limit shall be applicable both at Segregated Fund 
+level and at aggregate level.  
+ 
+c. Actual Investments  
+ 
+In this column the insurer shall show, Investee Company group wise, the actual investments at Book 
+value. The Total of Actual Investments should reconcile with Total Investment Assets as per FORM 3A  at 
+Book Value for Non Linked Funds and on Market Value for Unit linked Funds. 
+ 
+For the purpose of matching with FORM 3A , the details of Investments which are not part of Group 
+Exposure as per regulation to be provided by way of separate line items . In specific, the G Sec, Other 
+Approved Se curities, CBLO, Investment Property, Net Current Assets  (for Unit Linked Funds) shall be 
+shown as line items 
+ 
+d. Deviation  
+ 
+The deviation amount is the difference between the eligible investment limit as shown in column ‘c’ and 
+the actual investment as shown in column ‘d’.   
+ 
+e. % deviation  
+ 
+The insurer shall show the deviation as a % to investment assets/controlled fund/ULIP fund size.  
+ 
+In Part D of FORM 4A  
+ 
+a. Name of the Industry   
+ 
+The insurer shall state the name of industrial sector. The classification of any investee company into any
+
+[Page 26]
+Page 26 of 31 
+ 
+industry sector shall be classified on the lines of National Industrial Classification (All Economic 
+Activities) – 2008 (NIC) for all sectors, except infrastructure sector. Exposure shall be calculated at 
+Division level from A to R. For Financial and Insur ance Activities sector, exposure shall be at Sectional 
+level. In case an investee company is capable of being classified under more than one classification, then 
+the insurer shall classify such that it reflects same in such a way the broad business of the investee 
+company and shall consistently classify the same under the industrial sector in future.   
+ 
+b. Actual investments  
+ 
+The insurer shall state the total investments made in that industrial sector at Book value.  The Total of 
+Actual Investments should reconcile with Total Investment Assets as per FORM 3A at Book Value for 
+Non Linked Funds and on Market Value for Unit linked Funds. 
+ 
+For the purpose of matching with Form 3 A, the details of Investments which are n ot part of Industry 
+Exposure as per regulations, to be provided by way of separate line items like G Sec, SDL, Other 
+Approved Securities, Infrastructure, CBL O, FD & CD, Mutual Funds, N et Current Assets (for Unit Linked 
+Funds) etc.  
+ 
+c. Deviation  
+ 
+The deviation amount is the difference between the eligible investment limit as shown in column ‘c’ and 
+the actual investment as shown in column ‘d’ 
+ 
+d. % deviation  
+ 
+The insurer shall show the deviation as a % to investment assets/controlled fund/ULIP fund size.  
+ 
+Lastly, the insurer shall state the % deviation from the limit prescribed under Regulation 9 of the IRDA I 
+(Investment) Regulation 2016 as amended from time to time. 
+ 
+Industry sector norms shall not apply for investments made in ‘Infrastructure’ sector as d efined under 
+Regulation 2(h) of IRDA (Registration of Indian Insurance Companies) Regulations, 2000 as amended 
+from time to time.
+
+[Page 27]
+Page 27 of 31 
+ 
+FORM 5 – STATEMENT OF INVESTMENT RECONCILIATION 
+ 
+OBJECTIVE  
+ 
+In order to understand the movement of instruments as a result of Purchase and Sale of Investments 
+during the Quarter and in order to link the same [FORM -5 shall be prepared in respect of each fund. In 
+case of ULIP Form 5 shall be prepared at Segregated Fund (SFIN) level and also at consolidated level and 
+Total Investments in the case of General Insurer including an insurer carrying on business of re -
+insurance or health insurance ] with FORM -3A (Part A) / FORM -3B filed for each Quarter this report is 
+presented. Listing of various investments made based as per Investments – Master Circular  
+ 
+A. METHOD OF PREPARATION  
+ 
+The statement shall be prepared as per major categories  mentioned under IRDAI (Investment) 
+Regulations, 2016 amended from time to time and as applicable to Life Insurers, General Insurer 
+including an insurer carrying on business of re-insurance or health insurance namely;  
+ 
+1. Central Government Securities  
+2. State Government Securities or Other Approved Securities  
+3. Housing and Loans to State Government for Housing and Fire Fighting Equipments 
+4. Infrastructure Investments  
+5. Approved Investments  
+6. Other Investments  
+ 
+NOTE  
+ 
+For all securities, falling under the above heads, the respective Category Code shall be as per Investment 
+– Master Circular on Category of Investments  
+ 
+a. Category Listing Method   
+ 
+The list should follow the category code as prescribed in Investment – Master Circular.  
+ 
+The Opening Balance of each sub -category shall be the consolidated entry, shown at the book cost of 
+that particular sub -category or at the Actual Cost of Purchases after amortization. In respect of 
+investment property, equity, mutual fund investment, the o pening balance shall be shown at weighted 
+average cost of acquisition under respective category of investments. The same shall be the closing 
+balance of previous quarter.  
+ 
+b. Purchases for the Quarter
+
+[Page 28]
+Page 28 of 31 
+ 
+All purchases made during the period shall be shown at the consolidated Weighted Average Value, 
+category code wise (as provided in Guidelines on Category of Investments), and be listed in the same  
+sequence as provided in the “Category of Investments”. The Face Value shall be the consolidated Value 
+of each security purchased during the Quarter.   
+ 
+c. Cost of Sales  
+ 
+In case of equity, cost of sales shall be the Weighted Average Cost of the investment and in case of debt 
+securities the cost of sales shall be the amortized cost of investment at the time of sale.  
+ 
+d. Closing Balance  
+ 
+In Closing Balance column, the book value shall be the sum of Weighted Average Cost of Opening 
+Balance and Purchases made during the period as reduced by the Cost of Sales for that period plus 
+adjustments if any. The closing balance, thus arrived at each sub -category level should be grossed at 
+each category level. The book value, Market Value of each sub-category of Category of Investments shall 
+be reconciled with FORM 3A/3B.   
+ 
+e. % To Total   
+ 
+For Life Insurance Companies : In case of Non - Linked Funds, each category code will be calculated with 
+respect to on Book value and the same will be calculated with respect to Market Value basis for linked 
+funds. For General Insurer including an insurer carrying on business of re -insurance or health insurance 
+Companies, It will be calculated on Book value basis.   
+ 
+f. Adjustments  
+ 
+Any change in value of investments due to cat code reclassification during the quarter, adjustments in 
+securities on account of corporate action entitlements and amortization of  premium/ accretion of 
+discount on investments shall be reported under Adjustments column.  
+ 
+NOTE  
+ 
+1. Investments – Master Circular on “Prudential norms for Income Recognition, Asset Classification and 
+Provisioning and Other related matters” shall be complied with.  
+2. Refer Annexure – 1 of this Guidelines for “Category of Investments for Life, Linked and General 
+Insurer including an insurer carrying on business of re -insurance or health insurance  Business as 
+amended from time to time”  
+3. Refer Annexure – 2 of this Guidelines for “Market Value – Basis for FORM 3A, FORM 3B”  
+4. In case of ULIP, FORM 5 shall be prepared at Segregated Fund (SFIN) level for ULIP funds.
+
+[Page 29]
+Page 29 of 31 
+ 
+5. All transaction shall comply with provisions in Investments - Master Circular  on “Transaction on 
+Stock Market to be on cash basis”
+
+[Page 30]
+Page 30 of 31 
+ 
+FORM 6 – CERTIFICATE UNDER SECTION 27A (5) OF INSURANCE ACT, 1938 
+ 
+OBJECTIVE  
+ 
+This form confirms the reconciliation of Investments as per Investment Returns and the same held free 
+of charge, lien, hypoth ecation etc. This form is linked to FORM 3A/3B. This form shall be signed by 
+Chairman and two Directors and the Principal Officer. The non -encumbrance shall need to be reported 
+by both insurer and the custodian.  
+ 
+A. METHOD OF PREPARATION  
+ 
+1. The form is prepared fund-wise and in aggregate for all segregated linked funds.  
+2. The Separate Custodian account shall be maintained for balance investments of Shareholder’s fund 
+that does not form part of the FRSM.   
+3. The details are furnished at major cat egory code level namely, investment in Central Government 
+Securities, State Government Securities, Other Approved Securities, Infrastructure/Housing & Loans 
+to State Govt. for Housing & FFE, Approved Investment, Other than Approved Investment.  
+4. The stateme nt reveals the holding particulars of Banks (Custodian bank), Self and Others with 
+respect to Shareholder / Policy holder fund and shall certify the following.  
+ 
+a. The custodian should certify in the disclosure that he is not disqualified by SEBI (Custodian 
+of securities) Regulation every time on annual basis.   
+b. The value should be adjusted for Purchase/Sale of investments purchased and awaiting 
+settlement. Reconciliation to this effect should be attached to the certificate.  
+c. If the custodian belongs to promoter group, the norms of the promoter group as in the 
+mentioned in Investment - Master Circular shall be complied with.  
+ 
+5. Investment current assets of linked busin ess to be presented under the custody of self. CBLO and 
+Securities which are lent through SLB to be presented under the custody of ‘Others’. Government 
+Securities and Treasury bills, Reverse Repo held in SGL account with Reserve Bank of India shall be 
+classified under ‘Bank’ while for insurers availing CSGL account, these holdings should be shown 
+under the respective head i.e. Banks if held with Custodian Bank else under ‘Others’.   
+ 
+6. Detailed reconciliation  statement  for Securities which  are lent through SLB Framework, 
+coveringnameofthescrip,no.ofsecuritieslent,nameofthefund,maximum limit permissible in such fund 
+based on the total quantity held, stock exchange,  date of expiry of the contract, value of the 
+securities lent as on the date of the Return shall be provided along with Form 6.
+
+[Page 31]
+Page 31 of 31 
+ 
+FORM 7 – DETAILS OF NON-PERFORMING ASSETS 
+ 
+OBJECTIVE  
+ 
+This form provides the Non Performing Asset details in the debt investments of the funds.   
+ 
+A. METHOD OF PREPARATION  
+ 
+1. This form is to be prepared at SFIN level for ULIP fund and at aggregate fund level for Life Fund, 
+Pension & General Annuity funds and General Insurer including an insurer carrying on business of 
+re-insurance or health insurance.   
+2. The absolute amount of G ross NPA as on date (before Provision of NPA to be provided but after 
+write off)  
+3. Gross NPA as on date to Investment assets shall be shown by dividing “Gross NPA” by “Investment 
+Assets”  
+4. Item No 4 shall be Provisions made for NPAs appearing under “Gross NPA”  
+5. Ratio of provisions made on the “NPAs” to “Gross NPA” shall not include provisions made on 
+Standard Assets   
+6. Provision made on the 'Standard Assets' shall be as per Investments - Master Circular as amended 
+from time to time.  
+7. “Net Investment Assets” is to be arrived at by subtracting provisions (Item no. 4) from Investment 
+Assets (Item no. 1)  
+8. “Net NPA” is to be arrived at by subtracting provision (Item no. 4) from the Gross NPA (Item no.2)  
+9. “% of the net NPA” shall be calculated by dividing “Net NPA” by “Net Investment Asset”   
+10. Write off made during the period shall be as approved by the Board of the Insurer

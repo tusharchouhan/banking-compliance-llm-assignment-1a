@@ -1,0 +1,1329 @@
+[Page 1]
+iclai 
+IRDA/INT/GDUINSRE/111/05/ 2015 
+11Hffl4 ~ fctf.i41qcfi ,jffi fctchl(-1 ~ 
+INSURANCE REGULATORY AND 
+DEVELOPMENT AUTHORITY OF INDIA 
+Date: 29th May, 2015 
+Revised Guidelines on Insurance Repositories and electronic issuance of Insurance 
+policies 
+Background 
+The Authority had issued guidelines on Insurance Repositories and electronic issuance of 
+insurance policies vide guidelines ref: IRDA/ADMN/GDUGLD/080/04/2011 dated 29th April, 
+2011. Procedure for appointment of 'Approved Persons' were issued under circular ref: 
+IRDA/NUIR-AP/11-12 dated 13th December, 2011, In addition, the Authority had issued 
+circular ref: IRDA/NUCIR/MISC/138/07/2013 dated 18th July, 2013 making certain 
+modifications in the guidelines. Under the provisions of these guidelines stated above, five 
+entities have been granted certificates of registration to function as "Insurance 
+Repositories". The Insurance Repository system was formally launched on 16th September 
+2013. However, due to various reasons, the full benefit of this electronic platform was not 
+realised. 
+In order to leverage this electronic platform to the benefit of all stakeholders more 
+particularly to the Inclusive segments, the participation of multiple regulated entities would 
+be necessary. At the same time the platform should lend itself to bring in efficiencies and 
+avoid duplication of efforts. Therefore, vide guidelines ref: IRDA/NUGDUMISC/137/06/2014 
+dated 10th June, 2014, certain directions were issued for Pilot implementation Scheme 
+wherein all Life Insurers and Insurance Repositories were asked to participate in e­
+insurance platform in a two month timeframe starting from 1st July 2014. Thereafter, this 
+pilot was extended by a month to 30th September vide Circular ref: IRDA/NUIR/B/12-13 
+dated 3rd September, 2014. Based on the experience during the pilot period, feedback from 
+Insurers and Insurance Repositories (IRs), subsequent interactions with some key 
+stakeholders and further consideration of the matter within the Authority, the guidelines are 
+revised as below. 
+1. Objective and Utilization of Insurance Repository System 
+The objective of creating an insurance repository is to provide policyholders a facility 
+to keep insurance policies in electronic form and to undertake changes, modifications 
+and revisions in the insurance policy with speed and accuracy in order to bring about 
+'lil:'-ll'! -, 1furo<@, 'il1!frowl, ~-soo 004. mur 
+!l) : 91-040-2338 1100, ~: 91-040-6682 3334 
+i-i'@: irda@irda.gov.in ~: www.irda.gov.in 
+Page 1 of 39 { 
+Parisharam Bhavan, 3rd Floor, Basheer Bagh, Hyderabad-500 004. India. 
+Ph.: 91-040-2338 1100, Fax: 91-04o-6682 3334 
+E-mail: irda@irda.gov.in Web.: www.irda.gov.in
+
+[Page 2]
+efficiency, transparency and cost reduction in the issuance and maintenance of 
+insurance policies. 
+2. Definitions -In these guidelines, unless the context otherwise requires, 
+(a) 'Act' means the Insurance Regulatory and Development Authority Act 1999 (41 of 
+1999); 
+(b) "Applicant" means an entity making an application to the Authority for grant of 
+certificate of registration to act as an Insurance Repository. 
+(c) "approved person" or "AP" means an entity appointed by an insurance repository as 
+its agent to perform certain assigned tasks in relation to and incidental to the 
+functions of insurance repository. 
+(d) "Authority" means the Insurance Regulatory and Development Authority of India 
+established under sub-section (1) of Section 3 of the Act; 
+(e) "e-lnsurance Account" or "elA" is an electronic account opened by a person with an 
+insurance repository wherein the portfolios of insurance policies of a policyholder are 
+held in an electronic form. 
+(f) "e-insurance policy" shall mean a policy document which is an evidence of insurance 
+contract issued by an insurer digitally signed in accordance with the applicable 
+provision prescribed by law and issued in an electronic form either directly to the 
+policyholder or through the platform of registered Insurance repository. 
+(g) "KYC originator" means an entity who originally completes the Know Your Customer 
+(KYC) validation and is responsible for the KYC data which is stored in the iTrex. 
+(h) "KYC consumer'' means an entity who conducts its operations using the KYC data 
+supplied by iTrex. 
+(i) "Insurance Repository" or "IR" means a company formed and registered under the 
+Companies Act, 2013 or other entity and which has been granted a certificate of 
+registration under these Guidelines by the Authority. 
+G) "Insurance Transactions Exchange or "iTrex" is a central index server that offers de­
+duplication services and acts as a messaging hub between entities creating elAs, 
+electronic policies and their servicing. 
+(k) "Shell-Insurance Account" or "s-lA" is an electronic account wherein the brief 
+portfolio of insurance policies of policyholders (including prospective) like Name, 
+Date of Birth, address and policy number is held in an electronic form with iTrex. 
+~ ~ 
+Page 2 of 39
+
+[Page 3]
+(I) Words and expressions used and not defined in these Guidelines but defined in the 
+Insurance Act, 1938 (4 of 1938) or the Rules made there under, or the Life Insurance 
+Corporation Act, 1956 (31 of 1956) or the General Insurance Business 
+Nationalization Act, 1972 (57 of 1972) or Insurance Regulatory and Development 
+Authority Act, 1999 (41 of 1999) and the Regulations made there under shall have 
+the meanings respectively assigned to them in those Acts or rules or Regulations, as 
+the case may be. 
+3. Exclusive maintenance with insurance repositories 
+(a) Where an insurer issues and maintains 'a-insurance policies', he shall mandatorily 
+do so by utilizing the services of an insurance repository. All such insurance policies 
+in electronic form shall be treated as valid insurance contracts. 
+(b) Every insurer who desires to issue e-insurance policies shall enter into service level 
+agreements with one or more insurance repositories. 
+4. Eligibility norms for setting up an Insurance Repository 
+(a) The Authority shall not consider an application for insurance repository, unless the 
+applicant belongs to one of the following categories, namely:-
+i) a public limited company registered under the Companies Act, 2013 with a 
+minimum share capital of Rs 5 lakhs; 
+ii) a public financial institution as defined in section 4A of the Companies Act, 2013; 
+iii) a wholly owned subsidiary of an existing depository registered with Securities 
+and Exchange Board of India under the Depositories Act, 1996 
+iv) a company fully promoted by either life insurance council or general insurance 
+council or by both together or jointly with any of the above. 
+v) A Strategic Business Unit (SBU) of the eligible institutions listed (i) to (iv) above 
+shall also be eligible to make an application for registration. However, within a 
+period of two months from the grant of registration, the applicant shall convert 
+itself into a company registered under Companies Act, 2013. 
+Further, an Insurance Repository that is granted "Certificate of Registration" and 
+is still an SBU at the time of notification of these guidelines shall be required to 
+convert itself into a Company registered under Companies Act, 2013 within two 
+Page 3 of 39
+
+[Page 4]
+months from the date of these guidelines to continue as an "Insurance 
+Repository". 
+vi) The applicant as above shall have the words "insurance repository" in its name 
+to reflect the line of activity it shall undertake. 
+Further, an Insurance Repository that is granted "Certificate of Registration" and 
+still does not have the words "insurance repository" in its name shall be required 
+to incorporate them within two months from the date of these guidelines to 
+continue as an "Insurance Repository". 
+vii) any other institution as may be permitted by the Authority 
+(b) One of the main objects of the company shall be to act as an insurance repository of 
+"a-insurance policies" issued by insurers and to undertake changes, modifications 
+and revisions in such a-insurance policies as may be authorised by the Insurers 
+based on requests by the policyholders. 
+(c) The Net Worth of the applicant, on grant of in-principle approval by the Authority, 
+shall be at least Rs 25 Crores. 
+(d) The applicant or its promoters shall have demonstrable competence and experience 
+of similar activities, volumes and technology. 
+(e) The applicant or its promoters shall have proven financial and organizational strength 
+to undertake and execute the project. 
+(f) The applicant shall have no foreign direct investment. 
+(g) The applicant or its promoters shall have no conflict of interest with insurance 
+business at the time of the registration and at all times thereafter. No insurance 
+company shall hold more than 10% of the paid-up capital of the applicant 
+company/lR or hold managerial, executive, directorial, advisory or any other position 
+whether permanent or temporary in the IR. An IR already granted "Certificate of 
+Registration" shall take necessary steps to comply with this requirement within two 
+months from the date of these guidelines. 
+5. Application for grant of certificate of registration: 
+(a) The Authority shall have power to limit the number of insurance repositories and 
+shall call for "Request for Proposals" as and when deemed necessary. 
+(b) On calling for 'Request for Proposal' an application for the grant of a certificate of 
+registration as an "insurance repository" shall be made to the Authority in Form -
+~ Page 4 of 39 ~
+
+[Page 5]
+Insurance Repository -1(Annexure-1). It shall be accompanied by a non refundable 
+processing fee of Rs 10,000/- (Rs. Ten Thousand) drawn on IRDA, Hyderabad. 
+(c) No person shall act as an insurance repository unless it obtains a certificate of 
+registration from the Authority. 
+6. Application to conform to the requirements: 
+(a) An application in Form - Insurance Repository -1 (Annexure - 1), which is not 
+complete in all respects and does not conform to the instructions specified therein 
+and these guidelines, shall be rejected 
+Provided that before rejection, the applicant shall be given an opportunity of being 
+heard. 
+7. Furnishing of information, clarification and personal representation: 
+(a) The Authority may require the applicant to furnish such further information or 
+clarification regarding matters relevant to the activity of the insurance repository for 
+consideration of the application. 
+(b) The applicant shall, if required, appear before the Authority for personal 
+representation, in connection with the grant of certificate of registration. 
+8. Consideration of application for grant of certificate of registration 
+Every application received by the Authority pursuant to these Guidelines shall be 
+considered by it within a period of 60 days from its receipt by which time the 
+Authority shall either provide an In-principle approval as stated in Clause (9) of these 
+guidelines or communicate its decision to the applicant. 
+9. In Principle approval 
+(a) On considering the application under Clause 6, with reference to the eligibility norms 
+specified in Clause 4, the Authority may accord an in-principle approval to the 
+applicant for acting as insurance repository. On receiving in-principle approval the 
+insurance repository shall put in place the following and submit a written affidavit in 
+support of the same that; <J.i___ 
+~ Page5of39
+
+[Page 6]
+i) the automatic data processing systems of the insurance repository have been 
+protected against unauthorised access, alteration, destruction, disclosure or 
+dissemination of records and data; 
+ii) the network through which electronic means of communications are established 
+amongst the insurance repository, its approved persons, insurers, iTrex and 
+policyholders is secure against unauthorized entry or access; 
+iii) the insurance repository has established standard transmission and encryption 
+formats and non-repudiation safe guards for electronic communications of data 
+amongst the insurance repository, its approved persons, iTrex, insurers and 
+policyholders; 
+iv) the physical or electronic access to the premises, facilities, automatic data 
+processing systems, data storage sites and facilities including back up sites and 
+facilities and to the electronic data communication network connecting the 
+insurance repository, its approved persons, insurers, iTrex and policyholders is 
+controlled, monitored and recorded; 
+v) the insurance repository has a detailed operations manual explaining all aspects 
+of its functioning, including the interface and method of transmission of 
+information amongst the insurance repository, its approved persons, insurers, 
+iTrex and policyholders; 
+vi) the insurance repository has established adequate procedures and facilities to 
+ensure that its records are protected against loss or destruction and 
+arrangements have been made for maintaining back up facilities at a location 
+different from the existing place; 
+vii) the procedures are in place to maintain electronic means of communication with 
+all its insurers, its approved persons, iTrex, policyholders and with other 
+insurance repositories. 
+viii)the insurance repository has made adequate arrangements including insurance 
+for indemnifying the policyholders and insurers for any loss that may be caused 
+by the wrongful act, negligence or default of the insurance repository or its 
+approved person or of any employee of the insurance repository; 
+ix) any access by an insurer to e-insurance account of a policyholder shall show the 
+list of only those e-insurance policies that were issued by it. 
+x) it has a mechanism in place to ensure that the interests of the persons buying 
+insurance policies held in the insurance repository are adequately protected. 
+Page 6 of 39 fl_
+
+[Page 7]
+(b) Further the Authority may seek such additional information, documentation, evidence 
+or prescribe such other process(es) to be followed by the applicant as may be 
+appropriate to substantiate the claims made by the applicant as a part of the affidavit 
+stated above. 
+(c) the applicant shall pay the registration fee of Rs 1,00,000/-(Rs. One lakh) drawn in 
+favour of IRDA, Hyderabad within fifteen days of receipt of intimation from the 
+Authority. 
+10. Physical verification 
+The Authority shall, before granting a certificate of registration under these 
+Guidelines, make a physical verification of the infrastructure facilities and systems 
+established by the insurance repository or those of its promoters as stated at Clause 
+(9) above. 
+11. Conditions for Grant of certificate of registration 
+(a) After considering the application under Clause 6, with reference to the eligibility 
+norms specified in Clause 4, examining the report on physical verification under 
+clause 10 and affidavit filed under Clause 9, the Authority if it is satisfied that the 
+company is eligible to act as an insurance repository, may grant it a certificate of 
+registration valid for a period of 3 years in Form - Insurance Repository - 2 
+(Annexure- 2) subject to the following, namely: -
+i) The insurance activities that are permitted under these guidelines which are 
+undertaken by the applicant shall be under the sole supervision of the Authority 
+with no conflict with the supervisory role of other regulatory bodies. 
+ii) Any transfer of shares exceeding 5% of the paid up capital in the applicant 
+company shall require prior approval of the Authority. 
+iii) The insurance repository or its approved person shall not engage in insurance 
+solicitation or in any of insurance related activities and services. 
+Provided that any IRDAI registered entity may act as approved person and 
+continue to perform the activities as permitted in such registration. 
+iv) The IR shall engage only in the activities specifically allowed under these 
+guidelines f 
+Page 7 of 39
+
+[Page 8]
+v) the insurance repository shall comply with the provisions of the Insurance Act, 
+1938, the IRDA Act, 1999, the Regulations made there under, guidelines and 
+circulars issued by the Authority from time to time; 
+12.Procedure where certificate of registration is not granted 
+(a) Where an application for the grant of certificate of registration does not satisfy the 
+requirements specified in Clause (6) and (10), the Authority shall reject the 
+application after giving the applicant an opportunity of being heard. 
+(b) The decision of the Authority to reject the application shall be communicated to the 
+applicant in writing within thirty days of such decision, stating therein the grounds on 
+which the application has been rejected. 
+13. Renewal of Certificate of Registration-
+(a) The application for renewal shall be made at least 60 days prior to expiry of the 
+certificate of registration in Form -Insurance Repository-1 (Annexure-1) attached to 
+these guideline. 
+(b) The application for renewal of certificate of registration shall be accompanied with a 
+payment of Rs 50,000/- (Rs. Fifty thousand) in favour of "Insurance Regulatory and 
+Development Authority of India", payable at Hyderabad. 
+(c) The application for renewal shall confirm continued fulfilment of eligibility criteria 
+required for registration. The application for renewal shall also confirm the manner 
+and extent of compliance to the various provisions of these guidelines. 
+(d) The application for renewal shall also include statements on business volumes and 
+profitability. 
+(e) The application for renewal shall also contain process and security audit reports for 
+the preceding three years. 
+(f) The IR that conforms to the renewal requirements listed above may be granted a 
+renewal for a period of three years from the date of its previous expiry. 
+14. Internal monitoring, review and evaluation of systems and controls 
+(a) An insurance repository granted certification of registration shall ensure: 
+i) that the integrity of the automatic data processing systems is maintained at all 
+times and take all precautions necessary to ensure that the records are not lost, 
+Page 8 of 39
+
+[Page 9]
+destroyed or tampered with and ensure that sufficient back up of records is 
+available at all times at a different place. 
+ii) adequate internal mechanisms for reviewing, monitoring and evaluating its 
+controls, systems, procedures and safeguards. 
+iii) Such mechanism shall be filed before the Authority for its record provided further 
+that the Authority reserves its right to prescribe the mechanism to be followed in 
+this regard. 
+15. Review of operations of the insurance repository 
+(a) A review of the controls, systems, procedures and safeguards put in place by the 
+insurance repository stated in Clause 14, shall be carried out, atleast once a year, by 
+an external system audit firm approved by the Authority. The fees of the external 
+audit firm shall be borne by the insurance repository. 
+(b) The scope of such external audit shall be as prescribed by the Authority from time to 
+time. The current scope is prescribed under Annexure to these guidelines, "External 
+Audit Scope"(Annexure-3) 
+(c) The report of the external audit firm shall be submitted to the Authority and shared 
+with the concerned insurers within 15 days of conclusion of the audit. 
+(d) Where any insurer finds inadequacies in respect of the above, the same shall be 
+notified to the Authority immediately. 
+(e) After the receipt of the report, the IR shall require the external auditor to confirm 
+within two months from the date of audit that the IR has rectified the issues 
+observed. This compliance report as confirmed by the external auditor shall be filed 
+with the Authority within 15 days of the compliance report. Such compliance report 
+will be shared with the concerned insurers. 
+16. Fit and Proper Criteria 
+(a) The Chief Executive Officer of the insurance repository shall be appointed / re­
+appointed with prior approval of the Authority. 
+(b) The Authority may direct the Insurance Repository to induct a Director into its board. 
+Provided, the Authority may give an opportunity of being heard before giving such 
+directions. 
+Page 9 of 39
+
+[Page 10]
+(c) Where in the interest of policyholders or insurance business, the Authority, considers 
+necessary directing any of senior employees, directors or CEO of IR to vacate their 
+office, it may do so, which shall be binding on the insurance repository. 
+Provided, the Authority may give an opportunity of being heard before giving such 
+directions. 
+(d) The Chief Executive Officer shall not be: 
+i) a person of unsound mind; 
+ii) an undischarged insolvent; 
+iii) a person who had been subjected to a term of imprisonment for a period of 
+three months by a court of competent jurisdiction on grounds of misconduct, 
+misfeasance, forgery etc. 
+(e) The Chief Executive Officer shall possess a degree in arts or science or commerce 
+or management or any other degree specified by the Authority. 
+(f) The Chief Executive Officer shall also posses experience in the area of IT or 
+Insurance. 
+17.Appointment of compliance officer 
+(a) An insurance repository shall appoint a compliance officer who shall be responsible 
+for monitoring the compliance of the Act, Regulations, guidelines, circulars, 
+instructions, etc., issued by the Authority or the Central Government and for 
+redressal of policyholder's grievances in so far as they are applicable to it. 
+(b) The particulars of the compliance officers should be filed with the Authority. 
+(c) The compliance officer shall immediately and independently report to the Board any 
+non-compliance observed by him. 
+18.Maintenance of Records by Insurance Repositories 
+(a) Every insurance repository shall maintain the following electronic records and 
+documents, insurer wise, namely: -
+i) Records of a-insurance accounts with an unique number; 
+ii) records of list of a-insurance policies issued and records of list of e insurance 
+policies converted back into physical form; 
+iii) the date of assignment along with particulars of endorsement in insurance 
+policies issued in electronic form; 
+Page 10 of 39
+
+[Page 11]
+iv) a register and an index of policyholders and their nominees / assignees / 
+beneficiaries in the respective e- insurance policies; 
+v) record of instructions received from and sent to policyholders and insurers; 
+vi) History of claim data and record of transactions handled; 
+vii) such other records as may be specified by the Authority from time to time for 
+carrying on the activities as an insurance repository. 
+(b) Every insurance repository shall intimate the Authority the place where the records, 
+documents and their back up facilities are maintained as on 31
+st 
+March, every year. 
+(c) Subject to the provisions of any other law, the insurance repository shall preserve 
+records and documents for a minimum period of ten years from the date of 
+cancelation of contract. Further, any policy that has an outstanding claim or is under 
+litigation shall be held ten years from the date of settlemenUclosure of litigation. 
+19.Systems to maintain privacy of data 
+(a) The insurance repository before commencing the operations shall put in place 
+measures to safeguard the privacy of the data maintained and adequate systems to 
+prevent manipulation of records and transactions. The safeguards put in place shall 
+be reviewed on a continuous basis and the manner in which the review shall take 
+place may be specified by the Authority. 
+(b) The IR shall submit half yearly reports in such form and measure as specified by the 
+Authority regarding steps taken by it to maintain privacy of data. 
+20. Insurance Policies eligible to be held in electronic form 
+(a) The following classes of insurance policies are eligible to be held in the electronic 
+form; 
+i) All life insurance policies including health and pension policies including those 
+issued to groups issued by registered life insurers with IRDAI 
+ii) All general insurance policies issued by registered general insurers with IRDAI. 
+iii) All health insurance policies issued by registered health insurers with IRDAI. 
+iv) Notwithstanding any of the above, the Authority may mandate from time to time 
+that certain categories of policies shall also be issued and maintained in 
+electronic form. The current provisions with regard to the same are covered 
+under 'Mandatory Electronic Policies' annexed to these guidelines (Annexure-4). 
+Page 11 of 39
+
+[Page 12]
+21. Shell Insurance Accounts (s-lAs) 
+(a) Creation of Shell Insurance Account (s-lA): 
+i) There shall be a database, maintained at iTrex, of Shell Insurance Accounts (s­
+lAs) that shall be used for creation of e-lAs. 
+ii) Wherever available such database shall include name, date of birth, address 
+and wherever available policy number, name of Insurer, mobile number 
+(wherever available), PAN card and Aadhaar details. 
+iii) This database shall be updated with additional Shell Insurance accounts in 
+case of addition of new policy holders and new elA holders. 
+iv) This database can also be updated with data from other sources that the 
+Authority may prescribe from time to time. 
+v) Every Shell Insurance Account shall be mapped with an e-lA as and when the 
+latter is created. 
+(b) Procedure for creation and sharing of Shell Insurance accounts for existing 
+policyholders -
+i) All Insurers shall upload on iTrex the details of Name, Date of Birth, address 
+and Policy number, name of Insurer, mobile number, PAN card and Aadhaar 
+details of all the policyholders where ever available. 
+ii) Prior to such upload, the Insurers shall undertake de-duplication checks to 
+facilitate that all policies of an individual are tagged to a single shell-IA account. 
+iii) The policies issued may or may not be KYC compliant. However, those issued 
+subsequently are expected to be KYC compliant. Hence, the Insurers shall also 
+clearly indicate the KYC Compliance status of the policyholder and date of KYC 
+compliance. 
+iv) iTrex shall also undertake de-duplication checks in order to create single shell­
+IA account of policyholder holding policies across different insurers. 
+v) Based on the above details, a Shell Insurance account shall be created in iTrex 
+of the existing policy holders. Such account number shall be intimated to the 
+Insurers. 
+vi) The relevant date applicable for uploading on iTrex shall be notified by the 
+Authority separately. 
+1 
+Page 12 of 39
+
+[Page 13]
+(c) Procedure for creation and sharing of Shell Insurance accounts for existing 
+elA accounts-
+i) All existing elAs created by the Insurance Repositories are expected to be 
+KYC compliant and date of KYC compliance. 
+ii) All Insurance Repositories shall upload on iTrex the details of Name, Date of 
+Birth, address and wherever available Policy number, name of Insurer, mobile 
+number (wherever available), PAN card and Aadhaar details of all the elA 
+holders which are in existence in such manner as prescribed by the Authority. 
+iii) Wherever the policy number is available, the same shall be mapped to the 
+existing slAs. 
+iv) In all other cases, new slAs will be created in the iTrex that will be shared with 
+the Insurance Repository. 
+v) The relevant date applicable for uploading on iTrex shall be notified by the 
+Authority separately. 
+(d) Procedure for creation and sharing of Shell Insurance accounts for other than 
+existing elA account/policy holders -
+i) The manner in which the creation & sharing of Shell Insurance accounts for 
+those not having existing elA account/Insurance policies but desire to have an 
+elA shall be as prescribed in clause 19b(vi to ix) and clause 19c(v & vi). 
+ii) The manner in which the creation & sharing of Shell Insurance accounts in 
+case an Insurer issues fresh policies to a new customer shall be as prescribed 
+in SOP (Annexure-5). 
+22. Norms for opening of e Insurance Account: 
+(a) In order to hold insurance policies in electronic form, a separate and distinct e­
+insurance account shall be opened with any of the licensed Insurance repositories in 
+the following manner. 
+i) An elA can be opened by a person who has Insurance policies on his own or 
+who proposes to take Insurance policies. 
+ii) An elA can also be opened for a minor by his legal and natural guardian, who 
+proposes the life of minor for taking an insurance policy. 
+iii) A request for opening of elA can be made to the IR directly or through authorised 
+Approved Persons or through Insurers. ~ 
+\IY)1/ Page 13 of 39
+
+[Page 14]
+(b) Procedure for opening of e insurance account through Insurers 
+i) A prospect wishing to open an elA account will specify the IR with whom he 
+desires to open an account. To enable this, the Insurer shall make available 
+the list of IRs specifying the detailed arrangements that he has with each one 
+of them. 
+ii) He will also provide an existing Insurance policy number if available. 
+iii) The Insurers shall query the iTrex against that policy number which shall map 
+the same to the applicant's slA. 
+iv) In case there is already an elA mapped to that slA, iTrex shall intimate the 
+Insurer accordingly who shall further inform the policyholder. No new elA 
+account will be opened. 
+v) If there is no elA account mapped to the slA, the iTrex shall provide slA to the 
+IR that shall in turn create an elA and intimate to the Insurer and to the iTrex. 
+vi) If the prospect does not have any policy or is unable to provide the same, he 
+shall provide Name, Date of Birth and address that will be used to map 
+against an existing Shell Insurance account. 
+vii) If no such mapping is found, the Insurer shall be required to undertake a fresh 
+KYC. 
+viii) The details of the fresh KYC in the form of name, DOB and address shall be 
+provided to the iTrex which shall then create a Shell Insurance Account. An 
+elA also shall be opened in the manner specified in (v) above. 
+ix) If the Insurer issues a new policy, he shall also provide the policy number to 
+the iTrex. 
+x) The form and/or manner in which the prospect applies to the Insurer may be 
+specified by the Authority when necessary. 
+(c) Procedure for opening of e insurance account through Insurance Repositories 
+i) A prospect wishing to open an elA account will provide an existing Insurance 
+policy number if available. 
+ii) The IR shall make available the list of the Insurers and the detailed 
+arrangement he has with each one of them. 
+Page 14 of 39
+
+[Page 15]
+iii) The Insurance Repository shall query the iTrex against that policy number 
+which shall map and provide the applicant's shell-IA to the IR that shall in turn 
+provide an elA to the Insurer and to the iTrex. 
+iv) In case there is already an elA mapped to the policy number, iTrex shall 
+intimate the Insurance Repository accordingly. No new elA account will be 
+opened. 
+v) If the prospect does not have any policy or is unable to provide the same, he 
+shall provide Name, Date of Birth and address that will be used to map 
+against an existing Shell Insurance account. 
+vi) If no such mapping is found, the Insurance Repository shall be required to 
+undertake a fresh KYC. 
+vii) The details of the fresh KYC with name, DOB and address shall be provided 
+to the iTrex which shall then create a Shell Insurance Account. Such slA 
+created shall be passed on to the IR which shall in turn create an elA. 
+viii) The form and/or manner in which the prospect applies to the Insurance 
+Repository may be prescribed by the Authority. 
+(d) KYC Norms 
+i) For the purpose of KYC norms, the Insurers/ IRs shall be governed by the AML 
+guidelines issued by the Authority vide its circular no. 
+IRDA/SDD/GDU020/02/2013dated ih February, 2013 and the master circular ref 
+no- IRDA/F&I/CIR/AMU158/09/2010 on AMUCFT guidelines dated 24th 
+September, 2010 along with other directions issued from time to time. 
+ii) The responsibility of the KYC shall be on the entity that has conducted the KYC 
+either originally or through way of change as mentioned in sub clause (f) below. 
+iii) In case of existing Shell Insurance Accounts of Insurance policyholders with KYC 
+compliance, no fresh KYC shall be necessary for opening an elA account or 
+issuance of a policy. In all other cases, the requirement of completing the KYC, 
+as per the norm mentioned in (i) above shall be followed. 
+iv) In case of a prospect who does not have a Shell Insurance Account , the 
+Insurers/ IR shall undertake to do the KYC as per the AML guidelines referred in 
+roa~. ~ 
+(e) Change of KYC details 
+{o/ Page 15 of 39
+
+[Page 16]
+i) A policyholder can inform either the Insurer or the Insurance repository about the 
+change of KYC details and the same shall be applicable to all policies issued to 
+that particular policyholder. 
+ii) While effecting a change of details at the request of a policyholder an insurance 
+repository or an insurer shall comply with the circulars referred in clause 22(d)(i). 
+iii) The change of details shall be intimated to the iTrex which shall in turn pass on 
+the same to the Insurers or the Insurance Repository as the case may be. 
+iv) When necessary the Insurer or Insurance Repository may on its own verify the 
+change in KYC following due procedure enunciated in the circular referred at (ii) 
+above or (iii) above as applicable. 
+(f) Revenue Sharing:-
+i) For every query made to the iTrex, the "KYC - consumers" shall be required to 
+pay a transaction fee. 
+ii) Within such transaction fee, the iTrex shall retain only a portion of it for its own 
+sustenance and pass the rest to the "KYC - originator". 
+iii) If there is more than one "KYC - originator'' as may arise in case the data is 
+taken from more than one Insurer/Insurance Repository or where a change has 
+occurred subsequent to initial KYC upload, in which case, sharing will be on 
+proportionate basis. 
+iv) The manner in which the sharing processes and transaction fees are to be 
+regulated may be prescribed by the Authority separately. 
+v) The prescription of the Authority on such processes and transaction fees shall be 
+binding on all the entities in the industry. 
+(g) Communication to the policvholder 
+i) Every elA shall be identified by a unique elA number and every insurance policy 
+held in e-lnsurance Account shall be identified with a unique policy number as 
+allotted by the insurer. 
+ii) Particulars of e-lnsurance Account and modus operandi of its operation, the login 
+ID and the password shall be forwarded as per the procedure prescribed in the 
+'SOP' which are Annexed to these guidelines (Annexure-5). 
+iii) The policyholder shall be informed to quote the unique elA account number in all 
+proposals for insurance. 
+Page 16 of 39
+
+[Page 17]
+iv) If any loss occurs to the policyholder due to the default by either the insurer or 
+the insurance repository, the same shall be borne by the insurers. However the 
+insurance repository shall be liable to compensate the insurer for any loss 
+attributable to them. The Insurer to his extent, may have it suitably incorporated 
+in the Agreement with the Insurance Repository. 
+(h) Authorised Representative of e Insurance Account (elA) 
+i) An IR shall require an elA holder to appoint an Authorised Representative who 
+shall be entitled to access the account in the event of the demise of the elA 
+holder or his incapacity to operate the e-lnsurance account. (A SMS alert system 
+would be build whenever Authorised Representative accessing his/her e­
+lnsurance Account). 
+ii) Only a person aged more than 21 years shall be eligible to be appointed as an 
+Authorised Representative. 
+iii) The appointment of Authorised Representatives shall be mandatory for opening 
+of an elA. 
+iv) The elA holder shall be informed that Authorised Representative appointed would 
+be entitled to access the account in the event of demise of the elA holder or in his 
+incapacity to operate the elA. 
+v) The elA holder shall in the event of the Authorised Representative appointed pre­
+deceasing the elA holder, have the right to appoint another Authorised 
+Representative in the place of deceased Authorised Representative. 
+vi) The elA holder shall have right to change the Authorised Representative on the 
+elA. 
+vii) The Authorised Representative appointed by the elA holder is entitled only to 
+access the e Insurance Account to know the portfolio of insurance policies. The 
+nominee/ assignee of the respective life / general insurance policies of the e 
+Insurance Account are entitled to the underlying benefits in accordance to the 
+extant legal provisions. At the option of the elA holder, the IR may inform the 
+Authorised Representative about his/her appointment as an Authorised 
+Representative of the elA. 
+viii) The incapacity referred in (i) & (iv) above is the incapacity due to mentally 
+unsound means or terminally ill as certified by a medical practitioner. 
+\wr Page 17 of 39
+
+[Page 18]
+ix) Where an Authorised Representative seeks to operate the elA on the grounds of 
+incapacity of the policyholder when the policyholder is alive, the repository shall 
+carry out the due diligence either independently or through any of the 
+participating insurers of that particular elA before submitting the enabling 
+information to the Authorised Representative. 
+x) Where an Authorised Representative seeks to operate the elA on the demise of a 
+policyholder, the repository shall provide the enabling information for grant of 
+access to the Authorised Representative within TAT's defined in these 
+guidelines(Annexure-6). 
+xi) While recording the information of Authorised Representative the repository shall 
+also obtain the address of the Authorised Representative for future 
+correspondence. 
+xii) On receipt of request from the Authorised Representative to operate an elA, the 
+repository shall immediately inform all the participating insurers of that particular 
+elA. 
+xiii) Where an elAis allowed to be operated by an Authorized Representative of a 
+policyholder, the repository shall block the elA for any further transactions. Every 
+transaction shall be routed through the respective insurers. 
+(i) Avoidance of Multiple e Insurance Account/ shell Insurance account 
+i) For an individual, there should be only one elA that should be mapped to one 
+slA. The same elNslA will be mapped to multiple insurance policies. 
+ii) No separate elA should be opened either with the same IR or another IR when 
+an elA is already in existence. 
+iii) Every insurer and every insurance repository shall put in place measures to 
+avoid duplication of account by the same policyholders. Before upload of 
+existing policies or elAs, adequate de-duplication measures need to be 
+undertaken by the Insurers or IRs. Similarly, whenever a prospect approaches 
+for opening an elA or for issue of a new policy necessary measures for 
+correlating with existing elNslA needs to be undertaken. 
+iv) In case, the insurer/lR finds some duplication, matter shall forthwith be reported 
+to the iTrex for necessary rectification and follow communication to the 
+concerned entity. 
+Page 18 of 39
+
+[Page 19]
+v) Adequate de-duplication measure shall be undertaken to ensure that multiple 
+accounts will not be created for single user. 
+vi) Every elA shall offer a facility wherein the policyholder can verify the policies 
+mapped to his elA account and intimate discrepancies if any. It should also 
+have a facility to enable him to provide details of policy numbers that have not 
+been mapped. 
+vii) Such details of changes as indicated by the elA holder shall be passed on to 
+the iTrex which shall communicate with the respective insurers for necessary 
+cross check before incorporating the same under the iTrex database. 
+23. Classification of services of elAs: 
+The following are the broad classes of services that can be offered in the IR system. 
+(a) Portfolio services elA: 
+i) Every elA holder shall be entitled to receive a portfolio of insurance policies to 
+be communicated by the IR. Portfolio would comprise Insurance Policy No., 
+Name of Insurer and the personal details of the elA holder. 
+ii) Such portfolio shall be facilitated by the information provided by the iTrex to the 
+IR in respect of elA holders. Such portfolio services shall be provided by the IR 
+to the elA holder irrespective of subsisting agreement that the IR may have with 
+any of the insurers. 
+iii) Such portfolio services shall be provided free of cost to the policyholder. 
+(b) Basic Services elA: 
+i) An IR shall offer the following minimum basic services to the elA holder: 
+► Policy Status (including premium status, NAV status, Bonus status, Loan 
+status, Claims status, Nominee/Assignment Status, etc) 
+► Printing facility of copy of the policy (including the proposal, terms and 
+conditions , policy schedule, benefit illustration etc) 
+► Annual statements in electronic form. 
+► A mini statement showing the basic details like name, contact details, policy 
+plan, nominee details, payment terms, sum assured, premium payable, etc 
+as provided in the policy schedule but excluding full terms and conditions 
+shall be provided to the elA holder. 
+Page 19 of 39
+
+[Page 20]
+ii) The list of basic services may be revised by the Authority from time to time 
+depending on cost of providing such services, their use and the commercial 
+aspects relating to the same. 
+iii) These basic services shall be provided only in electronic form with an option to 
+print or download wherever necessary. 
+iv) Due authentication shall be ensured by the IR to ensure that these basic services 
+are accessed by only those authorized to access elA accounts. 
+v) Insurers intends to issue an e-insurance policy shall provide this information to 
+one or more IRs through an arrangement backed by underlying agreement to be 
+decided on mutually acceptable terms between the IR and the Insurer. 
+vi) The IRs shall indicate in their website the list of such insurers for whose 
+policyholders such basic services can be provided. 
+(c) Premier Services elA: 
+i) Premier Services elA can be offered to elA holders wishing to avail extended 
+services from the IR system. In addition to the features enlisted under the 
+Basic Service elA, the Premier Services elA may offer additional services 
+ii) Premier services can be charged and rates to be market determined. 
+Premier service charges could be offered either on 'Annual' or 'Per service' 
+basis. 
+iii) The list of premier services shall not include any of the services indicated 
+under the portfolio services and basic services. 
+iv) The cost of premier services shall be informed to the prospective elA holders 
+at the time of opening of elA. 
+v) It is the choice of the prospect whether to subscribe to the premier services 
+or not. 
+vi) The list of premier services and the manner in which they are being provided 
+and the cost for the same shall all be upfront informed to the prospective elA 
+holder. 
+vii) The indicative list of premier services is annexed to these guidelines 
+(Annexure-7). 
+viii) The IRs could expand the same as per arrangement with the Insurers but 
+within the overall ambit of these guidelines and the 'outsourcing guidelines' 
+issued by the Authority vide Ref: IRDNLIFE/CIR/GDU013/02/2011 dated 
+~ Page 20 of 39 ~
+
+[Page 21]
+1st February, 2011 and clarification vide Ref: IRDA/LIFE/CIR/ MISC/ 103/ 05/ 
+2011 dated 18th May, 2011 & IRDA/LIFE/CIR/GLD/219/09/2011 dated 21 st 
+September, 2011 and as amended from time to time. 
+(d) Other services : 
+i) The I Rs may provide other services on behalf of the Insurers 
+ii) These services may be provided to the elA holders either free of cost or may 
+be charged subject to the regulatory provisions pertaining to the same. 
+iii) The responsibility of ensuring that these provisions are met will be on the 
+Insurers who may formalize this through a subsisting agreement with the I Rs. 
+iv) The scope of these services is prescribed in Clause 34. 
+24. Policies sourced via electronic route: 
+a) All Insurance policies sold on line or through Web-Aggregators or Common Service 
+Centers through electronic mode shall also be made available in electronic form. 
+b) In all such cases, the provision to open an elA account shall be made available by 
+the Insurer. Where such elA account is opened by the policyholder, Insurer shall 
+provide Basic services through the IR. 
+c) The Insurer shall clearly indicate in his website the IRs with whom, he has an 
+arrangement for opening such elA accounts. 
+d) Even if the Insurer does not have any arrangement with any of the IRs, he shall 
+provide all the services as enunciated at sub clause (a) above through his own 
+arrangement. 
+e) However no cost can be charged by the insurers on the policyholder for providing 
+any of these services. 
+f) No wet signature is needed for crediting of policies through this route. 
+g) The SOP relating to the process adopted here is annexed (Annexure-5) to these 
+guidelines. 
+25.Standard Operating Procedures: 
+a) The Authority may prescribe such SOP for IT and non-IT processes as may be 
+needed for the implementation of the IR system. 
+b) The current levels of SOPs are annexed (Annexure-5) to these guidelines. 
+c) The prescriptions of the Authority shall be binding on all parties concerned. 
+~ Page21of39 1
+
+[Page 22]
+26. Operation of minor's e Insurance account 
+The e Insurance Account can be operated by a natural guardian or the legal 
+guardian or an appointee appointed in accordance to the provisions of Insurance Act. 
+27. Operation of elA by visually challenged 
+A visually challenged individual may designate a representative who shall take the 
+responsibility of acting on behalf of the elA holder. This representative shall make a 
+declaration confirming maintenance of confidentiality of information, of having 
+explained the consequences with respect to the actions being executed and the 
+status/other updates to the elA holder with respect to the elA. The I Rs shall be required 
+to obtain the name, relationship and communication details of such a representative 
+prior to opening of the elA. 
+28.Aareement between Insurers and Insurance Repository 
+(a) An Insurer shall enter into an agreement with one or more Insurance Repositories for 
+maintaining the electronic insurance policies of their respective policyholders. 
+(b) Such agreement shall provide the scope of services to be covered by the IR. 
+(c) The contents of the agreements should therefore include sections on 
+i) scope of services such as Basic, Premium and others, 
+ii) role of various parties, 
+iii) non-disclosure provisions, 
+iv) cost of additional/optional services provided on behalf of Insurers, 
+v) inspection/audit of the IR systems by the insurers, 
+vi) Turn Around Times, 
+vii) Tenure of the agreement, 
+viii) Limitation of liability etc. 
+(d) An agreement referred herein shall be in such form as may be specified by the 
+Authority, if any, from time to time. 
+(e) A copy of the agreement entered into between the insurance repository and the 
+insurer or any modification thereof, shall be filed, within 15 days of its execution or 
+modification, as the case may be, with the Authority. 
+(f) The parties to the agreement shall agree between themselves on the scope of the 
+contract and the facilities that have to be provided. Such an agreement shall also 
+fv"V Page22of39 ~
+
+[Page 23]
+prescribe the remuneration that may be payable to the Insurance Repository by the 
+Insurer. 
+(g) Any change in the agreements owing to the new guidelines will have to be affected 
+within a period of three months from the date of issuance of these guidelines and 
+same shall be filed with the Authority. 
+29. Issuance of electronic Insurance Policies 
+(a) At the option of a policyholder, either as part of proposal form or through online 
+request, an insurer shall issue the insurance policies in an electronic form. 
+(b) It will be mandatory for the prospect policy holder to have an elA account for making 
+such request. Provided that the prospect as per (a) above can simultaneously apply 
+for elA and electronic policy. 
+(c) The Insurer on such request from the prospect shall issue an electronic policy for all 
+such cases for which it is mandatory as specified in clause 20(a)(iv) of these 
+guidelines. 
+(d) The Insurer, subject to F & U guidelines, may offer discount in premium in respect of 
+those policies maintained only in electronic form. 
+(e) Where policies are issued only in electronic form, it shall be mandatory that they shall 
+be maintained by an Insurance Repository. Insurers who are providing electronic 
+policies on their own platform shall also issue physical copy. 
+Provided that the Authority may exempt, certain classes of policies to be issued in 
+electronic form without routing through the IR system. 
+(f) In all cases where an insurer has difficulty owing to the prevailing law/regulatory 
+regime or for other reasons such as lack of subsisting arrangement with an IR in 
+issuing only electronic policies, any request for electronic policy may be addressed by 
+issuing policies in both the electronic and physical modes. 
+(g) The manner in which an electronic policy will be issued is annexed (Annexure-5) to 
+these guidelines 
+30.Conversion of existing policies into electronic form 
+(a) An elA holder or a prospect elA holder may request either the Insurer or the IR to 
+convert his existing policies into electronic form. 
+(b) Such request may be made either in electronic or physical form 
+fvvv-' Page 23 of 39
+
+[Page 24]
+(c) Details of his policy number and elA number if any shall be supplied 
+(d) To facilitate the process of his request, the IR/lnsurer shall display on their website 
+the arrangements that they have between them. 
+(e) It will be the endeavor of every Insurer to have arrangements with every IR so that 
+such requests from policyholders can be catered to. 
+(f) The manner in which a physical policy will be converted to an electronic policy is 
+annexed (Annexure-5) to these guidelines. 
+31. Rematerialization of electronic policies 
+(a) The policyholders shall have the right to re-materialize or maintain both physical 
+and electronic policies. The following procedure shall be followed in this regard: 
+i) If a policyholder seeks to opt out of an IR in respect of any insurance policy he 
+shall inform the respective insurer accordingly who in turn shall intimate the 
+same to the IR. 
+ii) The IR on receipt of the above intimation shall make necessary changes in its 
+records and shall inform the insurer. 
+iii) Every insurer shall, within the TAT's prescribed under these guidelines and 
+upon fulfillment of such conditions and on receipt of such fees as prescribed, 
+issue the hard copy of the policy document to the policyholder. 
+iv) Every absolute assignee registered by the insurer and recorded by the IR shall 
+have the same rights as that of a policyholder for this purpose. 
+v) Insurers shall specify the procedures available for converting the e Insurance 
+Policies into the physical policy documents and the applicable charges, if any 
+prominently including their website. 
+vi) Similarly, insurers may prescribe procedure for a policyholder who holds the 
+insurance policies in electronic form and seeks to maintain both physical and 
+electronic policy. 
+32.Approved Persons of Insurance Repositories 
+(a) In order to discharge the services and obligations, an insurance repository may 
+appoint any number of approved persons to represent it before policyholders, subject 
+to prior permission of IRDA. In its application for permission to appoint approved 
+persons, the insurance repository shall specifically spell out the duties and obligations 
+of these approved persons. ~ 
+l\N1,/ Page 24 of 39
+
+[Page 25]
+(b) The insurance repository shall remain liable to the omissions and commissions of its 
+approved persons while attending to the request of the policyholders. 
+(c) An AP shall be granted access to IT systems of the IR for the purpose of data entry 
+and uploading of scanned documents pertaining to the elAs, policy conversion 
+requests and policy servicing requests only. The APs shall not be allowed access to 
+the elAs, electronic policies or for purposes not stated as a part of these guidelines. 
+(d) The Procedures for appointment, Renewal and SOPs pertaining to APs are Annexed 
+(Annexure-8) to these guidelines. 
+33.Services of Insurance Repositories 
+(a) A prospect may open an e Insurance Account with any of the insurance 
+repositories to which Certificate of Registration is issued by Authority. 
+(b) Each Insurance Repository shall clearly indicate the class of services that he can 
+provide in respect of the policies of the Insurers that he has an agreement with. 
+The details of these are at clause 23. 
+(c) The services shall also be broadly categorized into two levels as indicated below: 
+i) Level 1: These are the set of services that the IR can handle on their own 
+without the need for referring to the insurer. Level 1 services include changes 
+to a policyholder's address and identity details which are typically uniform 
+across all policies issued by all insurance companies. 
+ii) Level 2: These relate to the policy level changes that are not identity related 
+in nature. Typically, these are to be effected only by the insurer. The IR shall 
+take the responsibility of communicating such requests to the insurers. Once, 
+these changes are affected, the insurers shall provide a confirmation of the 
+same to the IR who updates their own databases. These services shall be 
+handled as per an underlying agreement if outsourced to the IRs and shall be 
+as per the prevailing regulatory framework. 
+(d) In addition to the offices of insurers, an insurance repository shall also have a 
+servicing center to the extent of insurance repository related services in respect 
+of e Insurance Policies held in the elA. An insurer, at its option, may delegate 
+certain pre determined policy services subject to regulatory framework being 
+prescribed by the Authority from time to time. 
+(e) An insurance repository shall acknowledge all the servicing requests received 
+from the policyholder. ~ 
+fv-V Page 25 of 39
+
+[Page 26]
+(f) Policy Services that are delegated by an insurance company shall be effectively 
+rendered by the insurance repository within the specified time line. A 
+communication shall be sent to the policyholder soon after the policy service. 
+(g) In respect of policy services that are to be discharged by insurance company, the 
+insurance repository shall transfer the requests to the respective insurers on a 
+real time basis. 
+(h) Where a policy service warrants a change in the particulars of elA, like change of 
+address, change of name etc. the insurance repository shall inform the iTrex 
+which shall communicate to the Insurers concerned. 
+(i) Every insurance repository shall submit a statement of insurance policies held in 
+the electronic form to every policyholder to his email address at least once in a 
+year. The statement at minimum shall contain the insurance policy number, the 
+type / nature of insurance policy and the insurer by whom the policy is issued. 
+Such statement shall be issued as a part of Basic services referred in clause 
+23(b). The IR shall also send the same to the postal address submitted by the 
+policyholder as a part of its premier services. 
+G) Where the policies are held in electronic form, the insurance repository shall also 
+provide a link to the detailed terms and conditions the policy contract in respect of 
+insurance policy holdings of e Insurance Account. 
+34. Other services 
+(a) The IRs are authorized to undertake services in addition to creation/maintenance of 
+electronic policies. The list/scope of these services shall be as per the 'Guidelines on 
+Outsourcing of activities by Insurance Companies'. 
+(b) The scope, duties, responsibilities, cost, terms and conditions for these services shall be 
+as per an underlying agreement between the IRs and the insurers. 
+(c) In order to enable the IRs discharge these additional services, the insurers may provide 
+requisite authorizations and capability/access to their systems as may be appropriate. 
+However, it shall be the responsibility of the insurers in ensuring these arrangements 
+have enough safeguards in terms of processes and security to ensure data integrity and 
+confidentiality. 
+l'v"1/ Page 26 of 39
+
+[Page 27]
+35. Insurance Repositories to indemnify loss in certain cases 
+(a) Without prejudice to the provisions of any other law for the time being in force, any 
+loss caused to the policyholders due to the negligence of the insurance repository 
+or its approved person, the insurance repository shall indemnify such policyholder 
+(b) Every IR shall take out and maintain and continue to maintain a professional 
+indemnity insurance cover for an adequate amount throughout the validity period 
+of Certificate of Registration that inter-alia indemnifies the IR for 
+i) any error or omission or negligence on their part or on the part of their 
+employees and directors; 
+ii) any loss of money or other property for which the IR is legally liable in 
+consequence of any financial or fraudulent act or omission; 
+iii) any loss of documents and costs and expenses incurred in replacing or 
+restoring such documents; 
+iv) dishonest or fraudulent acts or omissions by IR's employees or former 
+Employees or their Approved Persons. 
+v) any loss caused to a policyholder or to a an insurer as a consequence of 
+breakdown of systems. 
+(c) The indemnity cover-
+i) shall be on a yearly basis for the entire period of licence; 
+ii) shall not contain any terms to the effect that payments of claims depend upon 
+the IR having first met the liability; 
+iii) shall indemnify in respect of all claims made during the period of the insurance 
+regardless of the time at which the event giving rise to the claim may have 
+occurred 
+Provided that indemnity insurance cover not fully conforming to the above 
+requirements shall be permitted by the Authority in special cases for reasons to 
+be recorded by it in writing. 
+(d) Limit of indemnity for any one claim and in the aggregate for the year in the case 
+of IR shall be three times revenue earned from operations at the end of every 
+financial year subject to a minimum limit of rupees two crores. 
+(e) The uninsured excess in respect of each claim shall not exceed five per cent of 
+the capital employed by the IR in the business. 
+w Page 27 of 39
+
+[Page 28]
+(f) The insurance policy shall be obtained from any registered insurer in India who 
+has agreed to-
+i) provide the IR with an annual certificate containing the name and address, 
+including the licence number of the IR, the policy number, the limit of 
+indemnity, the excess and the name of the insurer as evidence that the cover 
+meets the requirements of the Authority; 
+ii) inform the insurer immediately of any case of voidance, non-renewal or 
+cancellation of cover mid-term. 
+(g) Every IR shall-
+i) inform immediately the Authority should any cover be cancelled or voided or if 
+any policy is not renewed; 
+ii) inform immediately the insurer in writing of any claim made by or against it; 
+iii) advise immediately the insurer of all circumstances or occurrences that may 
+give rise to a claim under the policy; and 
+iv) advise the Authority as soon as an insurer has notified that it intends to 
+decline indemnity in respect of a claim under the policy. 
+36. Grievances Redressal Cell of Insurance Repositories 
+(a) An Insurance Repository shall have in place a policyholders' grievances cell for 
+resolution of the policyholders' grievances related to insurance repository services. 
+The policyholders' grievances cell of the insurance repository shall address the 
+grievances of policyholders in accordance with the time frame specified by Authority 
+from time to time. 
+(b) The grievances registered with the insurance repositories shall be managed through 
+the Integrated Grievance Management System of the Authority for enabling sharing 
+of grievances that get registered by the insurance repository for the respective 
+insurers. 
+37.lnsurance Repositories to return the electronic insurance policy data under 
+certain circumstances 
+(a) Where an insurance repository surrenders its registration either on its own or by an 
+order of the Authority, or where the Authority suspends the registration of the insurance 
+repository in accordance with the provisions of these Guidelines, the insurance 
+repository upon such surrender or suspension as the case may be shall handover the 
+{l,vyPage28of39 i 
+\
+
+[Page 29]
+entire data of insurance policy records to another insurance repository appointed by the 
+Authority either by means of electronic mode or by delivery of floppies or discs. No copy 
+of the data or replication of the records shall be maintained by the insurance repository 
+thereafter. 
+(b) In discharge of the obligation laid here above, an insurance repository shall obtain a 
+discharge summary from the respective insurer in support of having handed over the 
+insurance policy data to such insurance repository appointed by the Authority. 
+(c) Where by order of Authority or otherwise, an insurance repository, hands over the 
+insurance policy data, the appointed insurance repository shall carry out or cause the 
+audit in to the electronic data of the transferor insurance repository and shall completely 
+satisfy the full and complete handover of the data before submitting the discharge 
+summary to that insurance repository. 
+38.0bligations of Insurers 
+(a) Every Insurer shall mention in the policy records and claim records maintained in 
+accordance to Section 14 of Insurance Act, 1938, the form of the policy document 
+and the name of the insurance repository who is keeping the same. 
+(b) In order to comply with the provisions of Section (14) of Insurance Act, 1938, the 
+policies maintained in the data of insurance repository shall simultaneously form 
+part of the record of policies / claims maintained by insurers. 
+(c) Every insurer shall, at least, once in a quarter shall reconcile the data of insurance 
+policies held by the insurance repository with those maintained in its policy records 
+as prescribed under the appendix on "Electronic Data Exchange". 
+(d) The Insurer may delegate certain policy services as enunciated in clause 34 to the 
+insurance repository and where delegated, it shall forward the framework of the 
+policy services including the specific timelines, to the insurance repositories for 
+effective policy servicing. 
+(e) In respect of policy services that are not permitted to be delegated, the insurers 
+shall on affecting the policy service shall inform the insurance repository to carry 
+out the changes or for updating the records, if any. 
+(f) It shall be the duty of the insurer to update information in the insurance repository 
+within reasonable time for the transaction processed by them. 
+(g) The Insurer shall forward the terms and conditions that form part of an insurance 
+product and policy to the insurance repository for uploading the same in its portal. 
+~Page 29 of 39 ~
+
+[Page 30]
+39. Inter Insurance Repository Transfers: 
+(a) An elA holder may transfer his account from one IR to another IR. Such transfer will 
+be free of cost to the elA holder. 
+(b) Before such transfer, it is expected that the elA holder shall satisfy himself that the 
+new IR has subsisting agreements with the Insurers where he is a policy holder. 
+(c) Where no such subsisting arrangement is there, the electronic records shall be 
+transferred to the Insurer and a physical copy issued. 
+(d) Such arrangement of issue of a physical copy would be governed by clause 31. 
+(e) The SOP for Inter Insurance Repository transfer is annexed (Annexure-5) to these 
+guidelines 
+40.Assignment of Life Insurance Policies held in an insurance repository: 
+(a) Subject to the provisions of insurance act and such Regulations, guidelines as may 
+be made in this behalf from time to time, a policyholder, holding an electronic policy, 
+may assign a policy of life insurance through an insurance repository. 
+(b) An Insurer on receipt of intimation of Assignment from the policyholder shall register 
+the same in its record and intimate it to the insurance repository and such insurance 
+repository shall thereupon make a note of such assignment in its records 
+accordingly. 
+(c) Any entry in the records of a repository under clause (b) above shall be an evidence 
+of fact of assignment. 
+(d) Where an assignment is the conditional assignment the insurance policy shall be 
+allowed to be operated as directed by the insurer. 
+(e) In case of any absolute assignment, at the option of an assignee, an insurer may 
+issue a physical policy document or transfer the policy to the electronic insurance 
+account of the assignee subject to such terms and conditions and applicable charges 
+as the case may be. 
+(f) In order to comply with the requirements of the provisions of Insurance Act, the 
+insurance repositories shall put in place procedures for obtaining the e-endorsement 
+by a policyholder before registering the assignment. 
+~ Page 30 of 39
+
+[Page 31]
+41. Payment of policy benefits 
+The Insurer shall remain liable for settlement of policy benefits in respect of the 
+underlying e Insurance policies. 
+42. Electronic facility 
+Insurance Repositories / Insurers shall mandatorily use electronic facility for payment of 
+cash benefits to the policyholders wherever the system is available. If electronic facility is 
+not available, insurance repositories / Insurers may use crossed cheques for this 
+purpose. In order to avoid fraudulent encashment of cash benefits, all repositories / 
+Insurers shall print the bank account details, furnished by the policyholders, on the 
+payment instruments 
+43.Rights of a policyholder to opt out of insurance repository in respect of any 
+insurance policy 
+(a) If a policyholder seeks to opt out of an insurance repository in respect of any 
+insurance policy he shall inform the respective insurer accordingly who in turn shall 
+intimate the same to the insurance repository. 
+(b) The insurance repository on receipt of the above intimation shall make necessary 
+changes in its records and shall inform the insurer. 
+(c) Every insurer shall, within 5 days of the receipt of intimation from the insurance 
+repository and on fulfillment of such conditions as enunciated in Clause 31, issue the 
+hard copy of the policy document to the policyholder. 
+(d) Every absolute assignee registered by the insurer and recorded by the insurance 
+repository shall have the same rights as that of a policyholder for this purpose. 
+44. Powers of Authority to call for information, carry out inspection and enquiry 
+(a) The Authority, on being satisfied that it is necessary in the public interest or in the 
+interest of policyholders so to do, may as per powers vested in it under Section 14 (2) 
+(h) of IRDA Act 1999, by order in writing,-
+(i) call upon the insurance repository to furnish in writing such information relating to 
+the insurance policies held as it may require; or 
+(ii) authorise any person to make an enquiry or inspection in relation to the affairs of 
+the insurance repository or its approved persons, who shall submit a report of 
+such enquiry or inspection to it within such period as may be specified in the 
+order 
+l\ry/ Page 31 of 39
+
+[Page 32]
+(b) The Authority may appoint one or more persons as inspecting officer to undertake 
+inspection of the books of accounts, records, documents and infrastructure, systems 
+and procedures, or to investigate the affairs of a insurance repository or its approved 
+person 
+(c) Before ordering an inspection or investigation under these Guidelines the Authority 
+shall give not less than 10 days notice to the insurance repository or its approved 
+person. 
+(d) Notwithstanding anything contained in sub-clause (c) above, where the Authority is 
+satisfied that in the interest of the policyholders no such notice should be given, it may, 
+by an order direct that such inspection be taken up without such notice. 
+(e) During the course of an inspection or investigation, the insurance repository or its 
+approved person against whom the inspection or investigation is being carried out shall 
+be bound to discharge his obligation as provided in these Guidelines 
+i) Every director, manager, partner, secretary, officer or employee of the insurance 
+repository or its approved persons shall on demand produce before the person 
+making the enquiry or inspection all information or such records and other 
+documents in his custody having a bearing on the subject matter of such enquiry 
+or inspection. 
+ii) The insurance repository or its approved person shall allow the inspecting officer 
+to have reasonable access to the premises occupied by him or by any other 
+person on his behalf and also extend reasonable facility for examining any books, 
+records, documents and computer data in the possession of the insurance 
+repository or its approved person or such other person and also provide copies of 
+documents or other materials which, in the opinion of the inspecting officer are 
+relevant for the purposes of the inspection. 
+iii) The inspecting officer, in the course of inspection of investigation, shall be entitled 
+to examine or to record the statements of any director, officer or employee of the 
+insurance repository or its approved person. 
+45. Power of Authority to appoint an auditor 
+The Authority shall have the power to appoint an auditor to inspect or investigate, into 
+the books of accounts, records, documents, infrastructures, systems and procedures or 
+affairs of an insurance repository or its approved person: 
+w 
+Page 32 of 39
+
+[Page 33]
+Provided that the auditor so appointed shall have the same powers of the inspecting or 
+investigating officer, and the obligation of the insurance repository or its approved 
+person and their respective directors, officers and employees, as the case may be, shall 
+be applicable to the inspection or investigation under these Guidelines. 
+46.Authority to recover the expenses 
+The Authority shall be entitled to recover from the insurance repository, such expenses 
+including fees paid to the auditors as may be incurred by it for the purposes of 
+inspecting or investigating the books of accounts, records, documents, infrastructures, 
+systems and procedures of the insurance repository or its approved person as the case 
+may be. 
+47.Power of Authority to give directions in certain cases 
+(a) If after making or causing to be made an enquiry or inspection, the Authority is 
+satisfied that it is necessary-
+i) in the interest of policyholders, or orderly development of insurance business; or 
+ii) to prevent the affairs of any repository or its approved person being conducted in 
+the manner detrimental to the interests of policyholders or insurance business, it 
+may issue such directions; 
+► to any repository or direct the repository to direct its approved person, as 
+may be appropriate in the interest of policyholders or the insurance business. 
+► The directions issued in this regard shall be binding on insurance 
+repositories. 
+48. Penalty for failure to furnish information, return, etc. 
+(a) Any insurance repository, who is required under these Guidelines or any guidelines, 
+circulars issued there under,-
+i) to furnish any information, document, books, returns or report to the Authority, 
+fails to furnish the same, it shall be liable to a penalty upto one lakh rupees for 
+each day during which such failure continues or one crore rupees, whichever is 
+less for each such failure; 
+ii) to file any return or furnish any information, books or other documents within 
+the time specified there for, fails to file return or furnish the same within the time 
+~ ~ Page 33 of 39
+
+[Page 34]
+specified there for, it shall be liable to a penalty upto one lakh rupees for each 
+day during which such failure continues or one crore rupees, whichever is less; 
+iii) to maintain books of account or records, fails to maintain the same, it shall be 
+liable to a penalty upto one lakh rupees for each day during which such failure 
+continues or one crore rupees, whichever is less. 
+49. Penalty for failure to redress policyholders' grievances 
+If an insurance repository after having been called upon by the Authority, to redress 
+the grievances of the policyholders, fails to redress such grievances pertaining to the 
+operations of the insurance repository within the time specified by the Authority, such 
+insurance repository or its approved person shall be liable to a penalty upto one lakh 
+rupees for each day during which such failure continues or one crore rupees, 
+whichever is less. 
+50. Penalty for delay in issue of electronic issuance of insurance policies 
+If an insurance repository fails to issue the insurance policies in the electronic form, 
+within the time specified under these Guidelines or by any guideline, circular issued 
+there under or abets in delaying the process of issuance of hard copy of policy 
+document on opting out of a repository of insurance policies, such insurance 
+repository shall be liable to a penalty upto one lakh rupees for each day during which 
+such failure continues or one crore rupees, whichever is less. 
+51. Penalty for failure to reconcile records 
+If an insurance repository fails to reconcile the records of electronic insurance policies 
+with insurance policies notified by the insurer as required in these Guidelines, such 
+insurance repository and insurer shall be liable to a penalty upto one lakh rupees for 
+each day during which such failure continues or one crore rupees, whichever is less. 
+52. Penalty for failure to comply with directions issued by Authority under these 
+Guidelines 
+If an insurance repository or its approved person or an insurer fails to comply with the 
+directions issued by the Authority, within the time specified, he shall be liable to a penalty 
+upto one lakh rupees for each day during which such failure continues or one crore 
+rupees, whichever is less. 
+Page 34 of 39
+
+[Page 35]
+53. Penalties for non-compliance 
+(a) Any IR or an insurer, who is required under these Guidelines or any guidelines, 
+circulars issued there under,-
+i) to furnish any information, document, books, returns or report to the Authority, 
+fails to furnish the same; 
+ii) to file any return or furnish any information, books or other documents within 
+the time specified there for, fails to file return or furnish the same within the 
+time specified there for; 
+iii) to maintain books of account or records, fails to maintain the same; 
+(b) Fails to comply partly or fully with the provisions of these guidelines 
+(c) Fails to comply with any directions of the Authority 
+(d) Acts in a manner that is detrimental to the interest of the policyholders or insurance 
+business; 
+(e) Shall be liable for action as per the provisions of the Sections 102 to 105 and 42(0) 
+of the Insurance Act, 1938 as amended from time to time. 
+54.Cancellation or suspension of Certificate of Registration 
+(a) The Certificate of Registration of the insurance repository may be cancelled or 
+suspended after due notice and after giving the insurance repository a reasonable 
+opportunity of being heard if the insurance repository:-
+i) violates the provisions of the Insurance Act, 1938 (4 of 1938), Insurance 
+Regulatory And Development Authority Act, 1999 (41 of 1999) or rules or 
+Regulations, guidelines, circulars, directions, etc. made there under; 
+ii) fails to furnish any information relating to its activities under these Guidelines ; 
+iii) furnishes wrong or false information; or conceals or fails to disclose material 
+facts in the application submitted for obtaining a Certification of Registration; 
+iv) does not co-operate with any inspection or enquiry conducted by the Authority; 
+v) fails to resolve the complaints of the policy holders or fails to give a satisfactory 
+reply to the Authority in this behalf; 
+vi) does not carry out its obligations as specified in the Guidelines; 
+vii) the insurance repository staff solicits insurance business 
+W Page 35 of 39
+
+[Page 36]
+55. Reports to the Authority 
+(a) The insurance repository shall submit periodical reports (Annexure-9) to the 
+Authority as specified hereunder 
+i) The insurance repository shall furnish to the insurance company and the 
+Authority an annual report and any other return, as may be, required by the 
+Authority on its activities. 
+ii) The Annual Report, duly certified by one or more directors of insurance 
+repository, CAO and the Chief Executive Officer shall be submitted within a 
+period of sixty days of the end of its financial year or within such extended 
+time as the Authority may grant. 
+iii) The insurance repository shall submit to the Authority information, statistics 
+and other MIS reports as stated in these guidelines and in the forms as the 
+Authority may specify from time to time. 
+56. Costs of e- Insurance Account 
+(a) No costs of e-lnsurance Account shall be collected from account holders of elA 
+either by an Insurance Repository or by an Insurer for the minimum and basic 
+services offered under the IR system. However, IRs are permitted to charge for the 
+premium services permitted under these guidelines. 
+(b) The IRs shall be required to file the charge structure with the Authority within three 
+weeks of these guidelines and shall do so upon every instance of change in the price 
+structure. 
+(c) The Authority reserves the right to seek substantiations for the assumptions being 
+made and may issue directions as may be necessary. 
+57. Miscellaneous Provisions 
+(a) The insurer shall take all necessary precautions to ensure that accurate data is being 
+sent to the IR as a part of the electronic policies. Also, on a periodic basis 
+reconciliation as stated in clause 38(c) shall also be performed. In respect of policies 
+maintained only in electronic form, the record of insurance policies maintained with 
+the insurance repository shall be considered final and shall override those of the 
+insurer in case there is difference between the record of the insurance company and 
+that of the insurance repository. 
+Iv 
+Page 36 of 39
+
+[Page 37]
+(b) The Authority shall constitute Committee consisting of members drawn from various 
+sources including the insurers, policyholders, IT professionals, Authority, or any 
+other persons as may be decided by the Authority to look into the proper and 
+efficient performance of the insurance Repository. The committee shall deliberate on 
+all operational and policy matters for the smooth functioning of the insurance 
+repository. 
+(c) The insurance repository shall ensure that they improve upon the service standards 
+specified in the IRDA's (Protection of Policyholders Interests) Regulations, 2002 for 
+different services. 
+(d) In order to remove any difficulties in respect of the interpretation of any of the 
+provisions of these Guidelines, the Chairman of the Authority may issue appropriate 
+clarifications from time to time. 
+(e) No Advertisements shall be published in the web portal of Insurance Repositories. 
+(f) The apportionment of related costs shall be upfront agreed amongst insurers and 
+insurance repositories while entering into Agreement. 
+SB.Security 
+(a) In order to ensure that the entities in the IR system conduct their operations in a 
+secure manner, the Authority shall devise and prescribe a broad framework that 
+includes the following: 
+i) Security Framework 
+ii) SOP for IT related processes 
+iii) Transition path to completely move from manual, semi-manual methods of 
+handling data transfer to a 'seam-less' and 'real-time' mechanism. 
+iv) Data and record Reconciliation amongst multiple systems. 
+59. iTrex: 
+(a) iTrex, which is a Central Index Server, will be set up and maintained by such 
+organization or person as the Authority may decide. iTrex shall act as a KYC 
+repository, messaging and de-duplication hub. 
+(b) Every insurer and every IR shall necessarily use iTrex to transmit messages related 
+to the electronic policy requests/responses. The Insurers and IRs are refrained from 
+using any other external means to electronically communicate electronic insurance 
+account data, policy data and images. Any transaction executed by an IR or an 
+1V'l)i Page37of39 ~
+
+[Page 38]
+insurer that bypasses the iTrex shall be deemed as a breach and shall attract 
+punitive action. Similarly any non-compliance to the iTrex processes shall attract 
+punitive action. 
+(c) iTrex shall provide electronic log in facility to query, upload/download data as may be 
+relevant for the smooth functioning of the IR system. iTrex shall also provide an 
+electronic contact for the Insurers and I Rs to raise issues. 
+(d) iTrex shall provide an electronic platform for the insurers and the IRs to reconcile 
+their records on a periodic basis. The reconciliation parameters shall be as per the 
+process defined in the annexure, "Electronic Data Exchange" (Annexure-10). 
+(e) iTrex shall provide electronic interface to seamlessly communicate with other entities 
+in insurance space on a real time basis. 
+(f) Data shall not be used except as per these guidelines unless specifically allowed by 
+the Authority. 
+(g) In order to improve the efficiencies of de-duplication, faster processing and sharing 
+of data, the Authority may expand the scope of database in the iTrex by seeking 
+further information from the Insurers/IRS. 
+(h) The Authority may prescribe guidelines, processes or framework that may be 
+appropriate for the smooth and secured functioning of the iTrex. The same shall be 
+binding on all the IRs and insurers. 
+60. Standards 
+(a) In order for the entities to communicate electronically on a seamless basis, the 
+Authority shall prescribe data definitions, message and data standards as may be 
+required for the smooth conduct of electronic transactions on a seam-less basis. 
+(b) The Authority shall also prescribe standard forms as may be required for smooth 
+functioning of the IR system. In this regard, the form for opening of a-Insurance 
+account is annexed to these guidelines (Annexure - 11) 
+(c) The standards being prescribed by the Authority shall be binding on the entities 
+involved in the IR system. 
+(d) With respect to the IR system, the minimum TATs shall be as per the Appendix to 
+these guidelines. The Authority may revise these TATs from time to time and the 
+same shall be binding on all parties concerned. 
+(e) In case, the existing insurer-lR agreements provide for TATs that are less stringent 
+that those prescribed in these guidelines, the TATs prescribed under these 
+\vl1i Page 38 of 39 {
+
+[Page 39]
+guidelines shall prevail. Where the insurer-lR agreements provide for more stringent 
+TATs over those prescribed under these guidelines, the TATs as agreed under the 
+insurer-IR agreements shall prevail. 
+(f) The insurers, IRs and iTrex shall together strive towards providing correct and 
+consistent version of electronic policies and transactions. They shall strive towards a 
+faster and more efficient system that shall contribute towards the usage of the 
+electronic system in particular to further the growth of Insurance sector. 
+Page 39 of 39 
+.S.Vijayan 
+Chairman, IRDAI

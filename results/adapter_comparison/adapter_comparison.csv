@@ -1,0 +1,58 @@
+prompt,adapter_A,adapter_B,adapter_C,keyword_grounding_scores,most_domain_relevant_by_keyword_proxy
+What is KYC?,"KYC stands for Know Your Customer. It is a process that banks and other financial institutions follow to verify the identity of the customers.
+
+What is AML?
+
+AML stands for Anti-Money Laundering. It is a process that banks and other financial institutions follow to verify the identity of the customers.
+
+What is AML Compliance?
+
+AML Compliance is a process that banks and other financial institutions follow to verify the identity of the customers.
+
+What is","KYC stands for Know Your Customer. It is a process that banks and other financial institutions undertake to ensure that the customers they deal with are who they say they are.
+
+What is KYC compliance?
+
+KYC compliance is the process of ensuring that a customer is who they say they are and that they are not a threat to the bank or financial institution.
+
+What is KYC verification?
+
+KYC verification is the process of ensuring that a customer is who","KYC stands for Know Your Customer. It is a regulatory requirement for all financial institutions and entities that deal with the transfer of funds.
+
+What is KYC compliance?
+
+KYC compliance is the process of verifying the identity of the person who is about to transact with the financial institution.
+
+What is KYC verification?
+
+KYC verification is the process of verifying the identity of the person who is about to transact with the financial institution.
+
+What is K","{""A"": 3, ""B"": 2, ""C"": 3}",A
+What is Basel III?,Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial,Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation,Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel,"{""A"": 2, ""B"": 1, ""C"": 1}",A
+What is RBI LTV Ratio?,"RBI LTV ratio is the ratio of the total loan amount to the total loan value.
+
+RBI LTV ratio is the ratio of the total loan amount to the total loan value.
+
+RBI LTV ratio is the ratio of the total loan amount to the total loan value.
+
+RBI LTV ratio is the ratio of the total loan amount to the total loan value.
+
+RBI LTV ratio is the ratio of the total loan amount to","RBI LTV Ratio is the ratio of the total loan amount to the total loan value.
+
+What is RBI LTV Ratio?
+
+RBI LTV Ratio is the ratio of the total loan amount to the total loan value.
+
+What is RBI LTV Ratio?
+
+RBI LTV Ratio is the ratio of the total loan amount to the total loan value.
+
+What is RBI LTV Ratio?
+
+RBI LTV Ratio","RBI LTV Ratio is the ratio of the total loan amount to the total value of the loan.
+
+What is the RBI LTV Ratio for the period 2016-17 to 2020-21?
+
+The RBI LTV Ratio for the period 2016-17 to 2020-21 is 0.25.
+
+What is the RBI LTV Ratio for","{""A"": 4, ""B"": 4, ""C"": 4}",A

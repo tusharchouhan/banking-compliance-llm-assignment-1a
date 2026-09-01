@@ -1,0 +1,2 @@
+model_id,sequence_length,documents,total_tokens_with_bos_eos,average_document_tokens,packed_sequences,discarded_tail_tokens,seed
+HuggingFaceTB/SmolLM2-360M,1024,106,2868001,27054.61,2800,801,42

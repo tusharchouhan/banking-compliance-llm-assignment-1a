@@ -1,0 +1,380 @@
+[Page 1]
+Page 1 of 8 
+ 
+ 
+SECURITIES AND EXCHANGE BOARD OF INDIA (INVESTOR PROTECTION AND 
+EDUCATION FUND) REGULATIONS, 2009 
+ 
+[Amended upto September 02, 2025] 
+ 
+No. LAD-NRO/GN/2009-10/05/163525.- In exercise of the powers conferred by section 30 of the 
+Securities and Exchange Board of India Act, 1992 (15 of 1992), the Securities and Exchange Board 
+of India hereby makes the following regulations, namely: - 
+ 
+CHAPTER I 
+PRELIMINARY 
+ 
+Short title and commencement.  
+ 
+1. (1) These regulations may be called the Securities and Exchange Board of India (Investor 
+Protection and Education Fund) Regulations, 2009. 
+ 
+(2) They shall come into force on the date of their publication in the Official Gazette. 
+ 
+Definitions. 
+ 
+2. (1) In these regulations, unless the context otherwise requires: - 
+(a) ‘Act’ means the Securities and Exchange Board of India Act, 1992 (15 of 1992); 
+(b) ‘Board’ means the Securities and Exchange Board of India established under section 3 of  the 
+Act; 
+(c) ‘Committee’ means the advisory committee constituted under regulation 7 of these regulations; 
+(d) ‘financial year’ means the year commencing on the first day of April; 
+(e) ‘Fund’ means the Investor Protection and Education Fund created by the Board under 
+section 11 of the Act; 
+(f) ‘investor’ means an investor in securities; 
+(g) ‘legal proceedings’ means any proceedings befor e a court or tribunal where one thousand or 
+more investors are affected or likely to be affected by:- 
+(i) mis -statement, misrepresentat ion or omission in connection with the issue, sale or  
+purchase of securities; 
+(ii) non-receipt of securities allotted or refund of application monies paid by them; 
+(iii) non-payment of dividend; 
+(iv) default in redemption of securities or in payment of interest in terms of the offer 
+document; 
+(v) fraudulent and unfair trade practices or market manipulation; 
+(vi) such other market misconduct which in the opinion of the Board may be deemed 
+appropriate; but does not include any proceeding where the Board is a party or where the 
+Board has initiated any enforcement action; 
+(h) ‘Schedule’ means Schedule appended to these regulations.
+
+[Page 2]
+Page 2 of 8 
+ 
+(2) Words and expressions not defined in these regulations, but defined in or under the Act or the 
+Securities Contracts (Regulation ) Act, 1956 (42 of 1956) or the Depositories Act, 1996 (22 of 
+1996) or the regulations made thereunder or the Companies Act, 1956 (1 of 1956) or any statutory 
+modification or re-enactment thereof, shall have the same meanings as have been assigned to them 
+by or under those enactments, unless the context requires otherwise. 
+ 
+CHAPTER II 
+INVESTOR PROTECTION AND EDUCATION FUND 
+ 
+Establishment of Fund. 
+ 
+3. (1) There shall be a Fund to be called the Investor Protection and Education Fund. 
+ 
+(2) The Fund shall be deemed to have been established on 23rd day of July, 2007, by the order 
+made by the Board under section 11 of the Act. 
+ 
+Amounts to be credited to the Fund. 
+ 
+4. 1[(1)] The following amounts shall be credited to the Fund:- 
+(a) contribution as may be made by the Board to the Fund; 
+(b) grants and donations given to the Fund by the Central Government, State Government or any 
+other entity approved by the Board for this purpose; 
+2[(c) proceeds in accordance with the sub-clause (ii) of clause(e) of sub-regulation (10) of 
+regulation 17 and sub-regulation (3) of regulation 21 of the Securities and Exchange Board of India 
+(Substantial Acquisition of Shares and Takeovers) Regulations, 2011]; 
+(d) security deposits, if any, held by stock exchanges in respect of public issues and rights 
+issues, in the event of de-recognition of such stock exchanges; 
+(e) amounts in the Investor Protection Fund and Investor Services Fund of a stock exchange,  in 
+the event of de-recognition of such stock exchange; 
+3[(f) amounts forfeited for non-fulfilment of obligations specified in regulation 15B of the 
+Securities and Exchange Board of India (Buy-back of Securities) Regulations, 1998; 
+(g) monies transferred in accordance with sub-regulation (9) of regulation 45 of the Securities and 
+Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2009; 
+(h) amounts disgorged under section 11B of the Act or section 12A of the Securities Contracts  
+(Regulation) Act, 1956 or section 19 of the Depositories Act, 1996;]  
+4[(i)] interest or other income received out of any investments made from the Fund; 
+                                                           
+1 Existing regulation re -numbered as sub -regulation (1) by the SEB I (Payment of Fees and Mode of Payment) 
+(Amendment) Regulations, w.e.f. 6-3-2017. 
+2 Substituted by the SEBI (Investor Protection and Education Fund) (Amendment) Regulations, 2014 w.e f. 09 -01- 
+2014. Prior to substitution, it read as under:  
+"(c) proceeds in accordance with the sub-clause (ii) of clause(e) of sub-regulation (12) and the sub- regulation (13)of 
+regulation 28 of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) 
+Regulations, 1997". 
+3 Inserted ibid. 
+4 Renumbered by the SEBI (Investor Protection and Education Fund) (Amendment) Regulation s, 2014 w.e f. 09-01- 
+2014.
+
+[Page 3]
+Page 3 of 8 
+ 
+5[(j) monies transferred in accordance with the proviso to sub -regulation (3) of regulation 61A of 
+the Securities and Exchange Board of India (Listing Obligations and Disclosure Requir ements) 
+Regulations, 2015;  
+(k) monies transferred in accordance with clause (f) of sub-regulation (16) of regulation 18 of the 
+Securities and Exchange Board of India (Real Estate Investment Trusts) Regulations, 2014;  
+(l) monies transferred in accordance with clause (e) of sub -regulation (6) of regulation 18 of the 
+Securities and Exchange Board of India (Infrastructure Investment Trusts) Regulations, 2014;] 
+6[(la) monies transferred in accordance with clause (c) of sub -regulation (3) of regulation 38B of 
+the Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2021;] 
+7[8[(m)]] such other amount as the Board may specify in the interest of investors. 
+ 
+9[(2) For the purposes of sub -regulation (1) above, the amounts shall be credited  to the Fund 
+through NEFT/RTGS/IMPS or online payment using the SEBI Payment Gateway or any other 
+mode as may be specified by the Board from time to time.] 
+ 
+ 
+Utilisation of Fund. 
+ 
+5. (1) The Fund shall be utilised for the purpose of protection of investors  and promotion of 
+investor education and awareness in accordance with these regulations. 
+(2) Without prejudice to the generality of the object in sub-regulation (1), the Fund may be 
+used for the following purposes, namely:- 
+(a) educational activities including seminars, training, research and publications, aimed at 
+investors; 
+(b) awareness programmes including through media - print, electronic, aimed at investors; 
+(c) funding investor education and awareness activities of Investors’ Associations 
+recognized by the Board; 
+(d) aiding investors’ associations recognized by the Board to undertake legal proceedings 
+in the interest of investors in securities that are listed or proposed to be listed; 
+(e) refund of the security deposits which are held by stock exchanges and transferred to the 
+Fund consequent on de -recognition of the stock exchange as mentioned in clause (d) of  
+regulation 4, in case the concerned companies apply to the Board and fulfill the conditions 
+for release of the deposit; 
+                                                           
+5 Inserted by the Securities and Exchange Board of India (Investor Protection and Education Fund) (Second 
+Amendment) Regulations, 2023 w.e.f. 23.10.2023. 
+6 Inserted by the  Securities and Exchange Board of India (Investor Protect ion and Education Fund) ( Amendment) 
+Regulations, 2025 w.e.f. 02.09.2025.  
+7 Ibid. 
+8 Substituted for “(j)” by the Securities and Exchange Board of India (Investor Protection and Education Fund) (Second 
+Amendment) Regulations, 2023 w.e.f. 23.10.2023. 
+9 Substituted by the SEBI (Payment of Fees and Mode of Payment) (Amendment) Regulations, 2023, w.e.f. 1-4-2023. 
+Prior to substitution, it read as under: 
+“(2) For the purposes of sub-regulation (1) above, the amounts shall be credited to the Fund through 
+NEFT/RTGS/IMPS or any other mode allowed by RBI or by way of a demand draft in favour of the Board payable in 
+Mumbai.”
+
+[Page 4]
+Page 4 of 8 
+ 
+(f) expenses on travel o f members of the Committee, who are not officials of the Board, 
+and special invitees to the meetings of the Committee, in connection with the work of the  
+Committee; 
+(g) salary, allowances and other expenses of office of Ombudsman; 10[***] 
+11[(ga) any reward under the guidelines as may be issued by the Board from time to time 
+for the grant and payment of reward to the informants for providing original information 
+to the Board to recover  amounts under section 28A of the Act or section 23JB of the 
+Securities Contracts (Regulation)  Act, 1956 (42 of 1956) or section 19 -IB of the  
+Depositories Act, 1996 (22 of 1996); and] 
+(h) such other purposes as may be specified by the Board. 
+ 
+12[13[(3) Notwithstanding the provisions of sub-regulations (1) and (2),- 
+i. the amounts disgorged and credited to the Fund in accordance with clause (h) of sub 
+regulation (1) of regulation 4 of these regulations and the interest accrued thereon shall, in 
+cases where the Board deems fit to make restitution to eligible and identif iable investors 
+who have suffered losses resulting from violation of securities laws or for rewarding 
+informants who provide original information to the Board to recover amounts directed to 
+be disgorged, be utilised only for the purposes of such restitution or reward;  
+ii. the amounts credited to the Fund in accordance with clauses (j), (k) 14[,(l) and (la)] of 
+sub regulation (1) of regulation 4, shall be utilised for refund to the entities transferring the 
+said amounts, pursuant to their making payment to eligible and identifiable investors and 
+making a claim to the Fund in the manner specified by the Board:  
+ 
+Provided that monies remaining in the Fund after earmarking, -  
+i. the amount for the process of restitution to eligible and identifiable investors credited 
+to the Fund in accordance with clause (h) of sub-regulation (1) of regulation 4; and  
+ii. the amount for refund to the entities transferring the said amounts credited to the Fund 
+in accordance with clauses (j), (k) 15[,(l) and (la)] of sub-regulation (1) of regulation 4;  
+                                                           
+10 The word “and” omitted by the Securities  and Exchange Board of India (Investor Protection and Education Fund) 
+(Amendment) Regulations, 2023 w.e.f 28.02.2023.  
+11 Inserted by the Securities and Exchange Board of India (Investor Protection and Education Fund) (Amendment) 
+Regulations, 2023 w.e.f 28.02.2023. 
+12 Inserted by SEBI (Investor Protection and Education Fund) (Amendment) Regulations, 2014 w.e f. 09 -01- 2014. 
+13 Substituted by the Securities and Exchange Board of India (Investor Protection and Education Fund) (Second 
+Amendment) Regulations, 2023 w.e.f. 23.10.2023. Prior to substitution, the clause read as follows: 
+“(3) Notwithstanding the provisions of sub -regulations (1) and (2), amounts disgorged and credited to the Fund in 
+accordance with clause (h) of regulation 4 of these regulations and the interest accrued thereon shall, in cases where 
+the Board deems fit to make restitution to eligible and identifiable investors who have suffered losses resulting from 
+violation of securities laws or for rewarding informants who provide original information to the Bo ard to recover 
+amounts directed to be disgorged, be utilised only for the purposes of such restitution or reward:  
+ 
+Provided that monies left in the Fund after earmarking the amount for the process of restitution to eligible and 
+identifiable investors may be utilised for the purposes of the Fund specified in sub-regulations (1) and (2): 
+Provided further that no claim for restitution from the disgorged amounts in a specific case shall be admissible after 
+a period of seven years from the date of invitation of claims for disgorgement in the said case by the Board.” 
+14 Substituted for the words and symbol “and (l)” by the Securities and Exchange Board of India (Investor Protection 
+and Education Fund) (Amendment) Regulations, 2025 w.e.f. 02.09.2025.   
+15 Substituted for the words and symbol “and (l)” by the Securities and Exchange Board of India (Investor Protection 
+and Education Fund) (Amendment) Regulations, 2025 w.e.f. 02.09.2025.
+
+[Page 5]
+Page 5 of 8 
+ 
+ 
+may be utilised for the purposes of the Fund as specified in sub-regulations (1) and (2):  
+ 
+Provided further that no claim for restitution from the disgorged amounts in a specific case 
+shall be admissible after a period of seven years from the date of invitation of claims for 
+disgorgement in the said case by the Board.] 
+ 
+ 
+6. Conditions for Aid. 
+ 
+The aid to investors’ associations, as referred to in clause (d) of sub-regulation (2) of 
+regulation 5, shall be given by the Board in accordance with the guidelines made by it and 
+subject to the following conditions:- 
+(a) that the aid shall not exceed seventy five per cent. of the total expenditure on legal 
+proceedings; 
+(b) such aid shall not be considered for more than one legal proceeding in a particular matter; 
+(c) if more than one investors’ association applies for seeking legal aid, the investors’ 
+association whose application is received first, shall be considered for such aid. 
+ 
+ 
+CHAPTER III 
+ADVISORY COMMITTEE FOR THE FUND 
+ 
+Constitution of the Committee. 
+7. (1) The Board shall constitute an advisory committee for recommending investor education and 
+protection activities that may be undertaken directly by the Board or through any other agency, for 
+utilisation of the Fund for the purposes referred to in regulation 5. 
+ 
+(2) The Committee shall consist of the following members, namely:- 
+(a) the Executive Director of the Board in charge of Office of Investor Assistance and 
+Education who shall be the convener of the Committee; 
+(b) two other officials of the Board; 
+(c) five other members who have expertise about the securities market and experience in 
+matters of investor grievance redressal or investor education. 
+ 
+(3) (a) The term of office of members referred in clause (c) of sub-regulation (2) of 
+regulation 7 shall be two years, which may be extended for a further period of two years. 
+(b) Any vacancy arising out of resignation, retirement or death of a member or for any other reason 
+shall be filled by the Board for the remaining period of the term of such member.  
+ 
+(4) The Board may dissolve and reconstitute the Committee if, at any time, the Board is of the 
+opinion that the Committee is unable to discharge the functions and duties imposed on it by or 
+under these regulations. 
+ 
+Functions of the Committee.
+
+[Page 6]
+Page 6 of 8 
+ 
+8. The Committee shall consider investor education and protection activities keeping in view the 
+purposes mentioned in regulation 5 and the regulation 6 and submit its recommendations thereon 
+to the Board. 
+ 
+Meetings of the Committee.  
+ 
+9. (1) Meetings of the Committee shall be convened at least once in three months by the convener 
+or in his absence, by any member nominated by the convener, on his behalf.  
+ 
+(2) Four members of the Committee shall constitute the quorum for the transaction of business at 
+a meeting of the Committee.  
+ 
+(3) Every member, who is directly or indirectly interested in any matter coming up for 
+consideration at a meeting of the Committee, shall disclose the nature of his interest at such 
+meeting and such disclosure shall be recorded in the proceedings of the meeting of the Committee 
+and such member shall not take part in any deliberation of the Committee with respect to that 
+matter. 
+ 
+Expenses of the Committee.  
+ 
+10. (1) The expenses including travel and other allowances of members of the Committee, who 
+are officials of the Board, and invitees who are officials of the Board, shall be borne by the Board 
+in accordance with their entitlements. 
+(2) The expenses including travel and other allowances of members of the Committee, who are 
+not officials of the Board, and invitees who are not officials of the Board, may be borne by the 
+Fund. 
+ 
+CHAPTER IV 
+INVESTMENT, ACCOUNTS AND AUDIT 
+ 
+Investment, maintenance of accounts and audit of accounts.  
+11. (1) The Board shall ensure maintenance of proper and s eparate accounts and other relevant 
+records in relation to the Fund giving therein the details of all receipts to, and, expenditure from, 
+the Fund and other relevant particulars in accordance with the SEBI (Form of Annual Statement 
+of Accounts and Records) Rules, 1994 as far as such rules apply.  
+ 
+(2) The accounts referred to in sub regulation (1) shall be prepared and audited before the expiry 
+of six months from the end of each financial year.  
+ 
+(3) The investment of the Fund may be in the manner of investments of other funds of the Board. 
+ 
+(4) The accounts of the Fund may be audited in the manner of audit of other accounts of the Board. 
+ 
+CHAPTER V 
+MISCELLANEOUS 
+Power to relax regulations.
+
+[Page 7]
+Page 7 of 8 
+ 
+ 
+12. If in the opinion of the Board, strict enforcement of any regu lation needs to be relaxed to 
+achieve the purpose of investor protection and education, the Board may relax the same. 
+ 
+Delegation of powers.  
+ 
+13. The powers exercisable by the Board under these regulations shall also be exercisable by any 
+member or officer of the Board to whom such powers are delegated by the Board by means of an 
+order made under section 19 of the Act. 
+ 
+Amendments to other Regulation.  
+ 
+14. The regulation mentioned in the Schedule shall be amended in the manner and to the extent 
+specified therein. 
+ 
+ 
+SCHEDULE 
+Securities and Exchange Board of India (Investor Protection and Education Fund) 
+Regulations, 2009 
+[See regulation 14] 
+ 
+Amendments to other regulation Amendment of Securities and Exchange Board of India 
+(Substantial Acquisition of Shares and Takeovers) Regulations, 1997. 
+ 
+1. In regulation 28,  
+ 
+(a) in sub -regulation (12) , for clause (e) , the following shall be substituted, namely: - “(e) the 
+entire amount to the merchant banker, in the event of forfeiture for nonfulfillment of any of the 
+obligations under the Regulations, for distribution in the  following manner, after deduction of 
+expenses, if any, of the merchant banker and the registrars to the offer, -  
+(i) one third of the amount to the target company;  
+(ii) one third of the amount to the Investor Protection and Education Fund established by the Board;  
+(iii) one third of the amount to be distributed pro-rata among the shareholders who have accepted 
+the offer.”  
+ 
+(b) in sub-regulation (13) , for the words “to the regional stock exchange of the target company, 
+for the credit of the Investor Protection Fund or any other similar fund” appearing after the words 
+“ proceeds thereof” the words “to the Investor Protection and Education Fund established by the 
+Board” shall be substituted.
+
+[Page 8]
+Page 8 of 8 
+ 
+Note: 
+ 
+1. The Securities and Exchange Board of India (Investor  Protection and Education Fund) 
+Regulations, 2009 was published in the Gazette of India on 19th May2009 vide notification 
+no. LAD-NRO/GN/2009-10/05/163525. 
+ 
+2. The Securities and Exchange Board of India (Investor Protection and Education Fund) 
+Regulations, 2009, was amended on: 
+ 
+a) January 9, 2014 by the Securities and Exchange Board of India (Investor Protection 
+and Education Fund) (Amendment) Regulations, 2014 vide notification No. 
+LAD/NRO/GN/2013-14/38/49. 
+ 
+b) March 6, 2017 by the Securities and Exchange Board of India (Payment of Fees and 
+Mode of Payment) (Amendment) Regulations, 2017  vide notification No. 
+SEBI/LAD/NRO/GN/2016-17/037. 
+ 
+c) February 28, 2023 by the Securities and Exchange Board of India (Investor Protection 
+and Education  Fund) (Amendment) Regulations, 2023 vide notification No. 
+SEBI/LAD-NRO/GN/2023/126. 
+ 
+d) October 20, 2023 by the Securities and Exchange Board of India (Investor Protection 
+and Education Fund) (Second Amendment) Regulations, 2023 vide notification No. 
+SEBI/LAD-NRO/GN/2023/157. 
+ 
+e) September 02, 202 5 by the Securities and Exchange Board of India (Investor 
+Protection and Education Fund) (Amendment) Regulations, 2025 vide notification No. 
+SEBI/LAD-NRO/GN/2025/256. 
+ 
+*** 
+ 
+[This note does not form a part of the regulations.]

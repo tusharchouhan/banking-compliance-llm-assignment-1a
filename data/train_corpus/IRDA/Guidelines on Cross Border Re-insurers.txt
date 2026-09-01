@@ -1,0 +1,444 @@
+[Page 1]
+INSURANCE REGULATORY AND DEVELOPMENT AUTHORITY OF INDIA 
+ 
+INSTRUCTIONS FOR FILING APPLICATIONS FOR CROSS BRODER RE-
+INSURANCE (CBR) 
+ 
+ 
+FOR ACCESSING CBR PORTAL 
+ 
+1. The portal can be best viewed at 1420 x 768 resolution in latest versions of Google 
+Chrome and Firefox Browsers ONLY. 
+ 
+2. The portal can be accessed at https://cbr.irdai.gov.in/login.aspx. 
+ 
+3. Insurer may use the same User ID/ Password for accessing the portal, which are 
+currently being used by the insurers. 
+ 
+4. Necessary guidance notes for filing the CBR application have been provided below .  
+Insurers are advised to read the instructions stated in the guidance thoroughly, before 
+filing the applications.  
+ 
+5. The portal will be available for access from 23-Jan-2021:09:00 Hrs onwards 
+ 
+In case any technical issues related to accessing of portal, a mail may be sent to 
+ankit@irdai.gov.in under CC to reinsurance@irdai.gov.in
+
+[Page 2]
+INSURANCE REGULATORY AND 
+DEVELOPMENT AUTHORITY OF INDIA 
+ 
+ 
+Guidance Note 
+____________________________________________________ 
+Application filing procedure for allotment of 
+Filing Reference Number (FRN) to Cross Border 
+Re-insurers (CBR) 
+ 
+ 
+Ver 01 
+January 2021 
+ 
+ 
+The Authority vide Ref. No. IRDA/RI/GDL/MISC/015/01/2021 dated 22-Jan-2021 had 
+notified Guidelines on Cross Border Re-insurer.  The insurer who wish to place re-
+insurance business with CBR shall file an online application with the Authority in the 
+form as specified at Annexure – 1 of the guidelines.  To bring consistency in the “data” 
+filed through electronic submission, “Guidance Note on filing the application for 
+allotment of FRN to CBR. While due care had been taken to prepare this Guidance Note, 
+Chief Compliance Officer of the insurer may point out the suitable modifications in this 
+documents which may to be addressed in the subsequent versions. 
+  
+• 
+i.i
+
+[Page 3]
+Screen No. 1 (a) 
+Objective:  On this page it is expected that the complete details of applicant Cross 
+Border Re-insurer (CBR) are to be entered by the insurer who wish to place business 
+with the CBR.  
+ 
+ 
+1. All fields in this application form are mandatory;  
+ 
+2. Registration Valid Upto:   Certain Home Country Regulators / Supervisors will 
+issue registration to the (Re)insurer for limited period say for one year.  While in 
+certain cases such registration may be for indefinite period, in such case insurer 
+may enter this date as 01-Jan-2100;  
+ 
+3. Complete name of Supervisory Authority for the concerned CBR its complete 
+address shall be entered.  The name in abbreviated form is not acceptable; 
+0 · CBRAppli<:;,tron X + 
+~ -, C A Notsecure 10.10.10.71:4441/Users/Crea teApphcat1on.aspx 
+Application for allotment of FRN for 
+FY 
+Name of the CBR (as per CertifIcale of 
+Registra tion) 
+Dale ol lncorporalion 
+Address of Registered oHioe of the 
+CBR 
+Place of Incorporation 
+Address of supervisory Authoftty (as 
+mentioned above) 
+Application ID 
+Application for allotmen t ol FRN for 
+Eligible CBR or Non-EJigible CBR 
+Registra tion Number 
+~ldd_---_-'l'fYY ________ □~I Regis tration valid upto 
+Name of the Supervisory Author ity 
+with whom the Reinsurance Con,pa ny 
+is registered 
+" 
+X 
+New Applicahon 
+1--Select-
+□ I
+
+[Page 4]
+Screen No. 1 (b) 
+Objective:  Same as for Screen No. 1 (a).  
+ 
+4. Place of Office of the CBR: Place of the specific branch office of CBR applying 
+for allotment of FRN should be entered; 
+ 
+5. Name of Country of Domicile: Country where the CBR’s branch office is 
+domiciled would be required and the same can be enter from the drop-down list. 
+ 
+6. Country of tax residency: This pertains to the country where the branch office 
+of CBR is reporting for tax purpose;  
+ 
+7. Complete name of ultimate parent company is to be entered, name in abbreviated 
+form is not acceptable; 
+ 
+  
+New Tab >< 0 -CBR Appl1<at1on X + 
+~ - C A Notsecure 10,10.10.71:4441/Users/CreateApphcation.aspx 
+CBR 
+Place of Incorporation 
+Address ot Supervisory AuthOftty (as 
+mentioned above) 
+As per registration oerUUcate granted 
+by Home Country Regulator or 
+Supervisory Authority the CBA Is 
+Authorised to transact 
+Place of omoe of lhe CBA applying for 
+alk>tment of FAN 
+COuntry of tax residency tor the 
+applicant CBR 
+Names of Group Companies of CBR 
+(com~te names to be given as per 
+certihcate of registratk>n) 
+@2021 - Copynght IRDAI 
+l··S€1ecl-
+l··Seleci-
+Please select a value 
+Sa,e 
+Name of the SuperviSOfY Authority 
+with Whom the Reinsurance Company 
+is registered 
+Home Country Regulator or 
+Supervisory Authority has authof'ised 
+to transact R&insurance business 
+from foreign junsdicUon. 
+Name of the Country in which the 
+above CBR is domiciled 
+Name of ultimale parent Compan y ot 
+CBR (oompiete name lo be given as 
+per certificate of registration} 
+~ 
+" 
+X 
+!··Select-
+!··Select-
+Please select a value
+
+[Page 5]
+Screen No. 2 
+Objective:  To get valid contact details of the officials who are responsible to handle 
+work portfolio as discussed in the heading.  
+ 
+ 
+1. (B) Details of the person responsible for providing requisite information of CBR:  Details of 
+the person/ representative of CBR, who is providing all the information about CBR should be 
+entered. 
+ 
+2. (C) Details of the department person responsible for providing confirmation on receipt of 
+premium by CBR : Details of the person/ representative of CBR, who is providing all the 
+information about CBR should be entered. 
+ 
+  
+0 · C:BRAppli<atron X + X 
+~ - C A Not secure 10.10.10.71:4441/Users/PersonDeta ils.aspx 
+Application ID 2021/000023 
+B Details of lhe person responsb1le for providing requisite mformat1on of CBR 
+Name Designation 
+Busmess Phone Number Email ID 
+Address 
+C.Oeta1ls of the department person responsb1le for prov1d1ng confirmation on receipt of premium by CBR 
+Name Designation 
+Busmess Phone Number Email ID 
+Add ress
+
+[Page 6]
+Screen No. 3 (a)  
+ 
+Objective:  To examine financial strength of the CBR.  
+ 
+1. Amount of Paid-Up Capital & Free Reserves as per last audited Balance 
+Sheet: Values in both fields should be entered in home country currency. Ensure 
+not to enter currency name/abbreviation. Only values to be entered. 
+2. Solvency  Ratio: Kindly enter the relevant data in percentage (%) term for last 3 
+years starting from the year preceding the current year.
+
+[Page 7]
+Screen No. 3 (b) 
+Objective:  To examine financial strength of the CBR.  
+ 
+ 
+ 
+1. Incurred Claims Ratio (ICR) & Combined Ratio for last 3 years: Kindly enter 
+the relevant data in percentage (%) term for last 3 years starting from the year 
+preceding the current year.  
+N_. Tab X 0 -CBR ApplKatron X + 
+f- ➔ C A Notsecure 10.10.10.71:4441/Users/Financia!Position.aspx 
+Solvency Ratio as per home country regulator for last 3 years . 
+Yea, 
+1-Seleci-
+1-Seleci-
+1-Select--
+Regulatory PrescripUon 
+Incurred Claims Rat1o(ICR) and Combined Ratio for last 3 years 
+Year Details OI ICR 
+1-Seleci-
+1--Select-
+1-Seleci-
+@2021 - Copyright IRDAI 
+" 
+X 
+Actual Sotvency Margin of the CBR 
+Details 01 Cont>ined Ratio
+
+[Page 8]
+Screen No. 4 
+ 
+Objective:  To examine previous applications filed by the CBR, if any.  
+ 
+ 
+ 
+  
+New Tab >< 0 -CSR Applteat100 X + C, X 
+C A Not secure 10.10.10.71:4441/Users/Prev1ousFRNDeta1ls.aspx E\ * • e 
+Application ID 2021/000023 
+Details of previous FRN as per IROAI portal and BAP Portal (if any) 
+Year CBR FRN No. BAPFRNNo . 
+1-Se1ec1- v I -Se1ect--
+~l--=s.=,ec=,= __ =========== v=:I -Selec1 ·· 
+vi -Select --
+vi -Select--
+~l-_se_1ec1_--___________ v~I -select-- vi -select--
+Sa,e 
+@2021-CopyrighllROAI
+
+[Page 9]
+Screen No. 5 (a) 
+Objective: To ascertain the business relationship of CBR with Indian market. 
+  
+ 
+  
+0 -CBRAppJi,atron X + 
+f- ➔ C A Not secure 10.10.10.71:4441/Us ers/DetailsRein sur anceBusiness.aspx 
+Application ID 2021/000023 
+'In case of : 
+#Multiple selection in LOBs and list of Indian Re+nsurers, please select after pressing 'Ctr! ' key 
+Details of re-insurance business placed wilh the CBR Amount (INR m lakh} of re-insurance business placed 
+Yea, 
+l-5elect-
+Facultative Treaty 
+1-Selec1-
+I-Select-
+Lines of Business Which the CBR 
+ire (other than Oil & Energy ) 
+Hull 
+~
+ire. (.other than OIi & Energ'/) 111eHull 
+e ea,go 
+gi,--.nng 
+" 
+X
+
+[Page 10]
+Screen No. 5 (b) 
+Objective: To ascertain the business relationship of CBR with Indian market.  
+ 
+ 
+1. Re-insurance premium receipt confirmation from the applicant CBR 
+(B) In case of ‘No’ please furnish reasons for the same duly certified authorized 
+signatory of the CBR: 
+Kindly upload the required document certified by the “CBR” in each case of “No” 
+(Max File size: 1 MB.)  
+  
+0 -CBRAppJi,atron X + 
+f- ➔ C A Not secure 10.10.10.71:4441/Users/DetailsReinsuranceBusiness.aspx 
+1-Seiec1-
+Names of Indian reinsurer lor Whom CBR is 
+DFC U1e Insurance CO lid 
+Lile Insurance CO. lid 
+CICI Prudential Lrte Insurance CO. lid, 
+otak Mahindra Life Insurance Co. Ltd 
+~-.(Other than Oil & Energy) Hull 
+ca,go 
+gineenng 
+Reinsurance premium receipt confirmation from the applicant CBR 
+Yea, The applicant CBR has provided 
+premium oonfirmaUon reoeipts to all 
+Indian insure, 
+~-:'.:Seleci:::=·=======v~! I •-5eiecl v I 
+In case of 'No', please furnish reasons IOf' the same duly cert1lied author ized signatory of the 
+CBR 
+I Choose File ) No tile chosen 
+I Choose File ) No file chosen 
+~-=Sel=ec=I=·· ======v~I I ··Select- v I 
+L-_Set_ec_t_• ___ vJI 1--se100-- v I I Choose File ) No file chosen 
+@2021 - Copyright IRDAI 
+" 
+X
+
+[Page 11]
+Screen No. 6 
+Objective:  To examine compliance with eligibility criterial of the CBR:  
+ 
+1. Credit rating from international credit rating agencies: Kindly enter the relevant 
+data for last 3 years starting from the year preceding the current year. 
+ 
+2. Ensure accurate data entry in all fields.  
+0 -CBRAppJi,atron X + 
+f- ➔ C A Notsecure 10.10.10.71:4441/Users/CreditRating.aspx 
+Applica tion ID 
+Credit Rating from mtematJOnal credit rating agencies 
+Name ol RallrJQ Agency 
+Ll--_sel_ec_l_·· _______ v~I AM Best 
+LI-_Se_lec_t_-_______ v~I AM Best 
+Whether the CBR has over a penod ot the past three years counting from the year preceding tor which the business has to 
+be plaoed , enJOyed a crecht rating of at least BBB (with Standard & Poof) or equsvalenl rating of any other international 
+rating agency? If no, the credit ratings lor past three years be submitted 
+Whether the CBR complies with the solvency margin/capital adequacy proscribed by the respective home regulator 
+Whether the oountry of domicile has signed a Double Taxation Avoidance Agreement with the GoVi!t'nment of India 
+@2021 - Copyright IRDAI 
+" 
+X 
+2021/000023 
+CreditRatng 
+[··select 
+[·•select· 
+[··selecl··
+
+[Page 12]
+Screen No. 7 
+Objective: Details of Authorized signatory of the CBR.  
+ 
+ 
+  
+0 -CBRAppJi,atron X + " 
+X 
+f- ➔ C A Notsecur e 10.10.10.71:4441/Users/DeclarationCBR.aspx 
+Appllcation ID 2021/000023 
+Oeclarat10n Cum Undertaking -
+I / we solemnly declare that the in1om\alion supplied in this application form is true and correct 
+Place Designation 
+Dale 19-01-2021 Name 
+Sa,e 
+@2021 - C,opyright IRDAI
+
+[Page 13]
+Screen No. 8 (a) 
+ 
+1. Re-insurance premium receipt confirmation from the applicant CBR 
+2. (B) In case of ‘No’ please furnish reasons for the same duly certified the Head of 
+Reinsurance Department of the Insurer: 
+Kindly upload the required document certified by the “Head of Reinsurance Dept. 
+Of applicant Insurer” in each case of “No” (Max file Size : 1 MB.)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+0 · C:BRAppli<atron X + 
+Application ID 2021/000023 
+The tiling of this appltcalion is in compliance with Reg 5(2)(8) ol the IRDAI (Re-insurance} - Select--
+Regulations,2018 ~---------------- J 
+In case of No, the insurer has to submit clari fication on the matter 
+Reinsurance prem ium receipt conflrmat10n from the apphcan t CBR 
+Yea, Comments on recipt oontinnation trom the applicanl CBR 
+~·:'.:Select'.::=·=· ======v~I ··Select-
+~·-Selecl __ ·· ___ v~I --seiect-
+~l-_s._,ec_, _____ vJI •-Setecl --
+In case of 'No, p~se tumiSh rea.sons 10f the same duly certified 
+by the Head of Reinsurance Department of the Insurer 
+[ Choose File I No file chosen 
+[ Choose File I No file chosen 
+[ Choose File I No file chOsen 
+The f ollowing are the documentary Requirements m case of Apphcat1on for Non-Ehg1ble CBR 
+X
+
+[Page 14]
+Screen No. 8 (b) 
+Objective: Submissions to be made in case of file application for Non-Eligible CBR.  
+ 
+  
+New Tab >< 0 -CBR Appl1<at1on X + 
+~ - C A Notsec ure 10,10.10.71:4441/Users/NonEligible.aspx 
+Reinsurance prem ium receipt confirmation from the apphcant CBR 
+Yea, Comments on recipt confirmation lrom the applicanl CBA 
+~120_1_7-_20_18 ___ v~I ~Y=••================ :::: 
+12018-2019 v [ Yes 
+~==========~ ~===============:::: ~l20_,_.__2020 ____ v~I -v_ .. ________________ ~ 
+In case of 'No, pk!ase furnish reasons for the same duly oertified 
+by the Head of Reinsur ance Department of the Insurer 
+I Choose Ale I No lile chosen 
+[ Choose File I No file chOsen 
+[ Choose File I No file chosen 
+The following are the documentary Requirements m case of Apphcat1on for Non-Eligible CBR 
+Specific recommnedation of the (re)insurer justifying as to why they would like to make 
+Reinsurance plaoements wtth the refereed CBA even lhough it does not comply with 
+prescribed eligibility criteria 
+Copy 01 registration Certificate issued to CBR by home oountry regulatory/supervisory 
+author ity 
+Signed copy of specific recommendation of the insurer, justifying as lo why they would llke to 
+make Reinsuranoe placements with the referred CBR. Such recommendation shall necessarity 
+be made by the Head of ReinSllrance Department of the Insurer 
+Sa,e 
+@2021 - Copynght IRDAI 
+( Choose File j No file chosen 
+~ 
+" 
+X
+
+[Page 15]
+Screen No. 9 
+ 
+ 
+1. The user will be able to view the details of data submitted in the applicable and 
+take printout for records. 
+ 
+2. Once application is submitted, the same will be available for IRDAI user to process 
+the same. 
+ 
+0 · C:BRAppli<atron X + 
+ApplioaliOn ID 202 1/000023 
+Oeclarat10n Cum Undertaking by CCO of lnd10n (Re) Insu rer-
+a. I/ We solemnly confinn that,belore filing the documents with the Authority , we have oonducled the required due d iltge008 and have scrutinized the documents 
+pertaining to above CBR. 
+b. We ensure strict compllanoo with the eligibility criteria for CBRs as prescribed by the Authority in the extant regulatk>oslguidelines (appllcable in case if, application 
+ftled is tor CBR who comply With eligibihty crderia); 
+c. I/ We undertake that, all informal ion furnished is oorrect. in the event if it is proved that any informa tion submi tted is wrong or incorrect I/ We will be liable subject to 
+the provisions ot the Acts, Regulations and Guidehnes noti fied by the Authority. 
+Place Designalion 
+Dale 19-01-2021 Name 
+@ 2021 - Copynghl IADAI 
+X

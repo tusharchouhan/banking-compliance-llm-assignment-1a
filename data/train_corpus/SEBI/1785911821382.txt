@@ -1,0 +1,1551 @@
+[Page 1]
+Page 1 of 37 
+ 
+ 
+SECURITIES AND EXCHANGE BOARD OF INDIA (FOREIGN PORTFOLIO 
+INVESTORS) REGULATIONS, 2019 
+ 
+(Amended upto July 07, 2026) 
+No. SEBI/LAD-NRO/GN/2019/36 - In exercise of the powers conferred by sub-section (1) of 
+Section 30 read with  sub section  (1)  of  Section  11,  clause  (ba)  of  sub -section  (2)  of 
+Section  11  and  sub-sections (1)  and  (1A)  of  Section 12  of  the  Securities  and  Exchange 
+Board  of  India  Act,  1992,  and  under  Section  25  of  the  Depositories  Act,  1996,    the 
+Securities  and  Exchange  Board  of  India  hereby,  makes  the  following  regul ations, to  
+provide the  framework  for  registration  and  procedures  with  regard  to  foreign  investors  
+who propose to make portfolio investment in India, namely,— 
+ 
+CHAPTER I 
+PRELIMINARY 
+Short title and commencement.  
+1. (1) These regulations may be called the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) Regulations, 2019.  
+(2) They shall come into force on the date of their publication in the Official Gazette. 
+ 
+Definitions. 
+ 2. (1) In these regulations, unless the context otherwise requires, the terms defined herein shall 
+bear the meanings assigned to them below, and their cognate expressions and variations shall 
+be construed accordingly,—  
+(a)  “Act” means the Securities and Exchange Board of India Act, 1992;  
+(b) “appropriately regul ated” entity means an entity which is regulated by the securities 
+market regulator or the banking regulator of home jurisdiction or otherwise, in the same 
+capacity in which it proposes to make investments in India;  
+(c)  “Bilateral Memorandum of Understanding with the Board” shall mean a bilateral 
+Memorandum of Understanding between the Board and any authority outside India that  
+provides for information sharing arrangement as specified under clause (ib) of sub-section 
+(2) of Section 11 of the Act;  
+(d) “Board” means the Securities and Exchange Board of India established under section 3 of 
+the Act;  
+(e) "certificate" means a certificate of registration granted to a foreign portfolio investor by 
+the designated depository participant on behalf of the Board under these regulations;
+
+[Page 2]
+Page 2 of 37 
+ 
+(f) “control” includes the right to appoint majority of the directors or to control the 
+management or policy decisions exercisable by a person or persons acting individually or 
+in concert, directly or indirectly, including by virtue of shareholding or management rights 
+or shareholders agreements or voting agreements or in any other manner; 
+(g) “custodian” means a person registered under the Securities and Exchange Board of India 
+(Custodian) Regulations, 1996;  
+(h) "designated bank" means a scheduled bank in I ndia, which has been authorised by the 
+Reserve Bank of India to act as a banker to foreign portfolio investors;  
+(i) “designated depository participant” means a person who has been approved by the Board 
+under Chapter III of these regulations;  
+(j) “foreign portfolio investor” means a person who has been registered under Chapter II of 
+these regulations and shall be deemed to be an intermediary in terms of the provisions of 
+the Act; 
+(k)  "Form" means an application form for obtaining registration as foreign portfolio investor 
+as notified by the Government of India or as specified by the Board;  
+(l) "International Financial Services Centre" or "IFSC" shall have the same meaning as 
+assigned to it in clause (q) of section 2 of the Special Economic Zones Act, 2005; 
+(m)  “investment manager” shall include an entity performing the role of investment 
+management or any equivalent role, including trustee(s); 
+(n) “non-resident Indian” and “overseas citizen of India” shall have the same meaning as 
+assigned to such terms under 1[rule 2 of the Foreign Exchange Management (Non -debt 
+Instruments) Rules, 2019] made under the Foreign Exchange Management Act, 1999;  
+(o) "offshore derivative instrument" means any instrument, by whatever name called, which 
+is issued overseas by a foreign portfolio investor against securities held by it in India , as 
+its underlying;  
+2[(p)]  “resident Indian” shall have the same meaning assigned to the term “person resident in 
+India” under the Foreign Exchange Management Act, 1999; 
+3[(q)] "Schedule" means a Schedule to these regulations;  
+4[(r) “Single Window Automatic and Generalised Access for Trusted Foreign Investor” or 
+“SWAGAT-FI” shall, subject to conditions as may be specified by the Board from time 
+to time, include the following: 
+                                                           
+1 Substituted for “regulation 2 of the Foreign Exchange Management (Transfer or Issue of Security by a Person 
+Resident Outside India) Regulations, 2017” by the SEBI (Foreign Portfolio Investors) (Amendment) Regulation, 
+2019, w.e.f. 19-12-2019. 
+2 Substituted for “ (q)” by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second 
+Amendment) Regulations, 2025, w.e.f. 1-06-2026. 
+3 Substituted for “ (r)” by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second 
+Amendment) Regulations, 2025, w.e.f. 1-06-2026. 
+4 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 1-06-2026.
+
+[Page 3]
+Page 3 of 37 
+ 
+ (i) Government and G overnment related investors as provided under sub -clause (i) of 
+clause (a) of regulation 5 of these regulations;  
+(ii) Public retail funds as defined in the Explanation clause under sub -regulation (4) of 
+regulation 22 of these regulations;] 
+(s) ‘stock exch ange’ means a recognised stock exchange under the Securities Contracts 
+(Regulation) Act, 1956.  
+(2) Words and expressions used and not defined in these regulations, but defined in the Act or 
+the Foreign Exchange Management Act, 1999, the Companies Act, 201 3, the Securities 
+Contracts (Regulation) Act, 1956, the Depositories Act, 1996 or the rules and regulations made 
+thereunder shall have the same meaning respectively assigned to them in those Acts or rules or 
+regulations or any statutory modification or re-enactment thereto.  
+ 
+CHAPTER II 
+REGISTRATION OF FOREIGN PORTFOLIO INVESTORS 
+ 
+Application for grant of certificate as a foreign portfolio investor.  
+3. (1) No person shall buy, sell or otherwise deal in securities as a foreign portfolio investor 
+unless it has obtained a certificate granted by a designated depository participant on behalf of 
+the Board.  
+Explanation – An offshore fund floated by an asset management company that has received 
+no-objection certificate in accordance with the Securities and Exchange Board of India (Mutual 
+Funds) Regulations, 1996, shall be required to obtain registration as a foreign portfolio 
+investor, for investment in securities in India, within one hundred and eighty days from the 
+date of notification of these regulations. 
+(2) An application for the grant of certificate as a foreign portfolio investor shall be made to a 
+designated depository participant in  the Form 5[and manner] specified by the Government or 
+the Board from time to time and shall be supported by 6[***] 7[any documents in the manner 
+specified by the Board from time to time].  
+ 
+Eligibility criteria of foreign portfolio investor.  
+4 A designated depository participant shall consider an application for grant of certificate of 
+registration as a foreign portfolio investor if the applicant satisfies the following conditions 
+namely: -   
+                                                           
+5 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2023 w.e.f.15-03-2023. 
+6 The words ‘the fee specified in Part A of the Second Schedule and ’ omitted by the Securities and Exchange 
+Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 2026 w.e.f. 03-01-2027.  
+7 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2023 w.e.f.15-03-2023.
+
+[Page 4]
+Page 4 of 37 
+ 
+(a) the applicant is not a resident Indian;  
+(b) the applicant is not a non-resident Indian or an overseas citizen of India; 
+8[(c) non-resident Indians or overseas citizens of India or resident Indian individuals may 
+be constituents of the applicant 9[subject to the following conditions: 
+(i) the contribution of a single non -resident Indian or overseas citizen of India or 
+resident Indian individual shall be below twenty -five percent of the total 
+contribution in the corpus of the applicant; 
+(ii) the aggregate contribution of non -resident Indians, overseas citizens of India 
+and resident Indian individuals in the corpus of the applicant shall be below fifty 
+percent of the total contribution in the corpus of the applicant; 
+(iii) the contribution of resident Indian individuals shall be made through the 
+Liberalised Remittance Scheme notified by the Reserve Bank of India and shall 
+be in global funds whose Indian exposure is less than fifty percent; 
+(iv) the non -resident Indians, overseas citizens of India and resident Indian 
+individuals shall not be in control of the applicant; and 
+(v) any other conditions as may be specified by the Board from time to time.] 
+10[Provided that the provisions of sub-clauses (i), (ii) and (iv) of clause (c) shall not be 
+applicable to foreign portfolio investor who invests only in  Government Securities, in 
+accordance with the conditions as may be specified by the Board from time to time.] 
+11[Provided further that a mutual fund registered under the Securities and Exchange 
+Board of India (Mutual Fund s) Regulations, 1996 may also be co nstituent of the 
+applicant, subject to such conditions as may be specified by the Board from time to 
+time:] 
+Provided 12[further] that resident Indian other than individuals, may also be constituents 
+of the applicant, subject to the following conditions, namely –  
+(i) such resident Indian, other than individuals, is an eligible fund manager of the 
+applicant, as provided under sub -section (4) of section 9A of the Income Tax 
+Act, 1961 (43 of 1961); and 
+                                                           
+8 Substituted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) 
+Regulations, 2021 w.e.f. 03-08-2021. Prior of the substitution, clause (c) read as under –   “(c) non-resident Indians 
+or overseas citizens of India or resident Indian individuals can be constituents of the applicant provided they meet 
+conditions specified by the Board from time to time;” 
+9 Substituted for “provided they meet the conditions specified by the Board from time to time:” by the Securities 
+and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) Regulations, 2024, w.e.f. 26 -
+06-2024. 
+10 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2025, w.e.f. 08-02-2026. 
+11 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 3-12-2025. 
+12 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2025, w.e.f. 08-02-2026.
+
+[Page 5]
+Page 5 of 37 
+ 
+(ii) the applicant is an eligible investment fund as provided under sub-section (3) of 
+section 9A of the Income Tax Act, 1961 (43 of 1961) which has been granted 
+approval under the Income Tax Rules, 196213[:]] 
+14[Provided further that resident Indian, other than individuals, may also be constituents 
+of the applicant, subject to the following conditions, namely – 
+(i) the applicant is an Alternative Investment Fund 15[or a Retail Scheme] setup in 
+the International Financial Services Centres and regulated by the International 
+Financial Services Centres Authority;  
+(ii) such resident Indian, other than individuals, is a 16[fund management entity or 
+its associate] of the applicant; and 
+(iii) the contribution of such resident Indian, other than individuals, shall be up to- 
+(a) 17[10% of the corpus of the applicant in case the applicant is an Alternative 
+Investment Fund; or]   
+(b) 18[10% of the Assets under Management in case the applicant is a Retail 
+scheme;]] 
+19[Explanation – ‘fund management entity’ and ‘associate’ shall have the 
+meaning as provided under International Financial Services Centres Authority 
+(Fund Management) Regulations, 2025 as amended from time to time.] 
+20[Provided further that the provisions of sub -clause (ii) of clause (c) shall not be 
+applicable to an applicant, regulated by the International Financial Services Centres 
+Authority and based in the International Financial Services Centres in India and subject 
+to conditions as may be specified by the Board: 
+21[Provided further that the provisions of sub -clause (ii) of clause (c) shall not be 
+applicable to a SWAGAT-FI.] 
+                                                           
+13 Substituted for “;” by the SEBI (Foreign Portfolio Investors) (Second Amendment) Regulation, 2021, w.e.f. 26-
+10-2021. 
+14 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2021, w.e.f. 26-10-2021. 
+15 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 3-12-2025. 
+16 Substituted for “ Sponsor or Manager ” by the Securities and Exchange Board of India  (Foreign Portfolio 
+Investors) (Second Amendment) Regulations, 2025, w.e.f. 3-12-2025. 
+17 Substituted for “2.5% of the corpus of the applicant or US $ 7,50,000 (whichever is lower), in case the applicant 
+is a Category I or Category II Alternative Investment  Fund” by the Securities and Exchange Board of India 
+(Foreign Portfolio Investors) (Second Amendment) Regulations, 2025, w.e.f. 3-12-2025. 
+18 Substituted for “5% of the corpus of the applicant or US $ 1.5 million (whichever is lower), in case the applicant 
+is a Category III Alternative Investment Fund” by the Securities and Exchange Board of India (Foreign Portfolio 
+Investors) (Second Amendment) Regulations, 2025, w.e.f. 3-12-2025. 
+19 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 3-12-2025. 
+20 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2024, w.e.f. 26-06-2024. 
+21 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 1-06-2026.
+
+[Page 6]
+Page 6 of 37 
+ 
+Provided further that the existing exemptions specified by the Board in relation to the  
+conditions under sub-clauses (i) to (iv) of clause (c) of this regulation as on the date of 
+notification of the Securities and Exchange Board of India (Foreign Portfolio Investors) 
+(Second Amendment) Regulations, 2024 shall continue to remain in force.] 
+(d) the applicant is a resident of the country whose securities market regulator is a signatory 
+to the International Organization of Securities Commission’s Multilateral 
+Memorandum of Understanding (Appendix A Signatories) or a signatory to the bilateral 
+Memorandum of Understanding with the Board: 
+Provided that an applicant being Government or Government related investor shall be 
+considered as eligible for registration, if such applicant is a resident in the country as 
+may be approved by the Government of India; 
+(e) the applicant being a bank is a resident of a country whose central bank is a member of 
+Bank for International Settlements: 
+Provided that a central bank applicant need not be a member of Bank for International 
+Settlements; 
+(f) the applicant or its underlying investors contributing 22[more than the threshold 
+prescribed under sub -rule (3) of rule 9 of the Prevention of Money -laundering 
+(Maintenance of Records) Rules, 2005 ] in the corpus of the applicant or identified on 
+the basis of control, shall not be the person(s) mentioned in the Sanctions List notified 
+from time to time by the United Nations Security Council and is not a resident in the 
+country identified in the public statement of Financial Action Task Force as –   
+(i) a jurisdiction having a strategic  Anti-Money Laundering or Combating the 
+Financing of Terrorism deficiencies to which counter measures apply; or  
+(ii) a jurisdiction that has not made sufficient progress in addressing the deficiencies or 
+has not committed to an action plan developed with the Financial Action Task Force to 
+address the deficiencies;  
+(g) the applicant is a fit and proper person based on the criteria specified in Schedule II of 
+the Securities and Exchange Board of India (Intermediaries) Regulations, 2008; 
+(h) any other criteria specified by the Board from time to time: 
+Provided that clause (a), (d) and (e) shall not apply to an applicant incorporated or 
+established in an International Financial Services Centre. 
+ 
+Categories of foreign portfolio investor.  
+5. An applicant seeking registration as a foreign portfolio investor  may apply in one of the 
+categories mentioned hereunder or any other category as may be specified by the Board from 
+time to time –   
+                                                           
+22 Substituted for the words “twenty-five per cent or more” by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Second Amendment) Regulations, 2023 w.e.f. 10-08-2023.
+
+[Page 7]
+Page 7 of 37 
+ 
+(a) "Category I foreign portfolio investor" which shall include –  
+(i) Government and Government related investors such as central banks, sovereign 
+wealth funds, international or multilateral organizations or agencies  including 
+entities controlled or at least 75% directly or indirectly owned by such 
+Government and Government related investor(s); 
+(ii) Pension funds and university funds;  
+(iii)Appropriately regulated entities such as insurance or reinsurance entities, banks, 
+asset management companies, investment managers , inv estment advisors, 
+portfolio managers, broker dealers and swap dealers; 
+(iv)  Entities from the Financial Action Task Force member countries 23[, or from 
+any country specified by the Central Government by an order or by way of an 
+agreement or treaty with other sovereign Governments,] which are –  
+I. appropriately regulated funds; 
+II. unregulated funds whose investment manager is appropriately regulated 
+and registered as a Category I foreign portfolio investor: 
+Provided that the investment manager undertakes the responsibility of 
+all the acts of commission or omission of such unregulated fund; 
+III. university related endowments of such universities that have  been in 
+existence for more than five years; 
+(v) An entity (A) whose investment manager is from  the Financial Action Task 
+Force member country  and such an investment manager is registered as a 
+Category I foreign portfolio investor ; or (B) which is at least seventy-five per 
+cent owned, directly or indirectly by an other entity, eligible under sub -clause 
+(ii), (iii) and (iv) of clause (a) of this regulation and such an eligible entity is 
+from a Financial Action Task Force member country: 
+Provided that such an investment manager or eligible entity undertakes the 
+responsibility of all the acts of commission or omission of the applicants seeking 
+registration under this sub-clause. 
+(b) "Category II foreign portfolio investor" shall include all the investors not eligible under 
+Category I foreign portfolio investors such as –  
+(i) appropriately regulated funds not eligible as Category -I foreign portfolio 
+investor; 
+(ii) endowments and foundations; 
+(iii) charitable organisations; 
+(iv) corporate bodies; 
+                                                           
+23 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2020
+
+[Page 8]
+Page 8 of 37 
+ 
+(v) family offices; 
+(vi) Individuals; 
+(vii) appropriately regulated entities investing on behalf of their client, as per 
+conditions specified by the Board from time to time; 
+(viii) Unregulated funds in the form of limited partnership and trusts;   
+Explanation: An applicant incorporated or established in an International Financial Services 
+Centre shall be deemed to be appropriately regulated. 
+ 
+ 
+Furnishing of information, and personal representation.  
+6.(1) The Board or the designated depository participant may require the applicant to furnish 
+such further information or clarification as may be considered necessary for the grant of the 
+certificate of registration as a foreign portfolio investor.  
+(2) The applicant or his authorised representative shall, if so required by the Board or the 
+designated depository participant, appear before them for personal representation in connection 
+with the grant of a certificate.  
+ 
+Certificate of registration  
+7.(1) The designated depository participant shall on behalf of the Board grant the certificate of 
+registration, bearing registration number generated by 24[the Board], as specified in the First 
+Schedule to an applicant if it is satisfied that the applicant is eligible and fulfils the requirements 
+as specified in these regulations.  
+(2) The designated depository participant shall endeavour to dispose of the application for grant 
+of certificate of registration as soon as possible but not later than thirty days after receipt of 
+application by the designated depository participant , or after the information called for under 
+regulation 6 has been furnished; whichever is later.  
+(3) Upon grant of c ertificate of registration to the applicant, the designated depository 
+participant shall remit the fees, as specified in Part A of the Second Schedule, received from 
+the applicant to the Board.  
+ (4) If an applicant seeking registration as a foreign portfo lio investor has any grievance with 
+respect to its application or if the designated depository participant has any question in respect 
+of interpretation of any provision of this regulation, it may approach the Board for appropriate 
+instructions.  
+ (5) The foreign portfolio investor need s to have a valid registration as long as it is holding 
+securities or derivatives in India:    
+                                                           
+24 Substituted for “National Securities Depositories Limited” by the Securities and Exchange Board of I ndia 
+(Foreign Portfolio Investors) (Amendment) Regulations, 2022 w.e.f. 14 -01-2022.
+
+[Page 9]
+Page 9 of 37 
+ 
+25[Provided that a foreign portfolio investor, whose certificate of registration is not valid as on 
+the date of commencement of the  Securities and Exchange Board of India (Foreign Portfolio 
+Investors) (Amendment) Regulations, 202 4 and is holding securities or derivatives in India, 
+shall be allowed to sell such securities or wind up their open position in derivatives in India 
+within three hundred and sixty days from the date of commencement of the Securities and 
+Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 202 4 , in 
+the manner specified by the Board.] 
+26[(6) A foreign portfolio investor shall pa y the registration fees, as provided in Part A of the 
+Second Schedule for every block of three years, before the beginning of such block: 
+Provided that the foreign portfolio investor shall be considered to have paid the registration 
+fees in accordance with  this sub-regulation, if it pays the registration fees along with the late 
+fee, as provided in Part A of the Second Schedule, within a period of thirty days from the date 
+of expiry of the preceding block: 
+Provided further that if the foreign portfolio investor does not pay the required registration fee 
+and the late fee as may be applicable and continues to hold securities or derivatives in India, it 
+shall be allowed to sell such securities or wind up their open position in derivatives in India 
+within three hundred and sixty days from the date of expiry of thirty days as provided above, 
+under such terms and conditions and in such manner as may be specified by the Board, from 
+time to time. 
+27[Provided further that a SWAGAT-FI shall pay the registration fees, as provided in Part A of 
+the Second Schedule for every block of ten years, before the beginning of such block.] 
+(7) The additional period granted under sub -regulations (5) and (6) of this regulation shall be 
+without prejudice to any action as may be init iated by the Board in accordance with the 
+provisions of the Act and the regulations framed thereunder. 
+(8) A foreign portfolio investor whose certificate of registration is not valid and has not sold 
+off the securities or wound up their open position in de rivatives in India as per the provisions 
+of these regulations shall be deemed to have written off the securities in such manner as may 
+be specified by the Board from time to time.] 
+ 
+Application to conform to the requirements  
+8 (1) An application for grant of certificate of registration to act as a foreign portfolio investor, 
+which is not complete in all respects or is false or misleading in any material particular or does 
+                                                           
+25 Substituted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) 
+Regulations, 2024 w.e.f. 03-06-2024. Prior to substitution, the proviso read as under:  
+“Provided that a foreign portfolio investor whose registration is not valid and who is holding securities or 
+derivatives in India shall be allowed to sell such securities or wind up their open position in derivatives within 
+one year from the date of publication of these regulations.”. 
+26 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2024 w.e.f. 03-06-2024. 
+27 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 1-06-2026.
+
+[Page 10]
+Page 10 of 37 
+ 
+not satisfy the requirements specified in these regulations shall be deemed to be def icient and 
+liable to be rejected by the designated depository participant: 
+Provided that before rejecting any such application, the applicant shall be given a reasonable 
+opportunity of being heard and to remove the deficiency, within the time as specified by the 
+designated depository participant.  
+(2) The decision to reject the application shall be communicated by the designated depository 
+participant to the applicant in writing indicating the grounds for rejection of the application.  
+(3) The applicant, wh o is aggrieved by the decision of the designated depository participant 
+under sub -regulation (1) may, within a period of thirty days from the date of receipt of 
+communication under sub-regulation (2), apply to the Board for reconsideration of the decision 
+of the designated depository participant: 
+Provided that such application for reconsideration shall not be considered by the Board where 
+the rejection was on account of technical reasons such as non -submission of complete 
+information, documents, including non-payment of specified fees.  
+(4) The Board shall, as soon as possible, after considering  the submissions made in the 
+application seeking reconsideration made under sub -regulation (3) and after giving a 
+reasonable opportunity of being heard, communicate its decision in writing to the applicant. 
+ 
+ Suspension, cancellation or surrender of certificate.  
+9. (1) Subject to the compliance with the provisions of the Act, these regulations and the 
+circulars issued thereunder, the registration granted by the designated depository participant   
+on behalf of the Board under these regulations shall be permanent unless suspended or 
+cancelled by the Board or surrendered by the foreign portfolio investor.  
+(2) The suspension and cancellation of the certificate of registration granted by the Board under 
+these regulations, shall be dealt with in the manner as provided in Chapter V of the Sec urities 
+and Exchange Board of India (Intermediaries) Regulations, 2008.  
+(3) When the foreign portfolio investor fails to  pay the required fees for continuance of 
+registration within the specified due date and such foreign portfolio investor does not have any 
+cash or security or derivative position in India, such foreign portfolio investor shall be deemed 
+to have applied for surrender of its registration  and the designated depository participant of 
+such foreign portfolio investor shall process the surrender after obtaining the approval from the 
+Board. 
+28[Explanation: For the purpose of this sub-regulation, a foreign portfolio investor who has paid 
+the registration fee and the late fee in accordance with sub -regulation (6) of regulation 7 shall 
+be considered to have paid the required fees within the specified due date.] 
+                                                           
+28 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2024 w.e.f. 03-06-2024.
+
+[Page 11]
+Page 11 of 37 
+ 
+(4) Any foreign portfolio investor desirous of surrendering the certificate of registration may 
+request for such surrender to the designated depository participant who shall accept the 
+surrender of the certificate of registration after obtaining approval from the Board. 
+ (5) While accepting the surrender of registration, the designated depository participant may 
+impose such conditions as may be specified by the Board.  
+ 
+CHAPTER III 
+APPROVAL OF DESIGNATED DEPOSITORY PARTICIPANT 
+ 
+Application to act as a designated depository participant. 
+10. (1) No person shall act as a designated depository participant unless it has obtained the 
+approval of the Board.  
+(2) An application for approval to act as a designated depository participant shall be made to 
+the Board through a depository with which the applicant has an agreement to act as a participant 
+and shall be accompanied by the application fee specified in Part B of the Second Schedule 
+which shall be paid in the manner specified therein.  
+(3) The depository shall forward the application to the Board, as early as possible, but not later 
+than thirty days from the date of its receipt by the depository, along with its recommendations 
+and after certifying that the participant has complied with the eligibility criteria as provided for 
+in these regulations.  
+ 
+Eligibility criteria of designated depository participant.   
+11. (1) The Board shall not consider an application fo r the grant of approval as designated 
+depository participant unless the applicant satisfies the following conditions,   
+(a) the applicant is a registered depository participant under the Securities and Exchange 
+Board of India (Depositories and Participants) Regulations, 1996;  
+(b) the applicant is a registered Custodian under the Securities and Exchange Board of India 
+(Custodian) Regulations, 1996;  
+(c) the applicant is an Authorised Dealer Category-1 bank authorised by the Reserve Bank 
+of India under the Foreign Exchange Management Act, 1999;  
+(d) the applicant has a multinational presence , either through its branches or through 
+agency relationships with overseas intermediaries regulated in their respective home 
+jurisdictions;  
+(e) the applicant has systems and procedures to c omply with the requirements of the 
+Financial Action Task Force Standards, Prevention of Money Laundering Act, 2002, 
+Rules prescribed thereunder and the circulars issued from time to time by the Board;
+
+[Page 12]
+Page 12 of 37 
+ 
+(f) the applicant is a fit and proper person based on the criteria specified in Schedule II of 
+the Securities and Exchange Board of India (Intermediaries) Regulations, 2008; and  
+(g) any other criteria as may be specified by the Board from time to time.  
+(2) Notwithstanding anything contained in sub-regulation (1) of this regulation, the Board may 
+consider an application from an entity, regulated in India or in its home jurisdiction, for grant 
+of approval to act as designated depository participant, upon being satisfied that the applicant 
+has sufficient experience in providing custodial services and that the grant of such approval is 
+in the interest of the development of the securities market:  
+Provided that such entity   shall be registered with the Board as a participant  and custodian, 
+and shall have a tie up with Authorised Dealer Category-1 bank.  
+ 
+Furnishing of information, clarification and personal representation.  
+12. (1) The Board may require the applicant or the depository of which the applicant is  a 
+participant to furnish such further information or clarification as may be considered necessary 
+for grant of approval to act as a designated depository participant.  
+(2) The applicant or its authorised representative shall, if so required by the Board, appear 
+before it for personal representation in connection with the grant of approval.  
+ 
+Procedure for granting of approval to designated depository participant.  
+13. (1) After considering the application made under regulation 1 0 of these regulations , the 
+Board may grant approval to the applicant, upon being satisfied that the applicant is eligible 
+and fulfils the requirements as specified in these regulations including payment of fees as 
+specified in Part B of Second Schedule.  
+(2) The Board shall dispose of the application for grant of approval as soon as possible but not 
+later than thirty days after receipt of application by the Board or, after all the information called 
+for under regulation 12 has been furnished, whichever is later.  
+ 
+Application to conform to the requirements.  
+14. An application for grant of approval to act as designated depository participant which is 
+not complete in all respects or is false or misleading in any material particular, shall be deemed 
+to be deficient and shall be liable to be rejected by the Board:  
+Provided that, before rejecting any such application, the applicant shall be given a reasonable 
+opportunity to remove the deficiency, within the time as specified by the Board. 
+ 
+Procedure where approval is not granted.
+
+[Page 13]
+Page 13 of 37 
+ 
+15. (1) Where an application for grant of an approval does not satisfy the requirements specified 
+in these regulations, the Board may reject the application after giving the applicant a reasonable 
+opportunity of being heard.  
+(2) The decision to reject the application shall be communicated by the Board to the applicant 
+in writing stating therein the grounds on which the application has been rejected.  
+(3) The applicant, who is aggrieved by the decision of the Board under sub-regulation (1) may, 
+within a period of thirty days from the date of receipt of communication under sub -regulation 
+(2), apply to the Board for reconsideration of its decision.  
+(4) The Board shall, as soon as possible, in light of the submissions made in the application for 
+reconsideration made under sub -regulation (3) and after giving a reasonable opportunity of 
+being heard, convey its decision in writing to the applicant.  
+ 
+Validity of approval.  
+16. Subject to the compliance with the provisions of the Act, these regulations and the circulars 
+issued thereunder, the approval granted by the Board under these regulations shall be 
+permanent unless suspended or withdrawn by the Board or surrendered by the designated 
+depository participant.  
+Suspension or withdrawal of approval.  
+17. Where any designated depository participant who has been granted approval under these 
+regulations-  
+(a) fails to comply with any conditions subject to which an approval has been granted to 
+him under these regulations, or 
+(b) contravenes any of the provisions of the securities laws or directions, instructions or 
+circulars issued thereunder;  
+the Board may, without prejudice to any action under the securities laws or directions, 
+instructions or circulars issued thereunder, by an order suspend or withdraw such approval after 
+providing the designated depository participant a reasonable opportunity of being heard.  
+ 
+Surrender of approval.  
+18. (1) Any designated depository participant, who has been granted approval under these 
+regulations, desirous of surrendering the approval granted, may make a request for such 
+surrender to the Board.  
+(2) While accepting the surrender under sub -regulation (1), the Board may impose such 
+conditions as it deems fit for the protection of investors or the clients of the designated 
+depository participant or the securities market and such person shall comply with such 
+conditions.  
+CHAPTER IV 
+INVESTMENT CONDITIONS AND RESTRICTIONS
+
+[Page 14]
+Page 14 of 37 
+ 
+ 
+Commencement of investment. 
+19. No foreign portfolio investor shall make an y investment in securities in India without 
+complying with the provisions of this Chapter.  
+ 
+Investment restrictions.  
+20. (1) A foreign portfolio investor shall invest only in the following securities, namely-  
+(a) shares, debentures and warrants issued by a body corporate; listed or to be listed on a 
+recognized stock exchange in India; 
+(b)  units of schemes launched by mutual funds under Chapter V, VI-A and VI -B of the 
+Securities and Exchange Board of India (Mutual Fund) Regulations, 1996; 
+(c) units of schemes floated by a Collective Investment Scheme in accordance with the 
+Securities and Exchange Board of India (Collective Investment Schemes) Regulations, 
+1999;  
+(d) derivatives traded on a recognized stock exchange;  
+(e) units of real estate investment trust s, infrastructure investment trusts and units of 
+Category III Alternative Investment Funds registered with the Board; 
+(f) Indian Depository Receipts;   
+(g) any debt securities or other instruments as permitted by the Reserve Bank of India for 
+foreign portfolio investors to invest in from time to time; and 
+(h) such other instruments as specified by the Board from time to time.  
+(2) Where a foreign portfolio investor, prior to commencement of these regulations, holds 
+equity shares in a company whose shares are not listed on any recognised stock exchange, and 
+continues to hold such shares after  the initial public offering and listing thereof, such shares 
+shall be subject to lock-in for the same period, if any, as is applicable to shares held by a foreign 
+direct investor placed in similar position, under the policy of the Government of India relating 
+to foreign direct investment for the time being in force.  
+(3) Nothing contained in sub -regulation (2) shall be deemed to prejudice the applicability of 
+any other law, regulation or guideline.  
+(4) In respect of investments in the secondary market, the following additional conditions shall 
+apply –   
+(a) A foreign portfolio investor shall transact in the securities in India only on the basis of 
+taking and giving delivery of securities purchased or sold; 
+(b) Nothing contained in clause (a) shall apply to –   
+(i) any transactions in derivatives on a recognized stock exchange;  
+(ii) short selling transactions in accordance with the framework specified by the 
+Board;
+
+[Page 15]
+Page 15 of 37 
+ 
+(iii) any transaction in securities pursuant to an agreement entered into with the 
+merchant banker in the process of market making or subscribing to 
+unsubscribed portion of the issue in accordance with Chapter IX of the 
+Securities and Exchange Board of India (Is sue of Capital and Disclosure 
+Requirements) Regulations, 2018;  
+(iv) any other transaction specified by the Board; 
+(c) The transaction involving dealing in securities by a foreign portfolio investor shall be 
+only through stock brokers registered with the Board;  
+(d) Nothing contained in clause (c) of this sub-regulation shall apply to –   
+(i) transactions in Government securities and such other securities falling under 
+the purview of the Reserve Bank of India carried out in the manner as specified 
+by the Reserve Bank of India;  
+(ii) sale of securities in response to a letter of offer sent by an acquirer in 
+accordance with the Securities and Exchange Board of India (Substantial 
+Acquisition of Shares and Takeovers) Regulations, 2011;  
+(iii) sale of securities in response to an offer made by any promoter or acquirer in 
+accordance with the Securities and Exchange Board of India (Delisting of 
+Equity shares) Regulations, 2009;  
+(iv) sale of securities in accordance with the Securities and Exchange Boa rd of 
+India (Buy-back of Securities) Regulations, 2018;  
+(v) divestment of securities in response to an offer by Indian companies in 
+accordance with Operative Guidelines for Disinvestment of Shares by Indian 
+Companies in the overseas market through issue of Am erican Depository 
+Receipts or Global Depository Receipts as notified by the Government of India 
+from time to time;  
+(vi) any bid for, or acquisition of, securities in response to an offer for disinvestment 
+of shares made by the Central Government or any State Government;  
+(vii) any transaction in securities pursuant to an agreement entered into with 
+merchant banker in the process of market making or subscribing to 
+unsubscribed portion of the issue in accordance with Chapter IX of the 
+Securities and Exchange Board of I ndia (Issue of Capital and Disclosure 
+Requirements) Regulations, 2018;  
+(viii)   transactions in corporate bonds by foreign portfolio investors;  
+(ix) transactions on the electronic book provider platform of recogni sed stock 
+exchanges; 
+(x) transactions to receive, hold and sell unlisted securities as referred at regulation 
+20(2) and transactions in unlisted securities received through involuntary 
+corporate actions  including a scheme of a merger or demerger approved in 
+accordance with the provisions of the Companies Act, 20 13 as well as the
+
+[Page 16]
+Page 16 of 37 
+ 
+applicable guidelines issued by the Board or pursuant to implementation of any 
+resolution plan approved under the Insolvency and Bankruptcy Code, 2016 or 
+in accordance with the guidelines issued by  the Government of India  or the 
+Reserve Bank of India or any other regulator for a scheme of debt resolution:  
+Provided that such unlisted holdings of the foreign portfolio investor shall be 
+treated as Foreign Direct Investment; 
+(xi) transactions for transfer of right entitlements; 
+(xii) purchase or sale transactions of illiquid or suspended or delisted securities by 
+a foreign portfolio investor; 
+Explanation – Illiquid securities shall mean those securities that are not 
+frequently traded in terms of Securities and Exchange Board of India (Issue of 
+Capital and Disclosure Requirements) Regulations, 2018;   
+(xiii)  transactions between registered foreign portfolio investors, who are multi 
+investment manager structure of the same beneficial owner and have common 
+Permanent Account Number; and 
+(xiv) any other transaction as may be specified by the Board; 
+(e) A foreign portfolio investor shall hold, deliver or cause to be delivered securities only 
+in the dematerialized form:  
+Provided that any shares held in the physical form, before the commencement of these 
+regulations, may c ontinue to be held in the physical form, if such shares cannot be 
+dematerialised: 
+Provided further that all the Rights Entitlements may be held or transferred in non -
+dematerialized form. 
+ (5) In respect of investments in the debt securities, the foreign portfolio investors shall also 
+comply with terms, conditions or directions, specified or issued by the Board or Reserve Bank 
+of India, from time to time, in addition to other conditions specified in these regulations.  
+ (6) Unless otherwise approved by the Board, securities shall be registered in the name of the 
+foreign portfolio investor as a beneficial owner as defined in clause (a) of sub -section (1) of 
+section 2 of the Depositories Act, 1996.  
+(7) The purchase of equity shares of each company by  a single foreign portfolio investor 
+including its investor group shall be below ten per cent of the total paid-up equity capital on a 
+fully diluted basis of the company: 
+Provided that where the total investment under these regulations by a foreign portfolio investor 
+including its investor group exceeds the threshold of  below ten per cent of  the total paid 
+up equity capital in a listed or to be listed company on a fully diluted basis, the foreign portfolio 
+investor shall divest the excess holding within five trading days from the date of settlement of 
+the trades resulting in the breach: 
+Provided further that in case the foreign portfolio investor fails to divest the excess holding , 
+the entire investment in the company by such foreign portfolio investor including its investor
+
+[Page 17]
+Page 17 of 37 
+ 
+group shall be considered as investment under the Foreign Direct Investment , as per the 
+procedure specified by the Board and the foreign portfolio investor and its investor group shall 
+not make further portfolio investment in that company under these regulations,  
+ 
+Explanation I – ‘investor group’ shall have the meaning as provided under regulation 22(3) of 
+these regulations.  
+Explanation II – ‘fully diluted  basis’ means the total number of shares that would be 
+outstanding if all possible sources of conversion are exercised. 
+(8) An entity, registered as a  foreign portfolio investor shall be permitted to invest in Indian 
+securities as a person resident outside  India in accordance with provisions of 29[the Foreign 
+Exchange Management Act, 1999, rules and regulations made thereunder]. 
+(9) 30[***] 
+(10) A foreign portfolio investor may lend or borrow securities in accordance with the 
+framework specified by the Board in this regard.  
+(11) The investment by the foreign portfolio investor shall also be subject to such other 
+conditions and restrictions as may be specified by the Government of India from time to time.  
+ 
+Conditions for issuance of offshore derivative instruments.  
+21. (1) No foreign portfolio investor may issue, subscribe to or otherwise deal in offshore 
+derivative instruments, directly or indirectly, unless the following conditions are satisfied –   
+(a) such offshore derivative instruments are issued only by persons registered as Category 
+I foreign portfolio investor;  
+(b) such offshore derivative instruments are issued only to persons eligible for registration 
+as Category I foreign portfolio investors; 
+Explanation – For the purpose of this sub-regulation, where an entity has an investment 
+manager who is from the Financial Action Task Force member country, the investment 
+manager shall not be required to be registered as a Category I foreign portfolio investor;  
+(c) such offshore derivative instruments are issued after compliance with  the ‘know your 
+client’ norms as specified by the Board; and 
+(d) such other conditions as may be specified by the Board from time to time. 
+                                                           
+29 Substituted for “Foreign Exchange Management (Transfer or Issue of Security by a Person Resident Outside 
+India) Regulations, 2017 made under the Foreign Exchange Management Act, 1999” by the SEBI (Foreign 
+Portfolio Investors) (Amendment) Regulation, 2019, w.e.f. 19-12-2019. 
+30 Sub-regulation 9 omitted by the SEBI (Foreign Portfolio Investors) (Amendment) Regulation, 2019, w.e.f. 19 -
+12-2019. Prior to the omission, Sub-clause 9 read as under: 
+“In cases where the Government of India enters into agreements or treaties with other sovereign Governments and 
+where such agreements or treaties specifically recognize certain entities to be distinct and separate, the Board 
+may, during the validity of such agreements or treaties, recognize them as such, subject to conditions as may b e 
+specified by it.”
+
+[Page 18]
+Page 18 of 37 
+ 
+(2) A foreign portfolio investor shall ensure that any transfer of offshore derivative instruments 
+issued by or on behalf of it, is subject to the following conditions –   
+(a) such offshore derivative instruments are transferred to persons subject to the fulfilment 
+of sub-regulation (1); and  
+(b) prior consent of the foreign portfolio investor is obtained for such transfer, except in 
+cases, where the persons to whom the offshore derivative instruments are to be 
+transferred, are pre-approved by the foreign portfolio investor. 
+(3) A foreign portfolio investor shall fully disclose to the Board any information concerning 
+the terms of and parties to off-shore derivative instruments, by whatever names they are called, 
+entered into by it relating to any securities listed or proposed to be listed in any stock exchange 
+in India, as and when and in such form as the Board may specify.  
+(4) A foreign portfolio investor shall collect the regulatory fee, as specified in Part C of the 
+Second Schedule, from every subscriber of the offshore derivative instrument issued by it and 
+deposit the same with the Board. 
+CHAPTER V 
+GENERAL OBLIGATIONS AND RESPONSIBILITIES OF FOREIGN PORTFOLIO 
+INVESTORS 
+ 
+General obligations and responsibilities of foreign portfolio investors. 
+22. (1) The foreign portfolio investor shall –   
+(a) comply with the provisions of these regulations, as far as they may apply, circulars 
+issued thereunder and any other terms and conditions specified by the Board from time 
+to time;  
+(b) 31[32[***]] inform the Board and designated depository participant in writing, if any 
+information or particulars previously submitted to the Board or designated depository 
+participant are found to be false or misleading, in any material respect33[, in the manner 
+and within the timelines as may be specified by the Board from time to time];  
+(c) 34[35[***] inform the Board and designated depository participant in writing, if there is 
+any material change in  the  information  including  any  direct  or  indirect  change  in  
+                                                           
+31 Substituted for the words “forthwith” by the Securities and Exchange Board of India (Foreign Portfolio 
+Investors) (Amendment) Regulations, 2023 w.e.f.15-03-2023. 
+32 The words and symbol ‘as soon as possible but not later than seven working days,’ omitted by the Securities 
+and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 2024 w.e.f. 03 -06-2024.  
+33 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2024 w.e.f. 03-06-2024. 
+34Substituted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) 
+Regulations, 2023 w.e.f.15-03-2023. Prior to its substitution, clause (c) read as under,- 
+“(c) forthwith inform the Board and designated depository participant in writing, if there is any material change 
+in the information including any direct or indirect change in its structure or ownership or control, previousl y 
+furnished by him to the Board or designated depository participant;” 
+35 The words and symbol ‘as soon as possible but not later than seven working days,’ omitted by the Securities 
+and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 2024 w.e.f. 03-06-2024.
+
+[Page 19]
+Page 19 of 37 
+ 
+its structure  or  ownership  or  control or investor group previously  furnished  by  him  
+to  the  Board  or designated depository participant 36[, in the manner and within the 
+timelines as may be specified by the Board from time to time];] 
+(d) as and when req uired by the Board or any other Government agency in India, submit 
+any information, record or documents in relation to its activities as a foreign portfolio 
+investor;  
+(e) 37[38[***]] inform the Board and the designated depository participant, in case of any 
+penalty, pending litigation or proceedings, findings of inspections or investigations for 
+which action may have been taken or is in the process of being taken by an overseas 
+regulator against it 39[, in the manner and within the timelines as may be specified by 
+the Board from time to time];  
+(f) obtain a Permanent Account Number from the Income Tax Department;  
+(g) in relation to its activities as foreign portfolio investor, at all times, subject itself to the 
+extant Indian laws, rules, regulations, guidelines and circulars issued from time to time;  
+(h) be a fit and proper person based on the criteria specified in Schedule II of the Securities 
+and Exchange Board of India (Intermediaries) Regulations, 2008;  
+(i) undertake necessary KYC on its shareholders/investors in accordance with the rules 
+applicable to it in the jurisdiction where it is organised;  
+(j)  provide any additional information or documents including beneficiary ownership 
+details of their cl ients as may be required by the designated depository participant or 
+the Board or any other enforcement agency to ensure compliance with the Prevention 
+of Money Laundering Act, 2002 and the rules and regulations specified thereunder, the 
+Financial Action T ask Force standards and circulars issued from time to tim e by the 
+Board; and 
+(k) ensure that securities held by foreign portfolio investors are free from all encumbrances.  
+Explanation – An encumbrance created to meet any statutory and regulatory 
+requirements shall not be considered under this clause.  
+40[(l) ensure that accurate details regarding its investor group are maintained with its 
+designated depository participant at all times.] 
+                                                           
+36 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2024 w.e.f. 03-06-2024. 
+37 Substituted for the words “forthwith” by the Securities and Exchange Board of India ( Foreign Portfolio 
+Investors) (Amendment) Regulations, 2023 w.e.f.15-03-2023. 
+38 The words and symbol ‘as soon as possible but not later than seven working days,’ omitted by the Securities 
+and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 2024 w.e.f. 03-06-2024.  
+39 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2024 w.e.f. 03-06-2024. 
+40 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2023 w.e.f.15-03-2023.
+
+[Page 20]
+Page 20 of 37 
+ 
+41[Provided that the provisions of this clause shall not be applicable to foreign portfolio 
+investor who invests only in Government Securities, in accordance with the conditions 
+as may be specified by the Board from time to time.] 
+(2) In case of jointly held depository accounts, each of the joint holders shall meet the 
+requirements specified for foreign portfolio investor and each shall be deemed to be holding a 
+depository account as a foreign portfolio investor.  
+(3) Multiple entities registered as foreign portfolio investors  42[other than foreign portfolio 
+investor who invests only in Government Securities, in accordance with the conditions as may 
+be specified by the Board from time to time, ] and directly or indirectly, having common 
+ownership of more than fifty per cent or common control, shall be treated as part of the same 
+investor group and the investment limits of all such entities shall be clubbed at the investment 
+limit as applicable to a single foreign portfolio investor:  
+Provided that in case the limit is breached due to transacti on(s) by foreign portfolio investors 
+under these regulations, the excess holding shall be divested within five trading days from the 
+date of settlement of the trades causing the breach. 
+Provided further that in case the foreign portfolio investor fails to divest the excess holding, 
+the entire investment in the company by such foreign portfolio investors including its investor 
+group shall be considered as investment under the Foreign Direct Investment as per the 
+procedure specified by the Board and the foreign portfolio investor and its investor group shall 
+not make further portfolio investment in that company under these regulations. 
+(4) Notwithstanding anything contained in sub-regulation (3), the clubbing of investment limit 
+of foreign portfolio investors having common control shall not be applicable where –  
+(a) foreign portfolio investors are appropriately regulated public retail funds; or 
+(b) the foreign portfolio investors are public retail funds  where the majority is owned by 
+appropriately regulated public retail fund on look through basis; or 
+(c) foreign portfolio in vestors are public retail funds and investment managers of such 
+foreign portfolio investors are appropriately regulated. 
+Explanation - Public retail funds means - 
+(i) mutual funds or unit trusts which are open for subscription to retail investors 
+and which do not have specific investor type requirements like accredited 
+investors; 
+(ii) insurance companies where segregated portfolio with one to one correlation 
+with a single investor is not maintained; and 
+(iii)pension funds. 
+                                                           
+41 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2025, w.e.f. 08-02-2026. 
+42 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2025, w.e.f. 08-02-2026.
+
+[Page 21]
+Page 21 of 37 
+ 
+43[(5) In case of any direct or indirect change i n structure or common ownership or control of 
+the foreign portfolio  investor or investor group,  it shall 44[***] bring  the  same  to  the  notice  
+of  its  designated depository participant 45[, in the manner and within the timelines as may be 
+specified by the Board from time to time].] 
+46[Provided that the provisions of this sub-regulation shall not be applicable to foreign portfolio 
+investor who invests only in Government Securities, in accordance with the conditions as may 
+be specified by the Board from time to time.] 
+47[(6) A foreign portfolio investor that fulfils the criteria specified by the Board from time to 
+time, shall provide information or documents in relation to the persons with any ownership, 
+economic interest or control, in the foreign portfolio investor. 
+(7) The information or documents specified in sub -regulation (6) shall be provided in the 
+manner as may be specified by the Board from time to time.] 
+ 
+Code of conduct.  
+23. A foreign portfolio investor shall, at all times, abide by the code of conduct as specified in 
+the Third Schedule of these regulations.  
+ 
+Engagement of designated depository participant  
+24. An applicant seeking registration as a foreign portfolio investor shall engage a designated 
+depository participant to avail its services for obtaining a certificate of registration as foreign 
+portfolio investor and at all times the designated depository participant and the custodian of the 
+foreign portfolio investor shall be the same entity. 
+ 
+48[Dispute Resolution. 
+24A. All claims, differences or disputes between a foreign portfolio investor and a designated 
+depository participant arising out of or in relation to the activities of the designated depository 
+participant in the securities market shall be submitted to a disp ute resolution mechanism that 
+                                                           
+43 Substituted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) 
+Regulations, 2023 w.e.f.15-03-2023. Prior to its substitution, sub-regulation (5) read as under,- 
+“(5) In case of any direct or indirect change in structure or common ownership or control of the foreign portfolio 
+investor, it shall forthwith bring the same to the notice of its designated depository participant.”  
+44 The words and symbol ‘ ,as soon as possible but not later than seven working days,’ omitted by the Securities 
+and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 2024 w.e.f. 03 -06-2024.  
+45 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2024 w.e.f. 03-06-2024. 
+46 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2025, w.e.f. 08-02-2026. 
+47 Inserted by the the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2023 w.e.f. 10-08-2023. 
+ 
+ 
+48 Inserted by the Securities and Exchange Board of India (Alternative Dispute Resolution Mechanism) 
+(Amendment) Regulations, 2023, w.e.f. 04-07-2023.
+
+[Page 22]
+Page 22 of 37 
+ 
+includes mediation and/or conciliation and/or arbitration, in accordance with the pr ocedure 
+specified by the Board.] 
+ 
+Appointment of custodian.  
+25. (1) A foreign portfolio investor or a global custodian who is acting on behalf of the foreign 
+portfolio investor, shall enter into an agreement with the designated depository participant 
+engaged by it to act as a custodian, before making any investment under these regulations.  
+(2) In addition to the obligation of custodian under any other regulations, the custodian shall –   
+(a) report to the depositories and the Board on a daily basis the transactions entered into by 
+the foreign portfolio investor in the form and manner specified by the Board or 
+depositories from time to time;  
+(b) monitor investment of the foreign portfolio investors;  
+(c) maintain the relevant true and fair records, books of accounts, and documents including 
+the records relating to transactions of foreign portfolio investors;  
+(d) report the holdings of foreign portfolio investors who form part of investor group to the 
+depositories and the depositories shall club the investment limits to ensure that 
+combined holdings of all these foreign portfolio investors remains below ten per cent 
+of the total paid-up equity capital on a fully diluted basis of a investee company at any 
+time.  
+ 
+Appointment of designated bank.  
+26. A foreign portfolio investor shall appoint a branch of a bank authorised by the Reserve 
+Bank of India for opening a foreign currency denominated account and special non -resident 
+rupee account before making any investments in India.  
+ 
+Appointment of compliance officer.  
+27. (1) Every foreign portfolio investor shall appoint a compliance officer who shall be 
+responsible for monitoring the compliance of the Act, rules and regulations, notifications, 
+guidelines and instructions issued by the designated depository participant or the Board or the 
+Central Government: 
+Provided that in case of a foreign portfolio investor who is an individual, such individual shall 
+be responsible for monitoring the compliance of the Act, rules and regulations, notifications, 
+guidelines and instructions issued by the designated depository participant or the Board or the 
+Central Government.  
+(2) The compliance officer shall immediately and independently report any non-compliance 
+observed by him to the Board and the designated depository participant.
+
+[Page 23]
+Page 23 of 37 
+ 
+Investment advice in publicly accessible media.  
+28. (1) A foreign portfolio investor, or any of its employees shall not render directly or 
+indirectly any investment advice about any security in the publicly accessible media, whether 
+real-time or otherwise, unless a disclosure of its interest including long or short position in the 
+said security has been made, while rendering such advice.  
+(2) In case, an employee of the foreign portfolio investor is rendering such advice, he shall also 
+disclose the interest of his dependent family members and his employer including their long or 
+short position in the said security, while rendering such advice.  
+ 
+Maintenance of proper books of accounts, records and documents. 
+29. Every foreign por tfolio investor shall mainta in the following books of accounts, records 
+and documents, namely –   
+(a) true and fair accounts relating to remittanc es of funds to India for buying and  selling; 
+and realising capital gains or losses on investment made from such remittances;  
+(b) bank statement of accounts;  
+(c) contract notes relating to purchase and sale of securities; and  
+(d) communication including in electronic mode from and to the designated depository 
+participants, stock brokers and depository participants regarding investments in 
+securities.  
+Preservation of books of accounts, records and documents.  
+30. Subject to the provisions of any other law, for the time being in force, every foreign 
+portfolio investor shall preserve the books of accounts, records and documents specified in 
+regulation 29 for a minimum period of five years from the date of approval of the surrender or 
+cancellation of registration by the Board.  
+ 
+CHAPTER VI 
+GENERAL OBLIGATIONS AND RESPONSIBILITIES OF DESIGNATED 
+DEPOSITORY PARTICIPANTS 
+ 
+Obligations and responsibilities of designated depository participants. 
+31. (1) All designated depository participants who have been granted approval by the Board 
+shall -  
+(a) comply with the provisions of these regulations, as far as they may apply, circulars 
+issued thereunder and any other terms and conditions specified by the Board from time 
+to time;
+
+[Page 24]
+Page 24 of 37 
+ 
+(b) 49[ as soon as possible but not later than two working days,] inform the Board in writing, 
+if any information or particulars previously submitted to the Board are found to be false 
+or misleading, in any material respect;  
+(c) 50[ as soon as possible but not later than two working days,] inform the Board in writing, 
+if there is any material change in the information previously furnished by him to the 
+Board;  
+(d) furnish such information, record or documents to the Board and Reserve Bank of India, 
+as may be required, in relation to its activities as a designated depository participant;  
+(e) ensure that only registered foreign portfolio investors are allowed to invest in securities 
+market;  
+(f) have adequate systems to ensure that in case of jointly held depository accounts, each 
+of the joint holders meet the requirements specified for foreign portfolio investors and 
+shall perform KYC due diligence for each of the joint holders;  
+(g) in case of any penalty, pending litigation or proceedings, findings of inspections or 
+investigations for which action may have been taken or is in the process of being taken 
+by any regulator against a designated depository participant, the designated depository 
+participant shall bring such information 51[ as soon as possible but not later than two 
+working days], to the attention of the Board, depositories and stock exchanges;  
+(h) be guided by the relevant circular on Anti -Money Laundering or Combating the 
+Financing of Terrorism specified by the Board from time to time.  
+(2) The designated depository participant engaged by an applicant seeking registration as 
+foreign portfolio investor shall –   
+(a) ascertain at the time of granting registration and whenever applicable, whether the 
+applicant forms part of any investor group;  
+(b) open a dematerialized account for the applicant only after ensuring compliance with all 
+the requirements under Prevention of Money Laundering Act, 2002 and rules and 
+regulations specified thereunder, Financial Action Task Force standards and circulars 
+issued by the Board in this regard, from time to time and shall also ensure that foreign 
+portfolio investors comply with all these requirements on an ongoing basis;  
+(c) carry out necessary due diligence to ensure that no other depository account per 
+depository is held by any of the concerned applicant as a foreign portfolio investor, 
+before opening a depository account 
+Provided that a f oreign portfolio investor can open separate depository accounts for 
+holding securities under the Voluntary Retention Route  or any other scheme as 
+specified by the Reserve Bank of India or the Board;  
+                                                           
+49 Substituted for the words “forthwith” by the Securities and Exchange Board of India (Foreign Portfolio 
+Investors) (Amendment) Regulations, 2023 w.e.f.15-03-2023. 
+50 Ibid. 
+51 Substituted for the words “forthwith” by the Securities and Exchange Board of India (Foreign Portfolio 
+Investors) (Amendment) Regulations, 2023 w.e.f.15-03-2023.
+
+[Page 25]
+Page 25 of 37 
+ 
+(d) collect and remit fees to the Board, in the manner as specified in Part A of Second 
+Schedule; and  
+(e) in case of change in structure or constitution or direct or indirect change in common 
+ownership or control reported by the foreign portfolio investor, re-assess the eligibility 
+of such foreign portfolio investor. 
+(3) The designated depository participant shall maintain segregation of activities such that there 
+is no conflict of interest between the activity of grant of registration to a foreign portfolio 
+investor in the capacity of a designated depository participant and its other activities.  
+(4) The designated depository participant shall submit the reports as specified by the Board 
+from time to time. 
+(5)  The designated depository participant shall carry out an annual review of its systems, 
+procedures and controls by an independent professional.  
+Explanation: The review shall cover the systems and procedures being followed by them to 
+meet its obligations towards its clients, regulators and other relevant bodies and compliance 
+with the requirements of the regulations and circulars issued by the Board.  
+(6) The designated depository participant shall furnish to the Board annual audit reports on its 
+internal control for a particular calendar year within ninety days of the next calendar year.  
+(7) The designated depository participant shall submit the Action Taken Report, if any, on the 
+audit report on a quarterly basis to the Board. 
+ 
+52[Investor Charter. 
+31A. The designated depository participant shall ensure compliance with the Investor Charter 
+specified by the Board from time to time.] 
+ 
+Maintenance of proper books of accounts, records and documents. 
+32. (1) Every designated depository participant shall maintain the relevant true and fair records, 
+books of accounts, and documents including the physical or electronic record s relating to 
+registration of foreign portfolio investors.  
+(2) The designated depository participant shall intimate to the Board in writing the location 
+where such books, records and documents shall be maintained.  
+(3) Subject to the provisions of any oth er law for the time being in force, every designated 
+depository participant shall preserve the books of accounts, physical or electronic records and 
+documents specified in this regulation at all times.  
+ 
+Appointment of compliance officer.  
+                                                           
+52 Inserted by the Securities and Exchange Board of India (Investor Charter) (Amendment) Regulations, 2025 
+w.e.f. 10-02-2025.
+
+[Page 26]
+Page 26 of 37 
+ 
+33. (1) Every designated depository participant shall appoint a compliance officer who shall be 
+responsible for monitoring the compliance of the Act, rules and regulations, notifications, 
+guidelines and instructions issued by the Board or the Central Government.  
+(2) The compliance officer shall immediately and independently report any non-compliance 
+observed by him to the Board.  
+ 
+Information to the Board or the Reserve Bank of India.  
+34. Every designated depository participant shall, as and when required by the Board or the 
+Reserve Bank of India, submit to the Board or the Reserve Bank of India, as the case may be, 
+any information, such records or documents in relation to its activities of foreign portfolio 
+investor.  
+ 
+Investment advice in publicly accessible media.  
+35. (1) A designated depository participant, or any of its employees shall not render directly or 
+indirectly any investment advice about any security in the publicly accessible media, whether 
+real-time or otherwise, unless a disclosure of its interest including long or short position in the 
+said security has been made, while rendering such advice.  
+(2) In case, an employee of the designated depository participant is rendering such advice, he 
+shall also disclose the interest of his dependent family members and his employer including 
+their long or short position in the said security, while rendering such advice.  
+ 
+CHAPTER VII 
+INSPECTION 
+ 
+Board's right to inspect. 
+36. The Board may suo moto or upon receipt of any information or complaint, appoint one or 
+more persons as inspecting authority to undertake inspection of the books of account, records 
+and documents relating to a designated depository participant for any of the following 
+purposes, namely, -   
+(a) to ensure that the books of account, records including telephone records and electronic 
+records and documents are being maintained by the designated depository participants;  
+(b) to ascertain whether any circumstances exist that would render the designated 
+depository participants unfit or ineligible;  
+(c) to inquire into the complaints received from investors, clients, other market participants 
+or any other person on any matter having a bearing on the activities of the designated 
+depository participants;  
+(d) to ascertain whether the provisions of the securities laws and the directions or circulars 
+issued thereunder are being complied with by the designated depository participants;
+
+[Page 27]
+Page 27 of 37 
+ 
+(e) to ascertain whether the systems, procedures and safeguards which have been 
+established and are being followed by the designa ted depository participants are 
+adequate; and  
+(f) to investigate suo moto into the affairs of the designated depository participants in the 
+interest of the securities market or in the interest of investors.  
+ 
+Notice before inspection. 
+37. (1) Before undertaking an inspection under regulation 36, the Board shall give not less than 
+ten days’ notice to the designated depository participants:  
+Provided that where the Board is satisfied that, in the interest of the investors, no such notice 
+should be given, it may, by an order in writing direct that such inspection be taken up without 
+such notice.  
+(2) During the course of an inspection, the designated depository participants against whom 
+the inspection is being carried out shall be bound to discharge its obligation  as provided in 
+regulation 38.  
+ 
+Obligations of designated depository participants in connection with inspection by the 
+Board.  
+38. (1) It shall be the duty of the designated depository participants whose affairs are being 
+inspected, and of every director,  officer and employee thereof to produce to the inspecting 
+officer such books, securities, accounts, records and other documents in its custody or control 
+and furnish him with such statements and information relating to its activities, as the inspecting 
+officer may require, within such reasonable period as the inspecting officer may specify.  
+(2) The designated depository participants shall allow the inspecting officer to have reasonable 
+access to the premises occupied by such designated depository particip ant or by any other 
+person on its behalf and also extend reasonable facility for examining any books, records, 
+documents and computer data in the possession of the designated depository participants or 
+such other person and also provide copies of documents or other materials which in the opinion 
+of the inspecting officer are relevant for the purposes of the inspection.  
+(3) The inspecting officer, in the course of inspection, shall be entitled to examine or to record 
+the statements of any director, officer or employee of the designated depository participants.  
+(4) It shall be the duty of every director, officer or employee of the designated depository 
+participants to give to the inspecting officer all assistance in connection with the inspection, 
+which the inspecting officer may reasonably require. 
+Submission of report to the Board.  
+39. The inspecting officer shall, as soon as possible, on completion of the inspection or 
+investigation as the case may be, submit a report to the Board:  
+Provided that if direc ted to do so by the Board, the inspecting officer  may submit interim 
+report(s).
+
+[Page 28]
+Page 28 of 37 
+ 
+ 
+Action on inspection report.  
+40. The Board shall after consideration of the inspection report, take such action as it may deem 
+fit including action under Chapter V of the Se curities and Exchange Board of India 
+(Intermediaries) Regulations, 2008.  
+ 
+Appointment of an auditor.  
+41. The Board shall have the power to appoint an auditor to inspect or investigate, as the case 
+may be, into the books of account, records, documents, infrastructures, systems and procedures 
+or affairs of the applicant or the designated depository participants, as the case may be:  
+Provided that the auditors so appointed shall have the same powers as vested in the inspecting 
+officer under regulation 3 6 and the applicant or designated depository participants and its 
+directors, officers and employees shall be und er the same obligations, towards the auditor so 
+appointed, as are mentioned in regulation 38.  
+ 
+Board to recover the expenses.  
+42. The Board shall be entitled to recover from the designated depository participants or 
+applicant, as the case may be, such expenses including the fees paid to the auditors as may be 
+incurred by it for the purposes of inspecting or investigating the books of account, records, 
+documents, infrastructures, systems and procedures or affairs of the designated depository 
+participants or applicant, as the case may be.  
+ 
+ 
+CHAPTER VIII 
+PROCEDURE FOR ACTION IN CASE OF DEFAULT 
+ 
+Liability for action in case of default.  
+43. A foreign portfolio investor, designated depository participant, depository or any other 
+person who contravenes any of t he provisions of these regulations shall be liable for action 
+under the Securities and Exchange Board of India (Intermediaries) Regulations, 2008 or the 
+relevant provisions of the Act or the Depositories Act, 1996  and the regulations made 
+thereunder.  
+ 
+53[CHAPTER VIII-A 
+POWER TO RELAX STRICT ENFORCEMENT OF THE REGULATIONS 
+                                                           
+53 Inserted by the SEBI (Regulatory Sandbox) (Amendment) Regulations, 2020, w.e.f. 17 -04-2020.
+
+[Page 29]
+Page 29 of 37 
+ 
+Exemption from enforcement of the regulations in special cases. 
+43A. (1) The Board may, exempt any person or class of persons from the operation of all or 
+any of the provisions of these re gulations for a period as may be specified but not exceeding 
+twelve months, for furthering innovation 54[***] relating to testing new products, processes, 
+services, business models, etc. in live environment of regulatory sandbox in the securities 
+markets. 
+(2) Any exemption granted by the Board under sub -regulation (1) shall be subject to the 
+applicant satisfying such conditions as may be specified by the Board including conditions to 
+be complied with on a continuous basis. 
+Explanation. — For the purposes of these regulations, "regulatory sandbox" means a  live 
+testing environment where new  products, processes, services, business models, etc. may be 
+deployed on a limited set of eligible customers for a specified period of time, for furthering 
+innovation in the securities market , subject to such conditions as may be specified by the 
+Board.] 
+ 
+55[Exemption from strict enforcement of the regulations in other cases. 
+43B. (1) The Board may suo motu or on an application made by a foreign portfolio investor, 
+for reasons recorded in writing, grant relaxation from the strict enforcement of any of the 
+provisions of these regulations, subject to such conditions as the Board deems fit to impose in 
+the interests of investors and the securities market and for the development of the securities 
+market, if the Board is satisfied that: 
+(a) the non-compliance is caused due to factors beyond the control of the entity; or 
+(b)  the requirement is procedural or technical in nature.  
+(2) The application referred to under sub -regulation (1)  shall be accompanied by a non -
+refundable fee of 56[Rs. 90,000 in eligible foreign exchange equivalent ] payable by way of 
+NEFT/ RTGS/ IMPS or any other mode allowed by the Reserve Bank of India in the designated 
+bank account of the Board.] 
+ 
+ 
+ 
+ 
+ 
+CHAPTER IX 
+                                                           
+54 The words “in technological aspects” omitted by the Securities and Exchange Board of India (Regulatory 
+Sandbox) (Amendment) Regulations, 2021, w.e.f. 03-08-2021. 
+55 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2022 w.e.f. 14-01-2022. 
+56 Substituted for  “US $ 1,000 ” by the  Securities and Exchange Board of India (Foreign Portfolio Investors) 
+(Amendment) Regulations, 2026 w.e.f. 03-01-2027.
+
+[Page 30]
+Page 30 of 37 
+ 
+MISCELLANEOUS 
+ 
+Power of the Board to issue clarifications.  
+44. In order to remove any difficulties in the application or interpretation of the provisions of 
+these regulations, the Board may issue clarifications and guidelines in the form of circulars or 
+issue separate circular or guidelines or framework for each categ ory of foreign portfolio 
+investors or designated depository participant.  
+ 
+Repeal, rescission and saving.  
+45. (1) The Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 
+2014 shall stand repealed.  
+(2) Notwithstanding such repeal–   
+(a) anything done or any action taken or purported to have been done or taken, including 
+registration or approval granted, fees collected, registration or approval, suspended or 
+cancelled, any adjudication, enquiry or investigation commenced or show-cause notice 
+issued under the repealed regulations, shall be deemed to have been done or taken under 
+the corresponding provisions of these regulations;  
+(b) a foreign portfolio investor registered under the Securities and Exchange Board of India 
+(Foreign Portfolio I nvestor) Regulations, 2014 sh all be re -categorised by their 
+respective designated depository participant; 
+(c) any offshore derivative instrument issued under the Securities and Exchange Board of 
+India (Foreign Portfolio Investors) Regulations, 2014 befor e the commencement of 
+these regulations shall be deemed to have been issued under the corresponding 
+provisions of these regulations; 
+(d) any application made to the Board under the repealed regulations, prior to such repeal, 
+and pending before it shall be deem ed to have been made under the corresponding 
+provisions of these regulations; and 
+(e) the  previous  operation  of  the  repealed  regulations  or  anything  duly  done  or 
+suffered thereunder, any right, privilege, obligation or liability acquired, accrued or  
+incurred under the repealed regulations, any penalty, incurred in respect of any violation 
+committed against the repealed regulations, or any  investigation,  legal  proceeding  or  
+remedy  in  respect  of  any  such  right, privilege,  obligation,  liabi lity,  penalty as  
+aforesaid, shall remain unaffected as if the repealed regulations has never been 
+repealed; 
+(3) After the repeal of Securities and Exchange Board of India (Foreign Portfolio Investors) 
+Regulations, 2014, any reference thereto in any other regulations made, guidelines or circulars 
+issued thereunder by the Board shall be deemed to be a reference to the corresponding 
+provisions of these regulations.
+
+[Page 31]
+Page 31 of 37 
+ 
+FIRST SCHEDULE 
+SECURITIES AND EXCHANGE BOARD OF INDIA 
+(FOREIGN PORTFOLIO INVESTORS) REGULATIONS, 2019 
+[See regulation 7(1)] 
+CERTIFICATE OF REGISTRATION 
+ 
+I. In exercise of the powers conferred by sub -section (1A) of section 12 of the Securities and 
+Exchange Board of India Act, 1992 (the “Act”), read with the regulations made thereunder the 
+Board hereby grants a certificate of registration to _________________________________ as 
+a foreign portfolio investor, subject to the conditions specified in the Act and in the regulations 
+made thereunder.  
+II. The category  and sub -category of the foreig n portfolio investor is _______ and 
+__________respectively. 
+III. The registration number for the foreign portfolio investor is …/.../.../.../....  
+57[IV. The date of Birth/Incorporation/Agreement/Partnership or Trust Deed/Formation of 
+Body of Individuals or Association of Persons of the foreign portfolio investor is  ../../….] 
+58[V.] The address of the foreign portfolio investor is __________________. 
+59[VI.] This certificate shall be valid till it is suspended, cancelled or surrendered in accordance 
+with the Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 
+2019. 
+ 
+Date:  
+Place:  
+By Order  
+Signature  
+Name and Designation of the Authorised Signatory of  
+Designated depository participant 
+Issued on behalf of 
+Securities and Exchange Board of India 
+  
+                                                           
+57 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2026 w.e.f. 07-07-2026. 
+58 Renumbered as paragraph V. by the Securities and Exchange Board of India (Foreign Portfolio Investors) 
+(Amendment) Regulations, 2026 w.e.f. 07-07-2026. 
+59 Renumbered as paragraph VI. by the Securities and Exchange Board of India (Foreign Portfolio Investors) 
+(Amendment) Regulations, 2026 w.e.f. 07-07-2026.
+
+[Page 32]
+Page 32 of 37 
+ 
+SECOND SCHEDULE 
+PART A 
+PAYMENT OF FEES APPLICABLE TO FOREIGN PORTFOLIO INVESTOR 
+[See regulation 3 and regulation 7(3)] 
+Registration Fee 
+ (1) Foreign portfolio investor belonging to Category I and II shall pay registration fees of 60[ 
+Rs. 2,30,000 and Rs. 23,000 in eligible foreign exchange equivalent ], respectively or any other 
+amount specified by the Board from time to time 61[prior to the grant of certificate of 
+registration] to the designated depository participant. 
+(2) Foreign portfolio investor belonging to Category I and II shall pay registration fees for 
+every block of three years, till the validity of its registration,  
+62[Provided that a SWAGAT-FI shall pay registration fees for every block of ten years, till the 
+validity of its registration.] 
+(3) International or multilateral agency such as World Bank and other institutions, established 
+outside India for providing aid, which have been granted privileges and immunities fr om 
+payment of tax and duties by the Central Government shall be exempted from the payment of 
+registration fees. 
+(4) The designated depository participants of the respective foreign portfolio investors shall 
+collect the registration fees in advance once in every three years from all the foreign portfolio 
+investors registered by it, and remit the fees to the Board in the manner specified by the Board 
+from time to time 63[:] 
+64[Provided that a foreign portfolio investor shall, wherever applicable, pay the late fee of 65[ 
+Rs. 4,500 in eligible foreign exchange equivalent ] per day for Category I and 66[ Rs. 500 in 
+eligible foreign exchange equivalent] per day for Category-II foreign portfolio investors.] 
+67[Provided further that in case of a SWAGAT-FI, the registration fees shall be collected in 
+advance once in every ten years.] 
+                                                           
+60 Substituted for the words and symbols “US $2500 and US $250” by the Securities and Exchange Board of India 
+(Foreign Portfolio Investors) (Amendment) Regulations, 2026, w.e.f. 03-01-2027. 
+61 Substituted for the words “at the time of submission of the Form ” by the Securities and Exchange Board of 
+India (Foreign Portfolio Investors) (Amendment) Regulations, 2026, w.e.f. 03-01-2027. 
+62 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 1-06-2026. 
+63 Substituted for the symbol “.” by  the Securities and Exchange Board of India (Foreign Portfolio Investors) 
+(Amendment) Regulations, 2024 w.e.f. 03-06-2024. 
+64 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Amendment) Regulations, 
+2024 w.e.f. 03-06-2024. 
+65 Substituted for the words and symbols “US $50 ” by the Securities and Exchange Board of India ( Foreign 
+Portfolio Investors) (Amendment) Regulations, 2026, w.e.f. 03-01-2027. 
+66 Substituted for the words and symbols “US $5 ” by the Securities and Exchange Board of India ( Foreign 
+Portfolio Investors) (Amendment) Regulations, 2026, w.e.f. 03-01-2027. 
+ 
+67 Inserted by the Securities and Exchange Board of India (Foreign Portfolio Investors) (Second Amendment) 
+Regulations, 2025, w.e.f. 1-06-2026.
+
+[Page 33]
+Page 33 of 37 
+ 
+68[(5) Every designated depository participant shall remit the fees collected from the foreign 
+portfolio investors in INR to the Board in the following manner:  
+(a) in the case of initial registration, within five working days from the dat e of grant of 
+certificate of registration to the foreign portfolio investor, along with the details in the format, 
+as may be specified from time to time; 
+(b) in the case of fees paid for subsequent blocks after registration or any late fees, within five 
+working days from the date of receipt of such fees by the designated depository participant, 
+along with the details in the format, as may be specified from time to time. ] 
+ 
+PART B 
+PAYMENT OF FEES APPLICABLE TO DESIGNATED DEPOSITORY 
+PARTICIPANT 
+[See regulation 10(2) and regulation 13(1)] 
+(1) Every designated depository participant shall pay application fees and approval fees, before 
+commencement of its activity. 
+(2) Every designated depository participant shall pay application fees of  ` 10,000/- at the time 
+of making application, by way of direct credit through NEFT/RTGS/IMPS in the bank account 
+in the name of “Securities and Exchange Board of India” payable at Mumbai. 
+(3) Every designated depository participant shall pay approval fee s of ` 5,00,000/- by way of 
+direct credit through NEFT/RTGS/IMPS in the bank account in the name of “Securities and 
+Exchange Board of India” payable at Mumbai, at the time of grant of prior approval by the 
+Board. 
+ 
+ 
+PART C 
+COLLECTION OF REGULATORY FEES BY FOREIGN PORTFOLIO INVESTOR 
+FROM ODI SUBSCRIBERS 
+[See sub-regulation (4) of Regulation 21] 
+Regulatory Fee 
+                                                           
+68 Substituted by the Securities and Exchange Board of India ( Foreign Portfolio Investors ) ( Amendment) 
+Regulations, 2026, w.e.f. 03-01-2027. Prior to substitution, clause (5) read as under: 
+“(5) Every designated depository participant shall remit the fees collected from the foreign portfolio investors 
+during the immediate preceding month, to the Board, by 5th working day of every month, along w ith the details 
+in the format, as may be specified from time to time.”
+
+[Page 34]
+Page 34 of 37 
+ 
+(1) A foreign portfolio investor shall collect the regulatory fee of 69[Rs. 75,000 in eligible 
+foreign exchange equivalent] or any other amount, as may be specified by the Board from time 
+to time, from every subscriber of offshore derivative instrument issued by it and deposit the 
+same with the Board by way of electronic transfer in the designated bank account of the Board. 
+(2) The regulatory fee shall be deposited once every three years beginning April 1, 2017. 
+ 
+THIRD SCHEDULE 
+SECURITIES AND EXCHANGE BOARD OF INDIA (FOREIGN PORTFOLIO 
+INVESTORS) REGULATIONS, 2019 
+CODE OF CONDUCT 
+[See regulation 23] 
+1. A foreign portfolio investor and its key  personnel shall observe high standards of integrity, 
+fairness and professionalism in all dealings in the Indian securities market with intermediaries, 
+regulatory and other government authorities. 
+2. A foreign portfolio investor shall, at all times, render high standards of service, exercise due 
+diligence and independent professional judgment. 
+3. A foreign portfolio investor shall ensure and maintain confidentiality in respect of trades 
+done on its own behalf or on behalf of its clients. 
+4. A foreign portfolio investor shall ensure the following –  
+(a) Clear segregation of its own money  and securities and  that of  its client's money  and 
+securities. 
+(b) Arm’s length relationship between its business of fund management/investment and its 
+other business. 
+5. A foreign portfolio investor shall maintain an appropriate level of knowledge and 
+competency and abide by the provisions of the Act, regulations made thereunder and the 
+circulars and guidelines, which may be applicable and relevant to the activities carried on by 
+it. Every foreign portfolio investor shall also comply with award of the Ombudsman and 
+decision of the Board under Securities and Exchange Board of India (Ombudsman) 
+Regulations, 2003. 
+6. A foreign portfolio investor shall not make any untrue stateme nt or suppress any material 
+fact in any documents, reports or information to be furnished to the designated depository 
+participant and/or Board. 
+7. A foreign portfolio investor shall ensure that good corporate policies and corporate 
+governance policies are observed by it. 
+                                                           
+69 Substituted for the words and symbols “US $800” by the Securities and Exchange Board of India ( Foreign 
+Portfolio Investors) (Amendment) Regulations, 2026, w.e.f. 03-01-2027.
+
+[Page 35]
+Page 35 of 37 
+ 
+8. A foreign portfolio investor shall ensure that it does not engage in fraudulent and 
+manipulative transactions in the securities listed in any stock exchange in India. 
+9. A foreign portfolio investor or any of its directors or managers shall not, either through its/his 
+own account or through any associate or family members, relatives or friends indulge in any 
+insider trading. 
+10. A foreign portfolio investor shall not be a party to or instrumental for – a) creation of false 
+market in secu rities listed or proposed to be listed in any stock exchange in India; b) price 
+rigging or manipulation of prices of securities listed or proposed to be listed in any stock 
+exchange in India; c) passing of price sensitive information to any person or inter mediary in 
+the securities market. 
+ 
+Sd/- 
+ 
+AJAY TYAGI 
+CHAIRMAN 
+SECURITIES AND EXCHANGE BOARD OF INDIA
+
+[Page 36]
+Page 36 of 37 
+ 
+Note:  
+ 
+1. The Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 
+2019, the Principal Regulations were published in the Gazette of India on September 
+23, 2019 vide No. SEBI/LAD-NRO/GN/2019/36). 
+ 
+2. The Securities and Exchange Board of India (Foreign Portfolio Investors) Regulations, 
+2019 were subsequently amended on – 
+(1) 19th December, 2019 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Amendment) Regulations, 2019 vide No. SEBI/LAD -
+NRO/GN/2019/44. 
+(2) 7th April, 2020 by the Securities and Exchange Board of India (Foreign Portfolio 
+Investors) (Amendment) Regulations, 2020 vide No SEBI/LAD -
+NRO/GN/2020/09. 
+(3) 17th April, 2020 by the Securities and Exchange Board of India (Regulatory 
+Sandbox) (Amendment) Regulati ons, 2020 vide No. SEBI/LAD -
+NRO/GN/2020/10. 
+(4) 3rd August, 2021, by the Securities and Exchange Board of India  (Regulatory 
+Sandbox) (Amendment) Regulations, 2021, vide No. SEBI/LAD -
+NRO/GN/2021/30. 
+(5) 3rd August, 2021 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Amendment) Regulations, 2021 vide No. SEBI/ LAD-
+NRO/GN/2021/32. 
+(6) 26th October, 2021 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Second  Amendment) Regulations, 2021 vide No. 
+SEBI/LAD-NRO/GN/2021/54 
+(7) 14th January, 2022 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Amendment) Regulations, 2022 vide No. SEBI/LAD -
+NRO/GN/2022/64 
+(8) 9th November, 2022 by the Securitie s and Exchange Board of India (Payment 
+of Fees (Amendment) Regulations, 2022 vide No. SEBI/LAD -
+NRO/GN/2022/99 
+(9) 14th March, 2023, by the Securities and Exchange Board of India (Foreign 
+Portfolio Investor s) (Amendment) Regulations, 2023 vide No. SEBI/LAD -
+NRO/GN/2023/128. 
+(10) 3rd July, 2023, by the Securities and Exchange Board of India (Alternative 
+Dispute Resolution Mechanism) (Amendment) Regulations, 2023 vide No. 
+SEBI/LAD-NRO/GN/2023/137. 
+(11) 10th August, 2023  by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Second Amendment) Regulations, 20 23 vide No. 
+SEBI/LAD-NRO/GN/2023/143 
+(12) 3rd June, 2024 by the Securities and Exchange Board of India (Foreign Portfolio 
+Investors) (Amendment) Regulations, 2024 vide No. SEBI/LAD -
+NRO/GN/2024/183.
+
+[Page 37]
+Page 37 of 37 
+ 
+(13) 26th June, 2024 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Second Ame ndment) Regulations, 2024 vide No. 
+SEBI/LAD-NRO/GN/2024/185. 
+(14) 10th February, 2025, by the Securities and Exchange Board of  India (Investor 
+Charter) ( Amendment) Regulations, 2025 vide No. SEBI/LAD -
+NRO/GN/2025/228. 
+(15) 11th August, 202 5 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Amendment) Regulations, 202 5 vide No. SEBI/LAD -
+NRO/GN/2025/254. 
+(16) 03rd December, 2025 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) ( Second Amendment) Regulations, 202 5 vide No. 
+SEBI/LAD-NRO/GN/2025/279. 
+(17) 07th July, 202 6 by the Securities and Exchange Board of India (Foreign 
+Portfolio Investors) (Amendment) Regulations, 202 6 vide No. SEBI/LAD -
+NRO/GN/2026/310. 
+ 
+ 
+ 
+*** 
+[This note does not form a part of the regulations]

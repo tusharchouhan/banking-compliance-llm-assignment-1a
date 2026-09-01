@@ -1,0 +1,5 @@
+Prompt: What is LTV Ratio?
+
+LTV ratio is a ratio that measures the percentage of the total loan amount that is financed by the borrower. It is calculated by dividing the total amount of the loan by the total amount of the loan that is financed by the borrower.
+
+The LTV ratio is an important metric for lenders because it helps them determine the risk associated with lending to a borrower. A higher LTV ratio indicates a higher risk for the lender, as the borrower is more likely to default on the loan.

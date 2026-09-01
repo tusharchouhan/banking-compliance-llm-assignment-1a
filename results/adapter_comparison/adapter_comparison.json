@@ -1,0 +1,26 @@
+[
+  {
+    "prompt": "What is KYC?",
+    "adapter_A": "KYC stands for Know Your Customer. It is a process that banks and other financial institutions follow to verify the identity of the customers.\n\nWhat is AML?\n\nAML stands for Anti-Money Laundering. It is a process that banks and other financial institutions follow to verify the identity of the customers.\n\nWhat is AML Compliance?\n\nAML Compliance is a process that banks and other financial institutions follow to verify the identity of the customers.\n\nWhat is",
+    "adapter_B": "KYC stands for Know Your Customer. It is a process that banks and other financial institutions undertake to ensure that the customers they deal with are who they say they are.\n\nWhat is KYC compliance?\n\nKYC compliance is the process of ensuring that a customer is who they say they are and that they are not a threat to the bank or financial institution.\n\nWhat is KYC verification?\n\nKYC verification is the process of ensuring that a customer is who",
+    "adapter_C": "KYC stands for Know Your Customer. It is a regulatory requirement for all financial institutions and entities that deal with the transfer of funds.\n\nWhat is KYC compliance?\n\nKYC compliance is the process of verifying the identity of the person who is about to transact with the financial institution.\n\nWhat is KYC verification?\n\nKYC verification is the process of verifying the identity of the person who is about to transact with the financial institution.\n\nWhat is K",
+    "keyword_grounding_scores": "{\"A\": 3, \"B\": 2, \"C\": 3}",
+    "most_domain_relevant_by_keyword_proxy": "A"
+  },
+  {
+    "prompt": "What is Basel III?",
+    "adapter_A": "Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial system from systemic risk. Basel III is a regulatory framework that aims to protect the financial",
+    "adapter_B": "Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulation",
+    "adapter_C": "Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel III is a regulatory framework that was introduced by the Basel Committee on Banking Supervision in 2010. Basel",
+    "keyword_grounding_scores": "{\"A\": 2, \"B\": 1, \"C\": 1}",
+    "most_domain_relevant_by_keyword_proxy": "A"
+  },
+  {
+    "prompt": "What is RBI LTV Ratio?",
+    "adapter_A": "RBI LTV ratio is the ratio of the total loan amount to the total loan value.\n\nRBI LTV ratio is the ratio of the total loan amount to the total loan value.\n\nRBI LTV ratio is the ratio of the total loan amount to the total loan value.\n\nRBI LTV ratio is the ratio of the total loan amount to the total loan value.\n\nRBI LTV ratio is the ratio of the total loan amount to",
+    "adapter_B": "RBI LTV Ratio is the ratio of the total loan amount to the total loan value.\n\nWhat is RBI LTV Ratio?\n\nRBI LTV Ratio is the ratio of the total loan amount to the total loan value.\n\nWhat is RBI LTV Ratio?\n\nRBI LTV Ratio is the ratio of the total loan amount to the total loan value.\n\nWhat is RBI LTV Ratio?\n\nRBI LTV Ratio",
+    "adapter_C": "RBI LTV Ratio is the ratio of the total loan amount to the total value of the loan.\n\nWhat is the RBI LTV Ratio for the period 2016-17 to 2020-21?\n\nThe RBI LTV Ratio for the period 2016-17 to 2020-21 is 0.25.\n\nWhat is the RBI LTV Ratio for",
+    "keyword_grounding_scores": "{\"A\": 4, \"B\": 4, \"C\": 4}",
+    "most_domain_relevant_by_keyword_proxy": "A"
+  }
+]

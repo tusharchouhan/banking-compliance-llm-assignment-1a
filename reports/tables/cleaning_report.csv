@@ -1,0 +1,7 @@
+step,documents,removed,impact
+input,127,0,baseline
+input,127,0,
+length_filter,125,2,
+repetition_filter,125,0,
+deduplication,123,2,
+english_filter,118,5,greatest

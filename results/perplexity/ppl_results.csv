@@ -1,0 +1,2 @@
+base_model,cpt_model,evaluation_documents,base_ppl,cpt_ppl,percentage_improvement
+HuggingFaceTB/SmolLM2-360M,/content/banking-compliance-llm-assignment-1a/models/cpt_model,12,8.352,7.7244,7.51

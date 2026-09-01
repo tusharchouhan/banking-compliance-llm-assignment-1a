@@ -1,0 +1,8 @@
+{
+  "total_pairs": 179824,
+  "train_pairs": 143859,
+  "eval_pairs": 35965,
+  "train_fraction": 0.7999988878014058,
+  "seed": 42,
+  "generation_method": "deterministic heuristic sentence grounding"
+}
