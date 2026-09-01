@@ -1,5 +1,12 @@
 # Banking & Compliance Domain LLM — Assignment 1A
 
+Tushar Chouhan	2025cs05043
+Kelli L Prasanna Kumar	2025cs05010
+Jyoti Chugh	2025cs05045
+Madhan M	2025cs05047
+
+Raw PDF Location - https://drive.google.com/drive/folders/1l9pcE_NOCMpHxio1ZnAD94j9cWwxNY0j?usp=sharing
+
 This repository implements Assignment 1A for Enterprise Variant V3, Banking/FinTech/Insurance Regulatory Compliance. It uses `HuggingFaceTB/SmolLM2-360M` and is designed for a Google Colab T4 (16 GB VRAM). The assignment documents in `Assignment Documentation/` are the requirements source of truth.
 
 ## Objective
