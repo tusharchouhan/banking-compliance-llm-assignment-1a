@@ -1,6 +1,7 @@
 # Banking & Compliance Domain LLM — Assignment 1A
-<ul>
-<li></li>Tushar Chouhan	2025cs05043
+## Group 14
+<ul> 
+<li>Tushar Chouhan	2025cs05043
 <li>Kelli L Prasanna Kumar	2025cs05010
 <li>Jyoti Chugh	2025cs05045
 <li>Madhan M	2025cs05047
